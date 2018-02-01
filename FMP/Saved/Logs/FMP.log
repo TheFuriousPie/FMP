@@ -624,3 +624,736 @@ LogInit: Object subsystem initialized
 [2018.02.01-09.12.45:081][  2]LogAssetRegistry: Asset discovery search completed in 45.3421 seconds
 [2018.02.01-09.12.45:082][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
 [2018.02.01-09.12.45:082][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000059 seconds (updated 0 objects)
+[2018.02.01-09.24.10:435][204]LogSlate: Took 0.000139 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.01-09.24.12:692][204]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level" FILE="../../../../../../james-martin/Documents/GitHub/FMP/FMP/Content/Maps/Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.02.01-09.24.12:709][204]LogSavePackage: Save=5.53ms
+[2018.02.01-09.24.12:709][204]LogSavePackage: Moving '../../../../../../james-martin/Documents/GitHub/FMP/FMP/Saved/LevelDB31B6FD4767D43D94189FAE2DE257C8.tmp' to '../../../../../../james-martin/Documents/GitHub/FMP/FMP/Content/Maps/Level.umap'
+[2018.02.01-09.24.12:711][204]LogSavePackage: Display: Finished SavePackage ../../../../../../james-martin/Documents/GitHub/FMP/FMP/Content/Maps/Level.umap
+[2018.02.01-09.24.12:717][204]LogFileHelpers: Saving map 'Level' took 0.102
+[2018.02.01-09.24.12:739][204]Cmd: MAP LOAD FILE="../../../../../../james-martin/Documents/GitHub/FMP/FMP/Content/Maps/Level.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.02.01-09.24.12:739][204]LightingResults: New page: Lighting Build
+[2018.02.01-09.24.12:740][204]LoadErrors: New page: Loading map: Level.umap
+[2018.02.01-09.24.12:757][204]MapCheck: New page: Map Check
+[2018.02.01-09.24.12:757][204]LightingResults: New page: Lighting Build
+[2018.02.01-09.24.12:770][204]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.02.01-09.24.12:770][204]LogAIModule: Creating AISystem for world Level
+[2018.02.01-09.24.12:781][204]LogSlate: Took 0.000142 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.02.01-09.24.12:793][204]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.02.01-09.24.12:846][204]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 52.923ms to complete.
+[2018.02.01-09.24.12:847][204]LogFileHelpers: Loading map 'Level' took 0.128
+[2018.02.01-09.25.09:034][450]LogActorFactory: Actor Factory created Cube
+[2018.02.01-09.25.09:456][499]LogActorFactory: Actor Factory created Cube
+[2018.02.01-09.25.38:985][634]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.02.01-09.25.39:020][634]Cmd: DELETE
+[2018.02.01-09.25.39:020][634]Cmd: ACTOR DELETE
+[2018.02.01-09.25.39:242][634]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.02.01-09.25.39:252][634]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2018.02.01-09.25.41:664][887]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2018.02.01-09.26.18:577][105]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.02.01-09.27.22:583][492]LogLinker: Warning: Can't find file '/Game/PlayerCharacter'
+[2018.02.01-09.27.22:583][492]LogLinker: Warning: Can't find file '/Game/PlayerCharacter'
+[2018.02.01-09.27.22:590][492]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/PlayerCharacter.PlayerCharacter'
+[2018.02.01-09.28.04:917][787]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 116 classes and 0 folders.
+[2018.02.01-09.28.07:385][965]LogSlate: Took 0.000179 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.02.01-09.28.08:130][  6]LogRenderer: Reallocating scene render targets to support 952x568 Format 10 NumSamples 1 (Frame:211).
+[2018.02.01-09.28.26:920][ 63]LogSlate: Took 0.000213 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.02.01-09.28.43:275][285]LogLinker: Can't find file '/Game/UI/HUD'
+[2018.02.01-09.28.43:276][285]LogLinker: Can't find file '/Game/UI/HUD'
+[2018.02.01-09.28.43:288][285]LogLinker: Can't find file '/Game/Assets/Bullets/Projectile'
+[2018.02.01-09.28.43:288][285]LogLinker: Can't find file '/Game/Assets/Bullets/Projectile'
+[2018.02.01-09.28.43:292][285]LogBlueprint: Warning: [Character] 'RunSpeed' variable not found. Base class was probably changed. /Game/Characters/Character.Character
+[2018.02.01-09.28.43:293][285]LogBlueprint: Warning: [Character] 'WalkSpeed' variable not found. Base class was probably changed. /Game/Characters/Character.Character
+[2018.02.01-09.28.43:293][285]LogBlueprint: Warning: [Character] 'My HUD' variable not found. Base class was probably changed. /Game/Characters/Character.Character
+[2018.02.01-09.28.43:293][285]LogBlueprint: Warning: [Character] 'My HUD' variable not found. Base class was probably changed. /Game/Characters/Character.Character
+[2018.02.01-09.28.43:293][285]LogBlueprint: Warning: [Character] 'Health' variable not found. Base class was probably changed. /Game/Characters/Character.Character
+[2018.02.01-09.28.43:293][285]LogBlueprint: Warning: [Character] 'Health' variable not found. Base class was probably changed. /Game/Characters/Character.Character
+[2018.02.01-09.28.43:293][285]LogBlueprint: Warning: [Character] 'Health' variable not found. Base class was probably changed. /Game/Characters/Character.Character
+[2018.02.01-09.28.43:293][285]LogBlueprint: Warning: [Character] 'Energy' variable not found. Base class was probably changed. /Game/Characters/Character.Character
+[2018.02.01-09.28.43:293][285]LogBlueprint: Warning: [Character] 'Energy' variable not found. Base class was probably changed. /Game/Characters/Character.Character
+[2018.02.01-09.28.43:293][285]LogBlueprint: Warning: [Character] 'Energy' variable not found. Base class was probably changed. /Game/Characters/Character.Character
+[2018.02.01-09.28.43:293][285]LogBlueprint: Warning: [Character] 'Ammo' variable not found. Base class was probably changed. /Game/Characters/Character.Character
+[2018.02.01-09.28.43:293][285]LogBlueprint: Warning: [Character] 'Ammo' variable not found. Base class was probably changed. /Game/Characters/Character.Character
+[2018.02.01-09.28.43:293][285]LogBlueprint: Warning: [Character] 'Ammo' variable not found. Base class was probably changed. /Game/Characters/Character.Character
+[2018.02.01-09.28.43:294][285]LogBlueprint: Warning: [Character] 'Ammo' variable not found. Base class was probably changed. /Game/Characters/Character.Character
+[2018.02.01-09.28.43:294][285]LogBlueprint: Warning: [Character] 'Ammo' variable not found. Base class was probably changed. /Game/Characters/Character.Character
+[2018.02.01-09.28.43:294][285]LogBlueprint: Warning: [Character] 'Camera' variable not found. Base class was probably changed. /Game/Characters/Character.Character
+[2018.02.01-09.28.43:295][285]LogBlueprint: Warning: [Character] 'Camera' variable not found. Base class was probably changed. /Game/Characters/Character.Character
+[2018.02.01-09.28.43:295][285]LogBlueprint: Warning: [Character] 'Ammo' variable not found. Base class was probably changed. /Game/Characters/Character.Character
+[2018.02.01-09.28.43:295][285]LogBlueprint: Warning: [Character] 'Ammo' variable not found. Base class was probably changed. /Game/Characters/Character.Character
+[2018.02.01-09.32.19:641][ 89]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.FMP
+[2018.02.01-09.32.19:641][ 89]LogTemp: CWD: C:\Users\jacob-thorne\Documents\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.02.01-09.32.19:641][ 89]LogTemp: Initial Dir: C:\Users\jacob-thorne\Documents\UE_4.18
+[2018.02.01-09.32.19:641][ 89]LogTemp: Env CWD: C:\Users\jacob-thorne\Documents\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.02.01-09.32.19:641][ 89]LogTemp: BranchPath = RM9PC10/C/Users/jacob-thorne/Documents/UE_4.18/Engine/Binaries --- GameBranchPath = RM9PC10/C/Users/jacob-thorne/Documents/UE_4.18/Engine/Binaries
+[2018.02.01-09.32.19:641][ 89]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\james-martin\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.02.01-09.32.19:641][ 89]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.02.01-09.34.08:474][  1]LogSlate: Took 0.000182 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.01-09.34.17:518][ 53]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level" FILE="../../../../../../james-martin/Documents/GitHub/FMP/FMP/Saved/Autosaves/Game/Maps/Level_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.02.01-09.34.17:800][ 53]LogSavePackage: Save=278.44ms
+[2018.02.01-09.34.17:800][ 53]LogSavePackage: Moving '../../../../../../james-martin/Documents/GitHub/FMP/FMP/Saved/Level_Auto1263531B54A2B82AE3966C6A08D9ACAB1.tmp' to '../../../../../../james-martin/Documents/GitHub/FMP/FMP/Saved/Autosaves/Game/Maps/Level_Auto1.umap'
+[2018.02.01-09.34.17:801][ 53]LogSavePackage: Display: Finished SavePackage ../../../../../../james-martin/Documents/GitHub/FMP/FMP/Saved/Autosaves/Game/Maps/Level_Auto1.umap
+[2018.02.01-09.34.17:802][ 53]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level' took 0.520
+[2018.02.01-09.34.17:802][ 53]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.520
+[2018.02.01-09.34.18:121][ 53]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Character] ([1] browsable assets)...
+[2018.02.01-09.34.18:121][ 53]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Character]
+[2018.02.01-09.34.18:121][ 53]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Character" FILE="../../../../../../james-martin/Documents/GitHub/FMP/FMP/Saved/Autosaves/Game/Characters/Character_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.02.01-09.34.18:488][ 53]LogSavePackage: Save=366.25ms
+[2018.02.01-09.34.18:488][ 53]LogSavePackage: Moving '../../../../../../james-martin/Documents/GitHub/FMP/FMP/Saved/Character_Auto149A7FE764F4C7FC017FDD9AE1735B412.tmp' to '../../../../../../james-martin/Documents/GitHub/FMP/FMP/Saved/Autosaves/Game/Characters/Character_Auto1.uasset'
+[2018.02.01-09.34.18:490][ 53]LogSavePackage: Display: Finished SavePackage ../../../../../../james-martin/Documents/GitHub/FMP/FMP/Saved/Autosaves/Game/Characters/Character_Auto1.uasset
+[2018.02.01-09.34.18:490][ 53]LogFileHelpers: Auto-saving content packages took 0.687
+[2018.02.01-09.43.09:706][704]BlueprintLog: New page: Compile Character
+[2018.02.01-09.43.09:759][704]LogBlueprint: Error: [Compiler Character] Spawn node  SpawnActor NONE  must have a  Class  specified.
+[2018.02.01-09.43.09:762][704]LogBlueprint: Error: [Compiler Character] Spawn node  Create Widget  must have a class specified.
+[2018.02.01-09.43.09:763][704]LogBlueprint: Warning: [Compiler Character] Could not find a variable named "Ammo" in 'Character_C'.
+Make sure 'Character_C' has been compiled for  Set Ammo
+[2018.02.01-09.43.09:763][704]LogBlueprint: Warning: [Compiler Character] Could not find a variable named "Camera" in 'Character_C'.
+Make sure 'Character_C' has been compiled for  Get Camera
+[2018.02.01-09.43.09:763][704]LogBlueprint: Warning: [Compiler Character] Input pin  Instigator  specifying non-default value no longer exists on node  SpawnActor NONE . Please refresh node or reset pin to default value to remove pin.
+[2018.02.01-09.43.09:763][704]LogBlueprint: Warning: [Compiler Character] Input Axis Event references unknown Axis 'Move Forward/Backwards' for  InputAxis Move Forward/Backwards
+[2018.02.01-09.43.09:764][704]LogBlueprint: Warning: [Compiler Character] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2018.02.01-09.43.09:764][704]LogBlueprint: Warning: [Compiler Character] InputAction Event references unknown Action 'Sprint' for  InputAction Sprint
+[2018.02.01-09.43.09:764][704]LogBlueprint: Warning: [Compiler Character] Input Axis Event references unknown Axis 'Move Right/Left' for  InputAxis Move Right/Left
+[2018.02.01-09.43.09:764][704]LogBlueprint: Warning: [Compiler Character] Could not find a variable named "Ammo" in 'Character_C'.
+Make sure 'Character_C' has been compiled for  Get Ammo
+[2018.02.01-09.43.09:764][704]LogBlueprint: Warning: [Compiler Character] InputAction Event references unknown Action 'Shooting' for  InputAction Shooting
+[2018.02.01-09.43.09:764][704]LogBlueprint: Warning: [Compiler Character] Could not find a variable named "Ammo" in 'Character_C'.
+Make sure 'Character_C' has been compiled for  Get Ammo
+[2018.02.01-09.43.09:764][704]LogBlueprint: Warning: [Compiler Character] Could not find a variable named "Ammo" in 'Character_C'.
+Make sure 'Character_C' has been compiled for  Set Ammo
+[2018.02.01-09.43.09:765][704]LogBlueprint: Warning: [Compiler Character] Could not find a variable named "Ammo" in 'Character_C'.
+Make sure 'Character_C' has been compiled for  Get Ammo
+[2018.02.01-09.43.09:765][704]LogBlueprint: Warning: [Compiler Character] Could not find a variable named "Energy" in 'Character_C'.
+Make sure 'Character_C' has been compiled for  Set Energy
+[2018.02.01-09.43.09:765][704]LogBlueprint: Warning: [Compiler Character] Could not find a variable named "Energy" in 'Character_C'.
+Make sure 'Character_C' has been compiled for  Get Energy
+[2018.02.01-09.43.09:765][704]LogBlueprint: Warning: [Compiler Character] Could not find a variable named "Health" in 'Character_C'.
+Make sure 'Character_C' has been compiled for  Set Health
+[2018.02.01-09.43.09:765][704]LogBlueprint: Warning: [Compiler Character] Could not find a variable named "Health" in 'Character_C'.
+Make sure 'Character_C' has been compiled for  Get Health
+[2018.02.01-09.43.09:765][704]LogBlueprint: Warning: [Compiler Character] Could not find a variable named "My HUD" in 'Character_C'.
+Make sure 'Character_C' has been compiled for  Set My HUD
+[2018.02.01-09.43.09:765][704]LogBlueprint: Warning: [Compiler Character] Could not find a variable named "RunSpeed" in 'Character_C'.
+Make sure 'Character_C' has been compiled for  Get RunSpeed
+[2018.02.01-09.43.09:765][704]LogBlueprint: Error: [Compiler Character] In use pin  Return Value  no longer exists on node  Create Widget . Please refresh node or break links to remove pin.
+[2018.02.01-09.43.09:765][704]LogBlueprint: Warning: [Compiler Character] Could not find a variable named "WalkSpeed" in 'Character_C'.
+Make sure 'Character_C' has been compiled for  Get WalkSpeed
+[2018.02.01-09.43.09:768][704]LogBlueprint: Error: [Compiler Character] The property associated with  Ammo  could not be found
+[2018.02.01-09.43.09:768][704]LogBlueprint: Error: [Compiler Character] The property associated with  Health  could not be found
+[2018.02.01-09.43.09:768][704]LogBlueprint: Error: [Compiler Character] The property associated with  Energy  could not be found
+[2018.02.01-09.43.09:768][704]LogBlueprint: Error: [Compiler Character] The property associated with  Health  could not be found
+[2018.02.01-09.43.09:769][704]LogBlueprint: Error: [Compiler Character] The property associated with  Energy  could not be found
+[2018.02.01-09.43.09:769][704]LogBlueprint: Error: [Compiler Character] The property associated with  Ammo  could not be found
+[2018.02.01-09.43.09:769][704]LogBlueprint: Error: [Compiler Character] The property associated with  Ammo  could not be found
+[2018.02.01-09.43.09:769][704]LogBlueprint: Error: [Compiler Character] The property associated with  Ammo  could not be found
+[2018.02.01-09.43.09:769][704]LogBlueprint: Error: [Compiler Character] The property associated with  Ammo  could not be found
+[2018.02.01-09.43.09:769][704]LogBlueprint: Error: [Compiler Character] The property associated with  Run Speed  could not be found
+[2018.02.01-09.43.09:769][704]LogBlueprint: Error: [Compiler Character] The property associated with  Walk Speed  could not be found
+[2018.02.01-09.43.10:213][704]LogBlueprint: Warning: [Compiler Character] [1877.98] Compile of Character failed. 14 Fatal Issue(s) 19 Warning(s) [in 507 ms] (/Game/Characters/Character.Character)
+[2018.02.01-09.44.19:965][617]LogSlate: Took 0.045735 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.02.01-09.45.33:126][686]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level' took 0.038
+[2018.02.01-09.45.33:128][686]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Character] ([1] browsable assets)...
+[2018.02.01-09.45.33:128][686]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Character]
+[2018.02.01-09.45.33:128][686]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Character" FILE="../../../../../../james-martin/Documents/GitHub/FMP/FMP/Saved/Autosaves/Game/Characters/Character_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2018.02.01-09.45.33:271][686]LogSavePackage: Save=141.53ms
+[2018.02.01-09.45.33:272][686]LogSavePackage: Moving '../../../../../../james-martin/Documents/GitHub/FMP/FMP/Saved/Character_Auto24FFD0FD9467E493BBA29048AF0F52792.tmp' to '../../../../../../james-martin/Documents/GitHub/FMP/FMP/Saved/Autosaves/Game/Characters/Character_Auto2.uasset'
+[2018.02.01-09.45.33:274][686]LogSavePackage: Display: Finished SavePackage ../../../../../../james-martin/Documents/GitHub/FMP/FMP/Saved/Autosaves/Game/Characters/Character_Auto2.uasset
+[2018.02.01-09.45.33:274][686]LogFileHelpers: Auto-saving content packages took 0.147
+[2018.02.01-09.46.03:465][216]BlueprintLog: New page: Compile Character
+[2018.02.01-09.46.03:509][216]LogBlueprint: Error: [Compiler Character] Spawn node  SpawnActor NONE  must have a  Class  specified.
+[2018.02.01-09.46.03:513][216]LogBlueprint: Error: [Compiler Character] Spawn node  Create Widget  must have a class specified.
+[2018.02.01-09.46.03:513][216]LogBlueprint: Warning: [Compiler Character] Could not find a variable named "Ammo" in 'Character_C'.
+Make sure 'Character_C' has been compiled for  Set Ammo
+[2018.02.01-09.46.03:514][216]LogBlueprint: Warning: [Compiler Character] Could not find a variable named "Camera" in 'Character_C'.
+Make sure 'Character_C' has been compiled for  Get Camera
+[2018.02.01-09.46.03:514][216]LogBlueprint: Warning: [Compiler Character] Input pin  Instigator  specifying non-default value no longer exists on node  SpawnActor NONE . Please refresh node or reset pin to default value to remove pin.
+[2018.02.01-09.46.03:514][216]LogBlueprint: Warning: [Compiler Character] Input Axis Event references unknown Axis 'Move Forward/Backwards' for  InputAxis Move Forward/Backwards
+[2018.02.01-09.46.03:515][216]LogBlueprint: Warning: [Compiler Character] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2018.02.01-09.46.03:515][216]LogBlueprint: Warning: [Compiler Character] InputAction Event references unknown Action 'Sprint' for  InputAction Sprint
+[2018.02.01-09.46.03:515][216]LogBlueprint: Warning: [Compiler Character] Input Axis Event references unknown Axis 'Move Right/Left' for  InputAxis Move Right/Left
+[2018.02.01-09.46.03:515][216]LogBlueprint: Warning: [Compiler Character] Could not find a variable named "Ammo" in 'Character_C'.
+Make sure 'Character_C' has been compiled for  Get Ammo
+[2018.02.01-09.46.03:515][216]LogBlueprint: Warning: [Compiler Character] InputAction Event references unknown Action 'Shooting' for  InputAction Shooting
+[2018.02.01-09.46.03:516][216]LogBlueprint: Warning: [Compiler Character] Could not find a variable named "Ammo" in 'Character_C'.
+Make sure 'Character_C' has been compiled for  Get Ammo
+[2018.02.01-09.46.03:516][216]LogBlueprint: Warning: [Compiler Character] Could not find a variable named "Ammo" in 'Character_C'.
+Make sure 'Character_C' has been compiled for  Set Ammo
+[2018.02.01-09.46.03:516][216]LogBlueprint: Warning: [Compiler Character] Could not find a variable named "Ammo" in 'Character_C'.
+Make sure 'Character_C' has been compiled for  Get Ammo
+[2018.02.01-09.46.03:516][216]LogBlueprint: Warning: [Compiler Character] Could not find a variable named "My HUD" in 'Character_C'.
+Make sure 'Character_C' has been compiled for  Set My HUD
+[2018.02.01-09.46.03:516][216]LogBlueprint: Error: [Compiler Character] In use pin  Return Value  no longer exists on node  Create Widget . Please refresh node or break links to remove pin.
+[2018.02.01-09.46.03:521][216]LogBlueprint: Error: [Compiler Character] The property associated with  Ammo  could not be found
+[2018.02.01-09.46.03:521][216]LogBlueprint: Error: [Compiler Character] The property associated with  Ammo  could not be found
+[2018.02.01-09.46.03:521][216]LogBlueprint: Error: [Compiler Character] The property associated with  Ammo  could not be found
+[2018.02.01-09.46.03:521][216]LogBlueprint: Error: [Compiler Character] The property associated with  Ammo  could not be found
+[2018.02.01-09.46.03:521][216]LogBlueprint: Error: [Compiler Character] The property associated with  Ammo  could not be found
+[2018.02.01-09.46.03:701][216]LogBlueprint: Warning: [Compiler Character] [2051.47] Compile of Character failed. 8 Fatal Issue(s) 13 Warning(s) [in 235 ms] (/Game/Characters/Character.Character)
+[2018.02.01-09.46.43:758][915]BlueprintLog: New page: Compile Character
+[2018.02.01-09.46.43:809][915]LogBlueprint: Error: [Compiler Character] Spawn node  Create Widget  must have a class specified.
+[2018.02.01-09.46.43:811][915]LogBlueprint: Warning: [Compiler Character] Could not find a variable named "Ammo" in 'Character_C'.
+Make sure 'Character_C' has been compiled for  Set Ammo
+[2018.02.01-09.46.43:812][915]LogBlueprint: Warning: [Compiler Character] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2018.02.01-09.46.43:812][915]LogBlueprint: Warning: [Compiler Character] InputAction Event references unknown Action 'Sprint' for  InputAction Sprint
+[2018.02.01-09.46.43:812][915]LogBlueprint: Warning: [Compiler Character] Input Axis Event references unknown Axis 'Move Forward/Backwards' for  InputAxis Move Forward/Backwards
+[2018.02.01-09.46.43:812][915]LogBlueprint: Warning: [Compiler Character] Input Axis Event references unknown Axis 'Move Right/Left' for  InputAxis Move Right/Left
+[2018.02.01-09.46.43:813][915]LogBlueprint: Error: [Compiler Character] In use pin  Return Value  no longer exists on node  Create Widget . Please refresh node or break links to remove pin.
+[2018.02.01-09.46.43:813][915]LogBlueprint: Warning: [Compiler Character] Could not find a variable named "My HUD" in 'Character_C'.
+Make sure 'Character_C' has been compiled for  Set My HUD
+[2018.02.01-09.46.43:813][915]LogBlueprint: Warning: [Compiler Character] InputAction Event references unknown Action 'Shooting' for  InputAction Shooting
+[2018.02.01-09.46.43:813][915]LogBlueprint: Warning: [Compiler Character] Could not find a variable named "Ammo" in 'Character_C'.
+Make sure 'Character_C' has been compiled for  Get Ammo
+[2018.02.01-09.46.43:813][915]LogBlueprint: Warning: [Compiler Character] Could not find a variable named "Ammo" in 'Character_C'.
+Make sure 'Character_C' has been compiled for  Set Ammo
+[2018.02.01-09.46.43:813][915]LogBlueprint: Warning: [Compiler Character] Could not find a variable named "Ammo" in 'Character_C'.
+Make sure 'Character_C' has been compiled for  Get Ammo
+[2018.02.01-09.46.43:817][915]LogBlueprint: Error: [Compiler Character] The property associated with  Ammo  could not be found
+[2018.02.01-09.46.43:817][915]LogBlueprint: Error: [Compiler Character] The property associated with  Ammo  could not be found
+[2018.02.01-09.46.43:817][915]LogBlueprint: Error: [Compiler Character] The property associated with  Ammo  could not be found
+[2018.02.01-09.46.43:817][915]LogBlueprint: Error: [Compiler Character] The property associated with  Ammo  could not be found
+[2018.02.01-09.46.44:003][915]LogBlueprint: Warning: [Compiler Character] [2091.77] Compile of Character failed. 6 Fatal Issue(s) 10 Warning(s) [in 244 ms] (/Game/Characters/Character.Character)
+[2018.02.01-09.47.44:022][ 27]BlueprintLog: New page: Compile Character
+[2018.02.01-09.47.44:068][ 27]LogBlueprint: Error: [Compiler Character] Spawn node  Create Widget  must have a class specified.
+[2018.02.01-09.47.44:070][ 27]LogBlueprint: Warning: [Compiler Character] Could not find a variable named "Ammo" in 'Character_C'.
+Make sure 'Character_C' has been compiled for  Set Ammo
+[2018.02.01-09.47.44:071][ 27]LogBlueprint: Warning: [Compiler Character] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2018.02.01-09.47.44:071][ 27]LogBlueprint: Warning: [Compiler Character] InputAction Event references unknown Action 'Sprint' for  InputAction Sprint
+[2018.02.01-09.47.44:071][ 27]LogBlueprint: Warning: [Compiler Character] Input Axis Event references unknown Axis 'Move Forward/Backwards' for  InputAxis Move Forward/Backwards
+[2018.02.01-09.47.44:071][ 27]LogBlueprint: Warning: [Compiler Character] Input Axis Event references unknown Axis 'Move Right/Left' for  InputAxis Move Right/Left
+[2018.02.01-09.47.44:071][ 27]LogBlueprint: Error: [Compiler Character] In use pin  Return Value  no longer exists on node  Create Widget . Please refresh node or break links to remove pin.
+[2018.02.01-09.47.44:072][ 27]LogBlueprint: Warning: [Compiler Character] Could not find a variable named "My HUD" in 'Character_C'.
+Make sure 'Character_C' has been compiled for  Set My HUD
+[2018.02.01-09.47.44:072][ 27]LogBlueprint: Warning: [Compiler Character] InputAction Event references unknown Action 'Shooting' for  InputAction Shooting
+[2018.02.01-09.47.44:072][ 27]LogBlueprint: Warning: [Compiler Character] Could not find a variable named "Ammo" in 'Character_C'.
+Make sure 'Character_C' has been compiled for  Get Ammo
+[2018.02.01-09.47.44:072][ 27]LogBlueprint: Warning: [Compiler Character] Could not find a variable named "Ammo" in 'Character_C'.
+Make sure 'Character_C' has been compiled for  Set Ammo
+[2018.02.01-09.47.44:072][ 27]LogBlueprint: Warning: [Compiler Character] Could not find a variable named "Ammo" in 'Character_C'.
+Make sure 'Character_C' has been compiled for  Get Ammo
+[2018.02.01-09.47.44:075][ 27]LogBlueprint: Error: [Compiler Character] The property associated with  Ammo  could not be found
+[2018.02.01-09.47.44:075][ 27]LogBlueprint: Error: [Compiler Character] The property associated with  Ammo  could not be found
+[2018.02.01-09.47.44:075][ 27]LogBlueprint: Error: [Compiler Character] The property associated with  Ammo  could not be found
+[2018.02.01-09.47.44:075][ 27]LogBlueprint: Error: [Compiler Character] The property associated with  Ammo  could not be found
+[2018.02.01-09.47.44:262][ 27]LogBlueprint: Warning: [Compiler Character] [2152.03] Compile of Character failed. 6 Fatal Issue(s) 10 Warning(s) [in 240 ms] (/Game/Characters/Character.Character)
+[2018.02.01-09.49.37:988][510]BlueprintLog: New page: Compile Character
+[2018.02.01-09.49.38:041][510]LogBlueprint: Error: [Compiler Character] Spawn node  Create Widget  must have a class specified.
+[2018.02.01-09.49.38:042][510]LogBlueprint: Warning: [Compiler Character] Could not find a variable named "Ammo" in 'Character_C'.
+Make sure 'Character_C' has been compiled for  Set Ammo
+[2018.02.01-09.49.38:043][510]LogBlueprint: Warning: [Compiler Character] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2018.02.01-09.49.38:043][510]LogBlueprint: Warning: [Compiler Character] InputAction Event references unknown Action 'Sprint' for  InputAction Sprint
+[2018.02.01-09.49.38:043][510]LogBlueprint: Warning: [Compiler Character] Input Axis Event references unknown Axis 'Move Forward/Backwards' for  InputAxis Move Forward/Backwards
+[2018.02.01-09.49.38:043][510]LogBlueprint: Warning: [Compiler Character] Input Axis Event references unknown Axis 'Move Right/Left' for  InputAxis Move Right/Left
+[2018.02.01-09.49.38:044][510]LogBlueprint: Error: [Compiler Character] In use pin  Return Value  no longer exists on node  Create Widget . Please refresh node or break links to remove pin.
+[2018.02.01-09.49.38:044][510]LogBlueprint: Warning: [Compiler Character] Could not find a variable named "My HUD" in 'Character_C'.
+Make sure 'Character_C' has been compiled for  Set My HUD
+[2018.02.01-09.49.38:044][510]LogBlueprint: Warning: [Compiler Character] InputAction Event references unknown Action 'Shooting' for  InputAction Shooting
+[2018.02.01-09.49.38:044][510]LogBlueprint: Warning: [Compiler Character] Could not find a variable named "Ammo" in 'Character_C'.
+Make sure 'Character_C' has been compiled for  Get Ammo
+[2018.02.01-09.49.38:044][510]LogBlueprint: Warning: [Compiler Character] Could not find a variable named "Ammo" in 'Character_C'.
+Make sure 'Character_C' has been compiled for  Set Ammo
+[2018.02.01-09.49.38:044][510]LogBlueprint: Warning: [Compiler Character] Could not find a variable named "Ammo" in 'Character_C'.
+Make sure 'Character_C' has been compiled for  Get Ammo
+[2018.02.01-09.49.38:047][510]LogBlueprint: Error: [Compiler Character] The property associated with  Ammo  could not be found
+[2018.02.01-09.49.38:047][510]LogBlueprint: Error: [Compiler Character] The property associated with  Ammo  could not be found
+[2018.02.01-09.49.38:047][510]LogBlueprint: Error: [Compiler Character] The property associated with  Ammo  could not be found
+[2018.02.01-09.49.38:047][510]LogBlueprint: Error: [Compiler Character] The property associated with  Ammo  could not be found
+[2018.02.01-09.49.38:257][510]LogBlueprint: Warning: [Compiler Character] [2266.02] Compile of Character failed. 6 Fatal Issue(s) 10 Warning(s) [in 268 ms] (/Game/Characters/Character.Character)
+[2018.02.01-09.49.48:074][684]BlueprintLog: New page: Compile Character
+[2018.02.01-09.49.48:126][684]LogBlueprint: Error: [Compiler Character] Spawn node  Create Widget  must have a class specified.
+[2018.02.01-09.49.48:127][684]LogBlueprint: Warning: [Compiler Character] Could not find a variable named "Ammo" in 'Character_C'.
+Make sure 'Character_C' has been compiled for  Set Ammo
+[2018.02.01-09.49.48:128][684]LogBlueprint: Warning: [Compiler Character] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2018.02.01-09.49.48:128][684]LogBlueprint: Warning: [Compiler Character] InputAction Event references unknown Action 'Sprint' for  InputAction Sprint
+[2018.02.01-09.49.48:128][684]LogBlueprint: Warning: [Compiler Character] Input Axis Event references unknown Axis 'Move Forward/Backwards' for  InputAxis Move Forward/Backwards
+[2018.02.01-09.49.48:128][684]LogBlueprint: Warning: [Compiler Character] Input Axis Event references unknown Axis 'Move Right/Left' for  InputAxis Move Right/Left
+[2018.02.01-09.49.48:128][684]LogBlueprint: Error: [Compiler Character] In use pin  Return Value  no longer exists on node  Create Widget . Please refresh node or break links to remove pin.
+[2018.02.01-09.49.48:129][684]LogBlueprint: Warning: [Compiler Character] Could not find a variable named "My HUD" in 'Character_C'.
+Make sure 'Character_C' has been compiled for  Set My HUD
+[2018.02.01-09.49.48:129][684]LogBlueprint: Warning: [Compiler Character] InputAction Event references unknown Action 'Shooting' for  InputAction Shooting
+[2018.02.01-09.49.48:129][684]LogBlueprint: Warning: [Compiler Character] Could not find a variable named "Ammo" in 'Character_C'.
+Make sure 'Character_C' has been compiled for  Get Ammo
+[2018.02.01-09.49.48:129][684]LogBlueprint: Warning: [Compiler Character] Could not find a variable named "Ammo" in 'Character_C'.
+Make sure 'Character_C' has been compiled for  Set Ammo
+[2018.02.01-09.49.48:129][684]LogBlueprint: Warning: [Compiler Character] Could not find a variable named "Ammo" in 'Character_C'.
+Make sure 'Character_C' has been compiled for  Get Ammo
+[2018.02.01-09.49.48:132][684]LogBlueprint: Error: [Compiler Character] The property associated with  Ammo  could not be found
+[2018.02.01-09.49.48:132][684]LogBlueprint: Error: [Compiler Character] The property associated with  Ammo  could not be found
+[2018.02.01-09.49.48:132][684]LogBlueprint: Error: [Compiler Character] The property associated with  Ammo  could not be found
+[2018.02.01-09.49.48:132][684]LogBlueprint: Error: [Compiler Character] The property associated with  Ammo  could not be found
+[2018.02.01-09.49.48:314][684]LogBlueprint: Warning: [Compiler Character] [2276.08] Compile of Character failed. 6 Fatal Issue(s) 10 Warning(s) [in 240 ms] (/Game/Characters/Character.Character)
+[2018.02.01-09.50.14:804][763]BlueprintLog: New page: Compile Character
+[2018.02.01-09.50.14:849][763]LogBlueprint: Error: [Compiler Character] Spawn node  Create Widget  must have a class specified.
+[2018.02.01-09.50.14:850][763]LogBlueprint: Warning: [Compiler Character] Input Axis Event references unknown Axis 'Forward/Backwards' for  InputAxis Forward/Backwards
+[2018.02.01-09.50.14:850][763]LogBlueprint: Warning: [Compiler Character] Could not find a variable named "Ammo" in 'Character_C'.
+Make sure 'Character_C' has been compiled for  Set Ammo
+[2018.02.01-09.50.14:851][763]LogBlueprint: Warning: [Compiler Character] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2018.02.01-09.50.14:851][763]LogBlueprint: Warning: [Compiler Character] InputAction Event references unknown Action 'Sprint' for  InputAction Sprint
+[2018.02.01-09.50.14:851][763]LogBlueprint: Warning: [Compiler Character] Input Axis Event references unknown Axis 'Move Right/Left' for  InputAxis Move Right/Left
+[2018.02.01-09.50.14:852][763]LogBlueprint: Error: [Compiler Character] In use pin  Return Value  no longer exists on node  Create Widget . Please refresh node or break links to remove pin.
+[2018.02.01-09.50.14:852][763]LogBlueprint: Warning: [Compiler Character] Could not find a variable named "My HUD" in 'Character_C'.
+Make sure 'Character_C' has been compiled for  Set My HUD
+[2018.02.01-09.50.14:852][763]LogBlueprint: Warning: [Compiler Character] InputAction Event references unknown Action 'Shooting' for  InputAction Shooting
+[2018.02.01-09.50.14:852][763]LogBlueprint: Warning: [Compiler Character] Could not find a variable named "Ammo" in 'Character_C'.
+Make sure 'Character_C' has been compiled for  Get Ammo
+[2018.02.01-09.50.14:852][763]LogBlueprint: Warning: [Compiler Character] Could not find a variable named "Ammo" in 'Character_C'.
+Make sure 'Character_C' has been compiled for  Set Ammo
+[2018.02.01-09.50.14:852][763]LogBlueprint: Warning: [Compiler Character] Could not find a variable named "Ammo" in 'Character_C'.
+Make sure 'Character_C' has been compiled for  Get Ammo
+[2018.02.01-09.50.14:855][763]LogBlueprint: Error: [Compiler Character] The property associated with  Ammo  could not be found
+[2018.02.01-09.50.14:855][763]LogBlueprint: Error: [Compiler Character] The property associated with  Ammo  could not be found
+[2018.02.01-09.50.14:855][763]LogBlueprint: Error: [Compiler Character] The property associated with  Ammo  could not be found
+[2018.02.01-09.50.14:855][763]LogBlueprint: Error: [Compiler Character] The property associated with  Ammo  could not be found
+[2018.02.01-09.50.15:045][763]LogBlueprint: Warning: [Compiler Character] [2302.81] Compile of Character failed. 6 Fatal Issue(s) 10 Warning(s) [in 241 ms] (/Game/Characters/Character.Character)
+[2018.02.01-09.50.28:400][344]BlueprintLog: New page: Compile Character
+[2018.02.01-09.50.28:445][344]LogBlueprint: Error: [Compiler Character] Spawn node  Create Widget  must have a class specified.
+[2018.02.01-09.50.28:446][344]LogBlueprint: Warning: [Compiler Character] Could not find a variable named "Ammo" in 'Character_C'.
+Make sure 'Character_C' has been compiled for  Set Ammo
+[2018.02.01-09.50.28:447][344]LogBlueprint: Warning: [Compiler Character] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2018.02.01-09.50.28:447][344]LogBlueprint: Warning: [Compiler Character] InputAction Event references unknown Action 'Sprint' for  InputAction Sprint
+[2018.02.01-09.50.28:447][344]LogBlueprint: Error: [Compiler Character] In use pin  Return Value  no longer exists on node  Create Widget . Please refresh node or break links to remove pin.
+[2018.02.01-09.50.28:447][344]LogBlueprint: Warning: [Compiler Character] Could not find a variable named "My HUD" in 'Character_C'.
+Make sure 'Character_C' has been compiled for  Set My HUD
+[2018.02.01-09.50.28:447][344]LogBlueprint: Warning: [Compiler Character] InputAction Event references unknown Action 'Shooting' for  InputAction Shooting
+[2018.02.01-09.50.28:448][344]LogBlueprint: Warning: [Compiler Character] Could not find a variable named "Ammo" in 'Character_C'.
+Make sure 'Character_C' has been compiled for  Get Ammo
+[2018.02.01-09.50.28:448][344]LogBlueprint: Warning: [Compiler Character] Could not find a variable named "Ammo" in 'Character_C'.
+Make sure 'Character_C' has been compiled for  Set Ammo
+[2018.02.01-09.50.28:448][344]LogBlueprint: Warning: [Compiler Character] Could not find a variable named "Ammo" in 'Character_C'.
+Make sure 'Character_C' has been compiled for  Get Ammo
+[2018.02.01-09.50.28:450][344]LogBlueprint: Error: [Compiler Character] The property associated with  Ammo  could not be found
+[2018.02.01-09.50.28:451][344]LogBlueprint: Error: [Compiler Character] The property associated with  Ammo  could not be found
+[2018.02.01-09.50.28:451][344]LogBlueprint: Error: [Compiler Character] The property associated with  Ammo  could not be found
+[2018.02.01-09.50.28:451][344]LogBlueprint: Error: [Compiler Character] The property associated with  Ammo  could not be found
+[2018.02.01-09.50.28:634][344]LogBlueprint: Warning: [Compiler Character] [2316.40] Compile of Character failed. 6 Fatal Issue(s) 8 Warning(s) [in 232 ms] (/Game/Characters/Character.Character)
+[2018.02.01-09.50.57:793][820]BlueprintLog: New page: Compile Character
+[2018.02.01-09.50.57:838][820]LogBlueprint: Error: [Compiler Character] Spawn node  Create Widget  must have a class specified.
+[2018.02.01-09.50.57:839][820]LogBlueprint: Warning: [Compiler Character] Could not find a variable named "Ammo" in 'Character_C'.
+Make sure 'Character_C' has been compiled for  Set Ammo
+[2018.02.01-09.50.57:840][820]LogBlueprint: Warning: [Compiler Character] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2018.02.01-09.50.57:840][820]LogBlueprint: Warning: [Compiler Character] InputAction Event references unknown Action 'Sprint' for  InputAction Sprint
+[2018.02.01-09.50.57:841][820]LogBlueprint: Error: [Compiler Character] In use pin  Return Value  no longer exists on node  Create Widget . Please refresh node or break links to remove pin.
+[2018.02.01-09.50.57:841][820]LogBlueprint: Warning: [Compiler Character] Could not find a variable named "My HUD" in 'Character_C'.
+Make sure 'Character_C' has been compiled for  Set My HUD
+[2018.02.01-09.50.57:841][820]LogBlueprint: Warning: [Compiler Character] InputAction Event references unknown Action 'Shooting' for  InputAction Shooting
+[2018.02.01-09.50.57:841][820]LogBlueprint: Warning: [Compiler Character] Could not find a variable named "Ammo" in 'Character_C'.
+Make sure 'Character_C' has been compiled for  Get Ammo
+[2018.02.01-09.50.57:842][820]LogBlueprint: Warning: [Compiler Character] Could not find a variable named "Ammo" in 'Character_C'.
+Make sure 'Character_C' has been compiled for  Set Ammo
+[2018.02.01-09.50.57:842][820]LogBlueprint: Warning: [Compiler Character] Could not find a variable named "Ammo" in 'Character_C'.
+Make sure 'Character_C' has been compiled for  Get Ammo
+[2018.02.01-09.50.57:844][820]LogBlueprint: Error: [Compiler Character] The property associated with  Ammo  could not be found
+[2018.02.01-09.50.57:844][820]LogBlueprint: Error: [Compiler Character] The property associated with  Ammo  could not be found
+[2018.02.01-09.50.57:844][820]LogBlueprint: Error: [Compiler Character] The property associated with  Ammo  could not be found
+[2018.02.01-09.50.57:845][820]LogBlueprint: Error: [Compiler Character] The property associated with  Ammo  could not be found
+[2018.02.01-09.50.58:035][820]LogBlueprint: Warning: [Compiler Character] [2345.80] Compile of Character failed. 6 Fatal Issue(s) 8 Warning(s) [in 241 ms] (/Game/Characters/Character.Character)
+[2018.02.01-09.51.22:691][763]BlueprintLog: New page: Compile Character
+[2018.02.01-09.51.22:736][763]LogBlueprint: Error: [Compiler Character] Spawn node  Create Widget  must have a class specified.
+[2018.02.01-09.51.22:738][763]LogBlueprint: Warning: [Compiler Character] Could not find a variable named "Ammo" in 'Character_C'.
+Make sure 'Character_C' has been compiled for  Set Ammo
+[2018.02.01-09.51.22:738][763]LogBlueprint: Warning: [Compiler Character] InputAction Event references unknown Action 'Sprint' for  InputAction Sprint
+[2018.02.01-09.51.22:739][763]LogBlueprint: Error: [Compiler Character] In use pin  Return Value  no longer exists on node  Create Widget . Please refresh node or break links to remove pin.
+[2018.02.01-09.51.22:739][763]LogBlueprint: Warning: [Compiler Character] Could not find a variable named "My HUD" in 'Character_C'.
+Make sure 'Character_C' has been compiled for  Set My HUD
+[2018.02.01-09.51.22:739][763]LogBlueprint: Warning: [Compiler Character] InputAction Event references unknown Action 'Shooting' for  InputAction Shooting
+[2018.02.01-09.51.22:739][763]LogBlueprint: Warning: [Compiler Character] Could not find a variable named "Ammo" in 'Character_C'.
+Make sure 'Character_C' has been compiled for  Get Ammo
+[2018.02.01-09.51.22:740][763]LogBlueprint: Warning: [Compiler Character] Could not find a variable named "Ammo" in 'Character_C'.
+Make sure 'Character_C' has been compiled for  Set Ammo
+[2018.02.01-09.51.22:740][763]LogBlueprint: Warning: [Compiler Character] Could not find a variable named "Ammo" in 'Character_C'.
+Make sure 'Character_C' has been compiled for  Get Ammo
+[2018.02.01-09.51.22:743][763]LogBlueprint: Error: [Compiler Character] The property associated with  Ammo  could not be found
+[2018.02.01-09.51.22:743][763]LogBlueprint: Error: [Compiler Character] The property associated with  Ammo  could not be found
+[2018.02.01-09.51.22:743][763]LogBlueprint: Error: [Compiler Character] The property associated with  Ammo  could not be found
+[2018.02.01-09.51.22:743][763]LogBlueprint: Error: [Compiler Character] The property associated with  Ammo  could not be found
+[2018.02.01-09.51.22:928][763]LogBlueprint: Warning: [Compiler Character] [2370.69] Compile of Character failed. 6 Fatal Issue(s) 7 Warning(s) [in 237 ms] (/Game/Characters/Character.Character)
+[2018.02.01-09.52.41:569][239]BlueprintLog: New page: Compile Character
+[2018.02.01-09.52.41:618][239]LogBlueprint: Error: [Compiler Character] Spawn node  Create Widget  must have a class specified.
+[2018.02.01-09.52.41:619][239]LogBlueprint: Warning: [Compiler Character] Could not find a variable named "Ammo" in 'Character_C'.
+Make sure 'Character_C' has been compiled for  Set Ammo
+[2018.02.01-09.52.41:621][239]LogBlueprint: Error: [Compiler Character] In use pin  Return Value  no longer exists on node  Create Widget . Please refresh node or break links to remove pin.
+[2018.02.01-09.52.41:622][239]LogBlueprint: Warning: [Compiler Character] Could not find a variable named "My HUD" in 'Character_C'.
+Make sure 'Character_C' has been compiled for  Set My HUD
+[2018.02.01-09.52.41:622][239]LogBlueprint: Warning: [Compiler Character] InputAction Event references unknown Action 'Shooting' for  InputAction Shooting
+[2018.02.01-09.52.41:622][239]LogBlueprint: Warning: [Compiler Character] Could not find a variable named "Ammo" in 'Character_C'.
+Make sure 'Character_C' has been compiled for  Get Ammo
+[2018.02.01-09.52.41:622][239]LogBlueprint: Warning: [Compiler Character] Could not find a variable named "Ammo" in 'Character_C'.
+Make sure 'Character_C' has been compiled for  Set Ammo
+[2018.02.01-09.52.41:622][239]LogBlueprint: Warning: [Compiler Character] Could not find a variable named "Ammo" in 'Character_C'.
+Make sure 'Character_C' has been compiled for  Get Ammo
+[2018.02.01-09.52.41:626][239]LogBlueprint: Error: [Compiler Character] The property associated with  Ammo  could not be found
+[2018.02.01-09.52.41:626][239]LogBlueprint: Error: [Compiler Character] The property associated with  Ammo  could not be found
+[2018.02.01-09.52.41:626][239]LogBlueprint: Error: [Compiler Character] The property associated with  Ammo  could not be found
+[2018.02.01-09.52.41:626][239]LogBlueprint: Error: [Compiler Character] The property associated with  Ammo  could not be found
+[2018.02.01-09.52.41:820][239]LogBlueprint: Warning: [Compiler Character] [2449.59] Compile of Character failed. 6 Fatal Issue(s) 6 Warning(s) [in 251 ms] (/Game/Characters/Character.Character)
+[2018.02.01-09.54.52:711][855]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.02.01-09.54.57:999][474]BlueprintLog: New page: Compile Character
+[2018.02.01-09.54.58:047][474]LogBlueprint: Warning: [Compiler Character] Could not find a variable named "Ammo" in 'Character_C'.
+Make sure 'Character_C' has been compiled for  Set Ammo
+[2018.02.01-09.54.58:048][474]LogBlueprint: Error: [Compiler Character] In use pin  Return Value  no longer exists on node  Create Widget . Please refresh node or break links to remove pin.
+[2018.02.01-09.54.58:048][474]LogBlueprint: Warning: [Compiler Character] Could not find a variable named "My HUD" in 'Character_C'.
+Make sure 'Character_C' has been compiled for  Set My HUD
+[2018.02.01-09.54.58:049][474]LogBlueprint: Warning: [Compiler Character] InputAction Event references unknown Action 'Shooting' for  InputAction Shooting
+[2018.02.01-09.54.58:049][474]LogBlueprint: Warning: [Compiler Character] Could not find a variable named "Ammo" in 'Character_C'.
+Make sure 'Character_C' has been compiled for  Get Ammo
+[2018.02.01-09.54.58:049][474]LogBlueprint: Warning: [Compiler Character] Could not find a variable named "Ammo" in 'Character_C'.
+Make sure 'Character_C' has been compiled for  Set Ammo
+[2018.02.01-09.54.58:049][474]LogBlueprint: Warning: [Compiler Character] Could not find a variable named "Ammo" in 'Character_C'.
+Make sure 'Character_C' has been compiled for  Get Ammo
+[2018.02.01-09.54.58:051][474]LogBlueprint: Error: [Compiler Character] This blueprint (self) is not a UserWidget, therefore ' Target ' must have a connection.
+[2018.02.01-09.54.58:052][474]LogBlueprint: Error: [Compiler Character] The property associated with  Ammo  could not be found
+[2018.02.01-09.54.58:052][474]LogBlueprint: Error: [Compiler Character] The property associated with  Ammo  could not be found
+[2018.02.01-09.54.58:052][474]LogBlueprint: Error: [Compiler Character] The property associated with  Ammo  could not be found
+[2018.02.01-09.54.58:052][474]LogBlueprint: Error: [Compiler Character] The property associated with  Ammo  could not be found
+[2018.02.01-09.54.58:052][474]LogBlueprint: Error: [Compiler Character] Default value '' for  My HUD  is invalid: 'PinSubCategoryObject on pin 'My HUD' is NULL and PinSubCategory is '' not 'self''
+[2018.02.01-09.54.58:242][474]LogBlueprint: Warning: [Compiler Character] [2586.01] Compile of Character failed. 7 Fatal Issue(s) 6 Warning(s) [in 243 ms] (/Game/Characters/Character.Character)
+[2018.02.01-09.55.11:205][ 13]BlueprintLog: New page: Compile Character
+[2018.02.01-09.55.11:251][ 13]LogBlueprint: Warning: [Compiler Character] Could not find a variable named "Ammo" in 'Character_C'.
+Make sure 'Character_C' has been compiled for  Set Ammo
+[2018.02.01-09.55.11:252][ 13]LogBlueprint: Warning: [Compiler Character] Could not find a variable named "My HUD" in 'Character_C'.
+Make sure 'Character_C' has been compiled for  Set My HUD
+[2018.02.01-09.55.11:252][ 13]LogBlueprint: Warning: [Compiler Character] InputAction Event references unknown Action 'Shooting' for  InputAction Shooting
+[2018.02.01-09.55.11:253][ 13]LogBlueprint: Warning: [Compiler Character] Could not find a variable named "Ammo" in 'Character_C'.
+Make sure 'Character_C' has been compiled for  Get Ammo
+[2018.02.01-09.55.11:253][ 13]LogBlueprint: Warning: [Compiler Character] Could not find a variable named "Ammo" in 'Character_C'.
+Make sure 'Character_C' has been compiled for  Set Ammo
+[2018.02.01-09.55.11:253][ 13]LogBlueprint: Warning: [Compiler Character] Could not find a variable named "Ammo" in 'Character_C'.
+Make sure 'Character_C' has been compiled for  Get Ammo
+[2018.02.01-09.55.11:255][ 13]LogBlueprint: Error: [Compiler Character] This blueprint (self) is not a UserWidget, therefore ' Target ' must have a connection.
+[2018.02.01-09.55.11:256][ 13]LogBlueprint: Error: [Compiler Character] The property associated with  Ammo  could not be found
+[2018.02.01-09.55.11:256][ 13]LogBlueprint: Error: [Compiler Character] The property associated with  Ammo  could not be found
+[2018.02.01-09.55.11:256][ 13]LogBlueprint: Error: [Compiler Character] The property associated with  Ammo  could not be found
+[2018.02.01-09.55.11:256][ 13]LogBlueprint: Error: [Compiler Character] The property associated with  Ammo  could not be found
+[2018.02.01-09.55.11:256][ 13]LogBlueprint: Error: [Compiler Character] Default value '' for  My HUD  is invalid: 'PinSubCategoryObject on pin 'My HUD' is NULL and PinSubCategory is '' not 'self''
+[2018.02.01-09.55.11:437][ 13]LogBlueprint: Warning: [Compiler Character] [2599.20] Compile of Character failed. 6 Fatal Issue(s) 6 Warning(s) [in 231 ms] (/Game/Characters/Character.Character)
+[2018.02.01-09.55.17:399][711]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'MyBlueprint'
+[2018.02.01-09.55.32:079][445]BlueprintLog: New page: Compile Character
+[2018.02.01-09.55.32:125][445]LogBlueprint: Warning: [Compiler Character] Could not find a variable named "Ammo" in 'Character_C'.
+Make sure 'Character_C' has been compiled for  Set Ammo
+[2018.02.01-09.55.32:126][445]LogBlueprint: Warning: [Compiler Character] InputAction Event references unknown Action 'Shooting' for  InputAction Shooting
+[2018.02.01-09.55.32:127][445]LogBlueprint: Warning: [Compiler Character] Could not find a variable named "Ammo" in 'Character_C'.
+Make sure 'Character_C' has been compiled for  Get Ammo
+[2018.02.01-09.55.32:127][445]LogBlueprint: Warning: [Compiler Character] Could not find a variable named "Ammo" in 'Character_C'.
+Make sure 'Character_C' has been compiled for  Set Ammo
+[2018.02.01-09.55.32:127][445]LogBlueprint: Warning: [Compiler Character] Could not find a variable named "Ammo" in 'Character_C'.
+Make sure 'Character_C' has been compiled for  Get Ammo
+[2018.02.01-09.55.32:130][445]LogBlueprint: Error: [Compiler Character] The property associated with  Ammo  could not be found
+[2018.02.01-09.55.32:130][445]LogBlueprint: Error: [Compiler Character] The property associated with  Ammo  could not be found
+[2018.02.01-09.55.32:130][445]LogBlueprint: Error: [Compiler Character] The property associated with  Ammo  could not be found
+[2018.02.01-09.55.32:130][445]LogBlueprint: Error: [Compiler Character] The property associated with  Ammo  could not be found
+[2018.02.01-09.55.32:319][445]LogBlueprint: Warning: [Compiler Character] [2620.08] Compile of Character failed. 4 Fatal Issue(s) 5 Warning(s) [in 239 ms] (/Game/Characters/Character.Character)
+[2018.02.01-09.56.02:394][335]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'MyBlueprint'
+[2018.02.01-09.56.18:566][207]LogDialogs: Warning: Suppressed: This could break connections, do you want to search all Variable 'Ammo' instances, change its type, and recompile?
+[2018.02.01-09.56.46:374][358]BlueprintLog: New page: Compile Character
+[2018.02.01-09.56.46:420][358]LogBlueprint: Warning: [Compiler Character] InputAction Event references unknown Action 'Shooting' for  InputAction Shooting
+[2018.02.01-09.56.46:617][358]LogBlueprint: Warning: [Compiler Character] [2694.38] Compile of Character successful, but with 1 Warning(s) [in 243 ms] (/Game/Characters/Character.Character)
+[2018.02.01-09.57.27:801][209]BlueprintLog: New page: Compile Character
+[2018.02.01-09.58.12:096][673]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'MyBlueprint'
+[2018.02.01-09.59.07:765][809]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'APawn::GetControlRotation' [Element not found.]
+[2018.02.01-10.00.19:740][708]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Character" FILE="../../../../../../james-martin/Documents/GitHub/FMP/FMP/Content/Characters/Character.uasset" SILENT=true
+[2018.02.01-10.00.19:851][708]LogSavePackage: Save=110.24ms
+[2018.02.01-10.00.19:852][708]LogSavePackage: Moving '../../../../../../james-martin/Documents/GitHub/FMP/FMP/Saved/CharacterCA9FA0DC4426E297D4F18EA1C141B93F.tmp' to '../../../../../../james-martin/Documents/GitHub/FMP/FMP/Content/Characters/Character.uasset'
+[2018.02.01-10.00.19:853][708]LogSavePackage: Display: Finished SavePackage ../../../../../../james-martin/Documents/GitHub/FMP/FMP/Content/Characters/Character.uasset
+[2018.02.01-10.00.21:195][869]BlueprintLog: New page: Compile Character
+[2018.02.01-10.00.45:559][572]Cmd: CLOSE_SLATE_MAINFRAME
+[2018.02.01-10.00.47:251][572]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level" FILE="../../../../../../james-martin/Documents/GitHub/FMP/FMP/Content/Maps/Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.02.01-10.00.47:306][572]LogSavePackage: Save=33.81ms
+[2018.02.01-10.00.47:306][572]LogSavePackage: Moving '../../../../../../james-martin/Documents/GitHub/FMP/FMP/Saved/Level2E947EC946783B742E7FC584B91A4816.tmp' to '../../../../../../james-martin/Documents/GitHub/FMP/FMP/Content/Maps/Level.umap'
+[2018.02.01-10.00.47:309][572]LogSavePackage: Display: Finished SavePackage ../../../../../../james-martin/Documents/GitHub/FMP/FMP/Content/Maps/Level.umap
+[2018.02.01-10.00.47:321][572]LogFileHelpers: Saving map 'Level' took 0.128
+[2018.02.01-10.00.47:699][573]Cmd: QUIT_EDITOR
+[2018.02.01-10.00.47:762][573]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.02.01-10.00.47:778][573]LogExit: Preparing to exit.
+[2018.02.01-10.00.48:325][573]LogDirectoryWatcher: A directory notification for 'C:/Users/james-martin/Documents/GitHub/FMP/FMP/Content/' was aborted.
+[2018.02.01-10.00.48:380][573]LogExit: Editor shut down
+[2018.02.01-10.00.48:388][573]LogExit: Transaction tracking system shut down
+[2018.02.01-10.00.48:633][573]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.02.01-10.00.48:633][573]LogDirectoryWatcher: A directory notification for '../../../../../../james-martin/Documents/GitHub/FMP/FMP/Content/' was aborted.
+[2018.02.01-10.00.48:633][573]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.02.01-10.00.48:633][573]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.02.01-10.00.48:633][573]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.02.01-10.00.48:633][573]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.02.01-10.00.48:633][573]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.02.01-10.00.48:786][573]LogExit: Object subsystem successfully closed.
+[2018.02.01-10.00.48:824][573]LogD3D11RHI: Shutdown
+[2018.02.01-10.00.48:825][573]LogD3D11RHI: CleanupD3DDevice
+[2018.02.01-10.00.48:831][573]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.02.01-10.00.48:870][573]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (552)
+[2018.02.01-10.00.48:870][573]LogModuleManager: Shutting down and abandoning module BlueprintGraph (550)
+[2018.02.01-10.00.48:870][573]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (548)
+[2018.02.01-10.00.48:870][573]LogModuleManager: Shutting down and abandoning module SceneOutliner (546)
+[2018.02.01-10.00.48:870][573]LogModuleManager: Shutting down and abandoning module AddContentDialog (544)
+[2018.02.01-10.00.48:870][573]LogDirectoryWatcher: A directory notification for 'C:/Users/jacob-thorne/Documents/UE_4.18/FeaturePacks/' was aborted.
+[2018.02.01-10.00.48:871][573]LogModuleManager: Shutting down and abandoning module WidgetCarousel (543)
+[2018.02.01-10.00.48:872][573]LogModuleManager: Shutting down and abandoning module EditorWidgets (540)
+[2018.02.01-10.00.48:872][573]LogModuleManager: Shutting down and abandoning module CollectionManager (538)
+[2018.02.01-10.00.48:872][573]LogDirectoryWatcher: A directory notification for 'C:/Users/james-martin/Documents/GitHub/FMP/FMP/Content/Collections/' was aborted.
+[2018.02.01-10.00.48:872][573]LogDirectoryWatcher: A directory notification for 'C:/Users/james-martin/Documents/GitHub/FMP/FMP/Content/Developers/jamesmartin/Collections/' was aborted.
+[2018.02.01-10.00.48:872][573]LogDirectoryWatcher: A directory notification for 'C:/Users/james-martin/Documents/GitHub/FMP/FMP/Saved/Collections/' was aborted.
+[2018.02.01-10.00.48:872][573]LogModuleManager: Shutting down and abandoning module StatsViewer (536)
+[2018.02.01-10.00.48:872][573]LogModuleManager: Shutting down and abandoning module FoliageEdit (534)
+[2018.02.01-10.00.48:872][573]LogModuleManager: Shutting down and abandoning module LandscapeEditor (532)
+[2018.02.01-10.00.48:880][573]LogModuleManager: Shutting down and abandoning module MeshPaintMode (530)
+[2018.02.01-10.00.48:880][573]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (528)
+[2018.02.01-10.00.48:880][573]LogModuleManager: Shutting down and abandoning module ActorPickerMode (526)
+[2018.02.01-10.00.48:880][573]LogModuleManager: Shutting down and abandoning module GeometryMode (524)
+[2018.02.01-10.00.48:880][573]LogModuleManager: Shutting down and abandoning module TextureAlignMode (522)
+[2018.02.01-10.00.48:880][573]LogModuleManager: Shutting down and abandoning module BspMode (520)
+[2018.02.01-10.00.48:880][573]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (518)
+[2018.02.01-10.00.48:880][573]LogModuleManager: Shutting down and abandoning module HardwareSurvey (516)
+[2018.02.01-10.00.48:880][573]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (514)
+[2018.02.01-10.00.48:880][573]LogModuleManager: Shutting down and abandoning module AutomationWorker (512)
+[2018.02.01-10.00.48:880][573]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (510)
+[2018.02.01-10.00.48:880][573]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (508)
+[2018.02.01-10.00.48:880][573]LogModuleManager: Shutting down and abandoning module PlacementMode (507)
+[2018.02.01-10.00.48:880][573]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (504)
+[2018.02.01-10.00.48:880][573]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (502)
+[2018.02.01-10.00.48:880][573]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (500)
+[2018.02.01-10.00.48:880][573]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (498)
+[2018.02.01-10.00.48:880][573]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (496)
+[2018.02.01-10.00.48:880][573]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (494)
+[2018.02.01-10.00.48:880][573]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (492)
+[2018.02.01-10.00.48:880][573]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (490)
+[2018.02.01-10.00.48:880][573]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (488)
+[2018.02.01-10.00.48:880][573]LogModuleManager: Shutting down and abandoning module CharacterAI (486)
+[2018.02.01-10.00.48:880][573]LogModuleManager: Shutting down and abandoning module AudioCapture (484)
+[2018.02.01-10.00.48:880][573]LogModuleManager: Shutting down and abandoning module SequenceRecorder (483)
+[2018.02.01-10.00.48:881][573]LogModuleManager: Shutting down and abandoning module SmartSnapping (480)
+[2018.02.01-10.00.48:881][573]LogModuleManager: Shutting down and abandoning module SessionServices (478)
+[2018.02.01-10.00.48:881][573]LogModuleManager: Shutting down and abandoning module ViewportSnapping (476)
+[2018.02.01-10.00.48:881][573]LogModuleManager: Shutting down and abandoning module ViewportInteraction (474)
+[2018.02.01-10.00.48:881][573]LogModuleManager: Shutting down and abandoning module ClothPainter (472)
+[2018.02.01-10.00.48:881][573]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (471)
+[2018.02.01-10.00.48:881][573]LogModuleManager: Shutting down and abandoning module LogVisualizer (468)
+[2018.02.01-10.00.48:881][573]LogModuleManager: Shutting down and abandoning module IntroTutorials (466)
+[2018.02.01-10.00.48:881][573]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (465)
+[2018.02.01-10.00.48:881][573]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (462)
+[2018.02.01-10.00.48:881][573]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (460)
+[2018.02.01-10.00.48:881][573]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (458)
+[2018.02.01-10.00.48:881][573]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (457)
+[2018.02.01-10.00.49:323][573]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (454)
+[2018.02.01-10.00.49:323][573]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (452)
+[2018.02.01-10.00.49:323][573]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (450)
+[2018.02.01-10.00.49:323][573]LogModuleManager: Shutting down and abandoning module InputBindingEditor (448)
+[2018.02.01-10.00.49:323][573]LogModuleManager: Shutting down and abandoning module MergeActors (446)
+[2018.02.01-10.00.49:323][573]LogModuleManager: Shutting down and abandoning module SizeMap (444)
+[2018.02.01-10.00.49:323][573]LogModuleManager: Shutting down and abandoning module TreeMap (442)
+[2018.02.01-10.00.49:323][573]LogModuleManager: Shutting down and abandoning module ReferenceViewer (440)
+[2018.02.01-10.00.49:323][573]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (438)
+[2018.02.01-10.00.49:348][573]LogModuleManager: Shutting down and abandoning module LocalizationService (437)
+[2018.02.01-10.00.49:348][573]LogModuleManager: Shutting down and abandoning module HardwareTargeting (434)
+[2018.02.01-10.00.49:348][573]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (432)
+[2018.02.01-10.00.49:348][573]LogModuleManager: Shutting down and abandoning module UndoHistory (430)
+[2018.02.01-10.00.49:348][573]LogModuleManager: Shutting down and abandoning module XmlParser (428)
+[2018.02.01-10.00.49:348][573]LogModuleManager: Shutting down and abandoning module Blutility (426)
+[2018.02.01-10.00.49:348][573]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (424)
+[2018.02.01-10.00.49:348][573]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (423)
+[2018.02.01-10.00.49:348][573]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (420)
+[2018.02.01-10.00.49:348][573]LogModuleManager: Shutting down and abandoning module SettingsEditor (418)
+[2018.02.01-10.00.49:348][573]LogModuleManager: Shutting down and abandoning module ProjectLauncher (416)
+[2018.02.01-10.00.49:348][573]LogModuleManager: Shutting down and abandoning module SessionFrontend (414)
+[2018.02.01-10.00.49:348][573]LogModuleManager: Shutting down and abandoning module ProfilerClient (412)
+[2018.02.01-10.00.49:348][573]LogModuleManager: Shutting down and abandoning module DeviceManager (410)
+[2018.02.01-10.00.49:348][573]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (409)
+[2018.02.01-10.00.49:402][573]LogModuleManager: Shutting down and abandoning module AutomationController (406)
+[2018.02.01-10.00.49:402][573]LogModuleManager: Shutting down and abandoning module AutomationWindow (404)
+[2018.02.01-10.00.49:402][573]LogModuleManager: Shutting down and abandoning module Layers (402)
+[2018.02.01-10.00.49:402][573]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (400)
+[2018.02.01-10.00.49:402][573]LogModuleManager: Shutting down and abandoning module DetailCustomizations (398)
+[2018.02.01-10.00.49:402][573]LogModuleManager: Shutting down and abandoning module PackagesDialog (396)
+[2018.02.01-10.00.49:404][573]LogModuleManager: Shutting down and abandoning module Persona (394)
+[2018.02.01-10.00.49:404][573]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (393)
+[2018.02.01-10.00.49:404][573]LogModuleManager: Shutting down and abandoning module AnimGraph (391)
+[2018.02.01-10.00.49:404][573]LogModuleManager: Shutting down and abandoning module Kismet (388)
+[2018.02.01-10.00.49:411][573]LogModuleManager: Shutting down and abandoning module ClassViewer (386)
+[2018.02.01-10.00.49:413][573]LogModuleManager: Shutting down and abandoning module Toolbox (384)
+[2018.02.01-10.00.49:413][573]LogModuleManager: Shutting down and abandoning module ModuleUI (382)
+[2018.02.01-10.00.49:413][573]LogModuleManager: Shutting down and abandoning module MovieSceneTools (380)
+[2018.02.01-10.00.49:413][573]LogModuleManager: Shutting down and abandoning module OutputLog (378)
+[2018.02.01-10.00.49:413][573]LogModuleManager: Shutting down and abandoning module GammaUI (376)
+[2018.02.01-10.00.49:413][573]LogModuleManager: Shutting down and abandoning module Documentation (374)
+[2018.02.01-10.00.49:413][573]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (372)
+[2018.02.01-10.00.49:413][573]LogModuleManager: Shutting down and abandoning module MovieScene (370)
+[2018.02.01-10.00.49:413][573]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (368)
+[2018.02.01-10.00.49:413][573]LogModuleManager: Shutting down and abandoning module LauncherPlatform (366)
+[2018.02.01-10.00.49:413][573]LogModuleManager: Shutting down and abandoning module AnalyticsET (364)
+[2018.02.01-10.00.49:413][573]LogModuleManager: Shutting down and abandoning module PortalServices (362)
+[2018.02.01-10.00.49:413][573]LogModuleManager: Shutting down and abandoning module PortalRpc (360)
+[2018.02.01-10.00.49:413][573]LogModuleManager: Shutting down and abandoning module MessagingRpc (358)
+[2018.02.01-10.00.49:413][573]LogModuleManager: Shutting down and abandoning module AIModule (356)
+[2018.02.01-10.00.49:413][573]LogModuleManager: Shutting down and abandoning module GameplayDebugger (355)
+[2018.02.01-10.00.49:413][573]LogModuleManager: Shutting down and abandoning module AITestSuite (353)
+[2018.02.01-10.00.49:413][573]LogModuleManager: Shutting down and abandoning module DesktopPlatform (350)
+[2018.02.01-10.00.49:413][573]LogModuleManager: Shutting down and abandoning module ProfilerService (348)
+[2018.02.01-10.00.49:627][573]LogModuleManager: Shutting down and abandoning module TaskGraph (346)
+[2018.02.01-10.00.49:627][573]LogModuleManager: Shutting down and abandoning module SteamVRController (344)
+[2018.02.01-10.00.49:627][573]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (342)
+[2018.02.01-10.00.49:629][573]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (340)
+[2018.02.01-10.00.49:630][573]LogModuleManager: Shutting down and abandoning module OculusInput (338)
+[2018.02.01-10.00.49:630][573]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (336)
+[2018.02.01-10.00.49:630][573]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (334)
+[2018.02.01-10.00.49:630][573]LogModuleManager: Shutting down and abandoning module CableComponent (332)
+[2018.02.01-10.00.49:630][573]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (330)
+[2018.02.01-10.00.49:630][573]LogModuleManager: Shutting down and abandoning module AndroidPermission (328)
+[2018.02.01-10.00.49:630][573]LogModuleManager: Shutting down and abandoning module ActorSequence (324)
+[2018.02.01-10.00.49:630][573]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (322)
+[2018.02.01-10.00.49:630][573]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (320)
+[2018.02.01-10.00.49:630][573]LogModuleManager: Shutting down and abandoning module MediaCompositing (318)
+[2018.02.01-10.00.49:630][573]LogModuleManager: Shutting down and abandoning module HTML5Networking (316)
+[2018.02.01-10.00.49:630][573]LogModuleManager: Shutting down and abandoning module AlembicImporter (314)
+[2018.02.01-10.00.49:630][573]LogModuleManager: Shutting down and abandoning module AlembicLibrary (313)
+[2018.02.01-10.00.49:630][573]LogModuleManager: Shutting down and abandoning module GeometryCache (312)
+[2018.02.01-10.00.49:630][573]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (311)
+[2018.02.01-10.00.49:630][573]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (306)
+[2018.02.01-10.00.49:630][573]LogModuleManager: Shutting down and abandoning module PluginBrowser (304)
+[2018.02.01-10.00.49:630][573]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (302)
+[2018.02.01-10.00.49:630][573]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (300)
+[2018.02.01-10.00.49:630][573]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (298)
+[2018.02.01-10.00.49:630][573]LogModuleManager: Shutting down and abandoning module UObjectPlugin (296)
+[2018.02.01-10.00.49:630][573]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (294)
+[2018.02.01-10.00.49:630][573]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (292)
+[2018.02.01-10.00.49:630][573]LogModuleManager: Shutting down and abandoning module GitSourceControl (290)
+[2018.02.01-10.00.49:631][573]LogModuleManager: Shutting down and abandoning module SourceControl (289)
+[2018.02.01-10.00.49:631][573]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (286)
+[2018.02.01-10.00.49:631][573]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (284)
+[2018.02.01-10.00.49:631][573]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (282)
+[2018.02.01-10.00.49:631][573]LogModuleManager: Shutting down and abandoning module Paper2DEditor (280)
+[2018.02.01-10.00.49:649][573]LogModuleManager: Shutting down and abandoning module MeshPaint (279)
+[2018.02.01-10.00.49:650][573]LogModuleManager: Shutting down and abandoning module LevelEditor (277)
+[2018.02.01-10.00.49:651][573]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (276)
+[2018.02.01-10.00.49:651][573]LogModuleManager: Shutting down and abandoning module MainFrame (274)
+[2018.02.01-10.00.49:651][573]LogModuleManager: Shutting down and abandoning module HotReload (273)
+[2018.02.01-10.00.49:653][573]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (268)
+[2018.02.01-10.00.49:653][573]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (266)
+[2018.02.01-10.00.49:653][573]LogModuleManager: Shutting down and abandoning module PhysXVehicles (264)
+[2018.02.01-10.00.49:654][573]LogModuleManager: Shutting down and abandoning module OculusEditor (262)
+[2018.02.01-10.00.49:654][573]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (260)
+[2018.02.01-10.00.49:654][573]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (258)
+[2018.02.01-10.00.49:654][573]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (256)
+[2018.02.01-10.00.49:654][573]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
+[2018.02.01-10.00.49:754][573]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
+[2018.02.01-10.00.49:856][573]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2018.02.01-10.00.49:856][573]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2018.02.01-10.00.49:856][573]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2018.02.01-10.00.49:856][573]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2018.02.01-10.00.49:856][573]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2018.02.01-10.00.49:856][573]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2018.02.01-10.00.49:857][573]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2018.02.01-10.00.49:857][573]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2018.02.01-10.00.49:857][573]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2018.02.01-10.00.49:857][573]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2018.02.01-10.00.49:857][573]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2018.02.01-10.00.49:857][573]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2018.02.01-10.00.49:857][573]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2018.02.01-10.00.49:857][573]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2018.02.01-10.00.49:857][573]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2018.02.01-10.00.49:857][573]LogModuleManager: Shutting down and abandoning module Media (221)
+[2018.02.01-10.00.49:865][573]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2018.02.01-10.00.49:865][573]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2018.02.01-10.00.49:865][573]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2018.02.01-10.00.49:866][573]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2018.02.01-10.00.49:866][573]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2018.02.01-10.00.49:866][573]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2018.02.01-10.00.49:866][573]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2018.02.01-10.00.49:866][573]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2018.02.01-10.00.49:866][573]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2018.02.01-10.00.49:866][573]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2018.02.01-10.00.49:866][573]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2018.02.01-10.00.49:866][573]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2018.02.01-10.00.49:866][573]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2018.02.01-10.00.49:866][573]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2018.02.01-10.00.49:866][573]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2018.02.01-10.00.49:866][573]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2018.02.01-10.00.49:869][573]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2018.02.01-10.00.49:869][573]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2018.02.01-10.00.49:869][573]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2018.02.01-10.00.49:869][573]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2018.02.01-10.00.49:869][573]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2018.02.01-10.00.49:869][573]LogModuleManager: Shutting down and abandoning module Core (172)
+[2018.02.01-10.00.49:869][573]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2018.02.01-10.00.49:869][573]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2018.02.01-10.00.49:870][573]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2018.02.01-10.00.49:870][573]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2018.02.01-10.00.49:870][573]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2018.02.01-10.00.49:870][573]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2018.02.01-10.00.49:870][573]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2018.02.01-10.00.49:870][573]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2018.02.01-10.00.49:870][573]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2018.02.01-10.00.49:870][573]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2018.02.01-10.00.49:870][573]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2018.02.01-10.00.49:970][573]LogDerivedDataCache: Shutdown
+[2018.02.01-10.00.49:970][573]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2018.02.01-10.00.49:970][573]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2018.02.01-10.00.49:970][573]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2018.02.01-10.00.49:970][573]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2018.02.01-10.00.49:970][573]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2018.02.01-10.00.49:970][573]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2018.02.01-10.00.49:970][573]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2018.02.01-10.00.49:970][573]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2018.02.01-10.00.49:970][573]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2018.02.01-10.00.49:970][573]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2018.02.01-10.00.49:970][573]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2018.02.01-10.00.49:970][573]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2018.02.01-10.00.49:970][573]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2018.02.01-10.00.49:970][573]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2018.02.01-10.00.49:970][573]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2018.02.01-10.00.49:970][573]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2018.02.01-10.00.49:970][573]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2018.02.01-10.00.49:970][573]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2018.02.01-10.00.49:970][573]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2018.02.01-10.00.49:970][573]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2018.02.01-10.00.49:971][573]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2018.02.01-10.00.49:971][573]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2018.02.01-10.00.49:971][573]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2018.02.01-10.00.49:971][573]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2018.02.01-10.00.49:971][573]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2018.02.01-10.00.49:971][573]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2018.02.01-10.00.49:971][573]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2018.02.01-10.00.49:971][573]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2018.02.01-10.00.49:971][573]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2018.02.01-10.00.49:971][573]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2018.02.01-10.00.49:971][573]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2018.02.01-10.00.49:971][573]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2018.02.01-10.00.49:971][573]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2018.02.01-10.00.49:971][573]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2018.02.01-10.00.49:971][573]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2018.02.01-10.00.49:971][573]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2018.02.01-10.00.49:971][573]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2018.02.01-10.00.49:971][573]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2018.02.01-10.00.49:971][573]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2018.02.01-10.00.49:971][573]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2018.02.01-10.00.49:971][573]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2018.02.01-10.00.49:971][573]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2018.02.01-10.00.49:971][573]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2018.02.01-10.00.49:973][573]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2018.02.01-10.00.49:973][573]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2018.02.01-10.00.49:973][573]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2018.02.01-10.00.49:973][573]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2018.02.01-10.00.49:973][573]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2018.02.01-10.00.49:973][573]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.02.01-10.00.49:973][573]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.02.01-10.00.49:973][573]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.02.01-10.00.49:973][573]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.02.01-10.00.49:973][573]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.02.01-10.00.49:973][573]LogHttp: Display: Http module shutting down, but needs to wait on 2 outstanding Http requests:
+[2018.02.01-10.00.49:973][573]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B75863B5A-48CE-66E5-4FFD-868F9ACF18DC%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.3-3832480%2B%2B%2BUE4%2BRelease-4.18&UserID=db43ce6a41ebff47d6a9d294ad3af8b1%7C0cc6c1275bef46e4a668b4810d6f3264%7C34b143f6-cd09-431a-8c45-01280f813e58&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.02.01-10.00.49:973][573]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B75863B5A-48CE-66E5-4FFD-868F9ACF18DC%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.3-3832480%2B%2B%2BUE4%2BRelease-4.18&UserID=db43ce6a41ebff47d6a9d294ad3af8b1%7C0cc6c1275bef46e4a668b4810d6f3264%7C34b143f6-cd09-431a-8c45-01280f813e58&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.02.01-10.00.50:012][573]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.02.01-10.00.50:016][573]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.02.01-10.00.50:016][573]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.02.01-10.00.50:016][573]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.02.01-10.00.50:016][573]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.02.01-10.00.50:016][573]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.02.01-10.00.50:016][573]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.02.01-10.00.50:016][573]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.02.01-10.00.50:017][573]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.02.01-10.00.50:017][573]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.02.01-10.00.50:017][573]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.02.01-10.00.50:017][573]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.02.01-10.00.50:018][573]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.02.01-10.00.50:018][573]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.02.01-10.00.50:018][573]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.02.01-10.00.50:018][573]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.02.01-10.00.50:018][573]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.02.01-10.00.50:018][573]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.02.01-10.00.50:018][573]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.02.01-10.00.50:029][573]LogExit: Exiting.
+[2018.02.01-10.00.50:038][573]Log file closed, 02/01/18 10:00:50
