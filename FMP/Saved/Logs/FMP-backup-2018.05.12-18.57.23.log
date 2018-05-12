@@ -1,0 +1,1551 @@
+﻿Log file open, 05/12/18 09:10:24
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: FMP
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1316806473) SRandInit(1316806473).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.463542
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  5.023s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am James-PC (192.168.1.81:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.005s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.05.12-08.10.30:044][  0]LogInit: Selected Device Profile: [Windows]
+[2018.05.12-08.10.30:044][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.05.12-08.10.30:106][  0]LogInit: Computer: JAMES-PC
+[2018.05.12-08.10.30:106][  0]LogInit: User: James
+[2018.05.12-08.10.30:106][  0]LogInit: CPU Page size=4096, Cores=2
+[2018.05.12-08.10.30:106][  0]LogInit: High frequency timer resolution =3.801679 MHz
+[2018.05.12-08.10.30:106][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.05.12-08.10.30:106][  0]LogMemory: Platform Memory Stats for Windows
+[2018.05.12-08.10.30:106][  0]LogMemory: Process Physical Memory: 272.96 MB used, 272.96 MB peak
+[2018.05.12-08.10.30:106][  0]LogMemory: Process Virtual Memory: 270.18 MB used, 270.18 MB peak
+[2018.05.12-08.10.30:106][  0]LogMemory: Physical Memory: 5889.79 MB used,  10438.85 MB free, 16328.64 MB total
+[2018.05.12-08.10.30:106][  0]LogMemory: Virtual Memory: 4786.05 MB used,  10438.85 MB free, 134217728.00 MB total
+[2018.05.12-08.10.31:198][  0]LogInit: Using OS detected language (en-GB).
+[2018.05.12-08.10.31:198][  0]LogInit: Using OS detected locale (en-GB).
+[2018.05.12-08.10.31:415][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2018.05.12-08.10.33:306][  0]LogStreaming: Display: Took  2.108s to EndInitTextLocalization.
+[2018.05.12-08.10.33:307][  0]LogInit: Setting process to per monitor DPI aware
+[2018.05.12-08.10.33:544][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.05.12-08.10.33:544][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.05.12-08.10.39:883][  0]LogD3D11RHI: D3D11 adapters:
+[2018.05.12-08.10.39:959][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 750 Ti' (Feature Level 11_0)
+[2018.05.12-08.10.39:959][  0]LogD3D11RHI:       2007/0/8164 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.05.12-08.10.39:962][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.05.12-08.10.39:962][  0]LogD3D11RHI:       0/0/8164 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.05.12-08.10.39:962][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.05.12-08.10.39:974][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.05.12-08.10.39:975][  0]LogD3D11RHI:     GPU DeviceId: 0x1380 (for the marketing name, search the web for "GPU Device Id")
+[2018.05.12-08.10.39:975][  0]LogWindows: EnumDisplayDevices:
+[2018.05.12-08.10.39:975][  0]LogWindows:    0. 'NVIDIA GeForce GTX 750 Ti' (P:1 D:1)
+[2018.05.12-08.10.39:975][  0]LogWindows:    1. 'NVIDIA GeForce GTX 750 Ti' (P:0 D:1)
+[2018.05.12-08.10.39:975][  0]LogWindows:    2. 'NVIDIA GeForce GTX 750 Ti' (P:0 D:0)
+[2018.05.12-08.10.39:976][  0]LogWindows:    3. 'NVIDIA GeForce GTX 750 Ti' (P:0 D:0)
+[2018.05.12-08.10.39:976][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.05.12-08.10.39:976][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 750 Ti
+[2018.05.12-08.10.39:976][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.05.12-08.10.39:976][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.05.12-08.10.39:976][  0]LogRHI: Texture pool is 1405 MB (70% of 2007 MB)
+[2018.05.12-08.10.40:033][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.05.12-08.10.40:033][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.05.12-08.10.40:033][  0]LogD3D11RHI: Async texture creation enabled
+[2018.05.12-08.10.40:055][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.05.12-08.10.40:061][  0]LogShaderCompilers: Guid format shader working directory is -8 characters bigger than the processId version (../../../../../../Users/James/Documents/GitHub/FMP/FMP/Intermediate/Shaders/WorkingDirectory/8356/).
+[2018.05.12-08.10.40:061][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/James/AppData/Local/Temp/UnrealShaderWorkingDir/D962EC5D404EA5AFE0104DB5EDB7BA35/'.
+[2018.05.12-08.10.41:771][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.05.12-08.10.41:797][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.05.12-08.10.41:819][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.05.12-08.10.41:842][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.05.12-08.10.41:884][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.05.12-08.10.41:906][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.05.12-08.10.41:929][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.05.12-08.10.41:954][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.05.12-08.10.41:965][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.05.12-08.10.41:988][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.05.12-08.10.42:011][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.05.12-08.10.42:033][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.05.12-08.10.42:057][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.05.12-08.10.42:079][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.05.12-08.10.42:102][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.05.12-08.10.42:146][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.05.12-08.10.42:146][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.05.12-08.10.42:183][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.05.12-08.10.42:184][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.05.12-08.10.42:285][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.05.12-08.10.42:305][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.05.12-08.10.42:326][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.05.12-08.10.42:349][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.05.12-08.10.42:371][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.05.12-08.10.42:411][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.05.12-08.10.42:411][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.05.12-08.10.43:420][  0]LogXGEController: Cleaning working directory: C:/Users/James/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.05.12-08.10.43:420][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.05.12-08.10.43:420][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.05.12-08.10.43:420][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.05.12-08.10.46:020][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.05.12-08.10.46:624][  0]LogDerivedDataCache: Loaded boot cache 0.60s 74MB C:/Users/James/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.05.12-08.10.46:624][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/James/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.05.12-08.10.46:625][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/James/Documents/GitHub/FMP/FMP/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.05.12-08.10.46:625][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.05.12-08.10.46:625][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/James/Documents/GitHub/FMP/FMP/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.05.12-08.10.46:625][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.05.12-08.10.46:669][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.05.12-08.10.46:682][  0]LogDerivedDataCache: Using Local data cache path C:/Users/James/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.05.12-08.10.46:682][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.05.12-08.10.46:682][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.05.12-08.10.46:700][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.05.12-08.10.46:700][  0]LogSlate: Using Freetype 2.6.0
+[2018.05.12-08.10.46:728][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.05.12-08.10.46:729][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.05.12-08.10.54:510][  0]LogAssetRegistry: FAssetRegistry took 0.0291 seconds to start up
+[2018.05.12-08.10.55:036][  0]LogInit: Selected Device Profile: [Windows]
+[2018.05.12-08.10.55:473][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.05.12-08.10.55:478][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.05.12-08.10.55:478][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.05.12-08.10.55:478][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.05.12-08.10.55:478][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.05.12-08.10.55:478][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.05.12-08.10.55:551][  0]LogNetVersion: FMP , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3494365383)
+[2018.05.12-08.10.56:911][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.141831 seconds
+[2018.05.12-08.10.56:919][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.05.12-08.10.56:920][  0]LogUObjectAllocator: 7314312 out of 0 bytes used by permanent object pool.
+[2018.05.12-08.10.56:920][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.05.12-08.11.17:197][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.05.12-08.11.17:241][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.05.12-08.11.18:217][  0]SourceControl: Source control is disabled
+[2018.05.12-08.11.18:218][  0]SourceControl: Source control is disabled
+[2018.05.12-08.11.18:246][  0]SourceControl: Source control is disabled
+[2018.05.12-08.11.18:273][  0]SourceControl: Source control is disabled
+[2018.05.12-08.11.19:122][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.05.12-08.11.19:430][  0]LogOcInput: OculusInput pre-init called
+[2018.05.12-08.11.19:634][  0]LogEngine: Initializing Engine...
+[2018.05.12-08.11.19:636][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.05.12-08.11.19:638][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.05.12-08.11.19:638][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.05.12-08.11.20:407][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.05.12-08.11.20:426][  0]LogInit: XAudio2 using 'Headphones (2- Anker SoundCore Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.12-08.11.22:712][  0]LogInit: FAudioDevice initialized.
+[2018.05.12-08.11.22:858][  0]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{5056868e-5865-41b4-a0dd-8e6923080805} was removed. Shutting down audio device.
+[2018.05.12-08.11.22:858][  0]LogDerivedDataCache: Saved boot cache 0.15s 74MB C:/Users/James/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.05.12-08.11.22:889][  0]LogInit: Texture streaming: Enabled
+[2018.05.12-08.11.22:923][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.05.12-08.11.22:961][  0]LogInit: Transaction tracking system initialized
+[2018.05.12-08.11.23:012][  0]BlueprintLog: New page: Editor Load
+[2018.05.12-08.11.23:186][  0]LocalizationService: Localization service is disabled
+[2018.05.12-08.11.23:452][  0]LogConsoleResponse: Display: 
+[2018.05.12-08.11.24:763][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.05.12-08.11.24:763][  0]LogCook: Display: Mobile HDR setting 1
+[2018.05.12-08.11.24:763][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.05.12-08.11.24:763][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.05.12-08.11.24:763][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.05.12-08.11.25:290][  0]LogFileCache: Scanning file cache for directory 'C:/Users/James/Documents/GitHub/FMP/FMP/Content/' took 0.02s
+[2018.05.12-08.11.25:887][  0]SourceControl: Source control is disabled
+[2018.05.12-08.11.25:887][  0]Cmd: MAP LOAD FILE="../../../../../../Users/James/Documents/GitHub/FMP/FMP/Content/Maps/GameLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.05.12-08.11.25:888][  0]LightingResults: New page: Lighting Build
+[2018.05.12-08.11.25:892][  0]MapCheck: New page: Map Check
+[2018.05.12-08.11.25:892][  0]LightingResults: New page: Lighting Build
+[2018.05.12-08.11.26:045][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024489ebe940, Size=440, Default__Character__C Function /Game/Characters/Character_.Character__C:ExecuteUbergraph_Character_
+[2018.05.12-08.11.26:062][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024489ebe940, Size=440
+[2018.05.12-08.11.26:062][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024489ebe940, Size=440, Default__Character__C Function /Engine/Transient.REINST_Character__C_1:ExecuteUbergraph_Character_
+[2018.05.12-08.11.26:073][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024487757580, Size=440, Default__Character__C Function /Game/Characters/Character_.Character__C:ExecuteUbergraph_Character_
+[2018.05.12-08.11.26:083][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024486ced940, Size=264, Default__JumpPad_Blueprint_C Function /Game/Blueprints/JumpPad_Blueprint.JumpPad_Blueprint_C:ExecuteUbergraph_JumpPad_Blueprint
+[2018.05.12-08.11.26:092][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024486ced940, Size=264
+[2018.05.12-08.11.26:092][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024486ced940, Size=264, Default__JumpPad_Blueprint_C Function /Engine/Transient.REINST_JumpPad_Blueprint_C_3:ExecuteUbergraph_JumpPad_Blueprint
+[2018.05.12-08.11.26:098][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024486cedd00, Size=264, Default__JumpPad_Blueprint_C Function /Game/Blueprints/JumpPad_Blueprint.JumpPad_Blueprint_C:ExecuteUbergraph_JumpPad_Blueprint
+[2018.05.12-08.11.28:064][  0]LogAIModule: Creating AISystem for world GameLevel
+[2018.05.12-08.11.29:484][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.05.12-08.11.29:505][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024489ebe940, Size=440
+[2018.05.12-08.11.29:505][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024486ced940, Size=264
+[2018.05.12-08.11.29:507][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.05.12-08.11.29:589][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 81.884ms to complete.
+[2018.05.12-08.11.29:589][  0]LogFileHelpers: Loading map 'GameLevel' took 3.702
+[2018.05.12-08.11.29:945][  0]LogCollectionManager: Loaded 0 collections in 0.002833 seconds
+[2018.05.12-08.11.29:992][  0]LogFileCache: Scanning file cache for directory 'C:/Users/James/Documents/GitHub/FMP/FMP/Saved/Collections/' took 0.01s
+[2018.05.12-08.11.29:992][  0]LogFileCache: Scanning file cache for directory 'C:/Users/James/Documents/GitHub/FMP/FMP/Content/Developers/James/Collections/' took 0.01s
+[2018.05.12-08.11.29:992][  0]LogFileCache: Scanning file cache for directory 'C:/Users/James/Documents/GitHub/FMP/FMP/Content/Collections/' took 0.01s
+[2018.05.12-08.11.29:992][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.05.12-08.11.30:009][  0]LogContentBrowser: Native class hierarchy populated in 0.0161 seconds. Added 2452 classes and 558 folders.
+[2018.05.12-08.11.30:019][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.05.12-08.11.31:305][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.05.12-08.11.31:312][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.05.12-08.11.31:463][  0]LogSlate: Took 0.019270 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.05.12-08.11.31:480][  0]LogSlate: Took 0.015577 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.05.12-08.11.31:500][  0]LogSlate: Took 0.012386 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.05.12-08.11.31:744][  0]LogRenderer: Reallocating scene render targets to support 1128x592 Format 9 NumSamples 1 (Frame:1).
+[2018.05.12-08.11.32:089][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.05.12-08.11.32:089][  0]LogLoad: (Engine Initialization) Total time: 74.17 seconds
+[2018.05.12-08.11.32:089][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.05.12-08.11.32:451][  0]LogContentStreaming: Texture pool size now 800 MB
+[2018.05.12-08.11.32:473][  0]LogInit: XAudio2 using 'Headphones (2- Anker SoundCore Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.12-08.11.32:615][  0]LogSlate: Took 0.005788 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.05.12-08.11.33:110][  2]LogAssetRegistry: Asset discovery search completed in 38.6231 seconds
+[2018.05.12-08.11.33:114][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.05.12-08.11.33:114][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000094 seconds (updated 0 objects)
+[2018.05.12-08.12.20:085][872]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tree_22)
+[2018.05.12-08.12.35:790][155]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.12-08.12.40:404][459]LogSlate: Took 0.000320 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.05.12-08.12.41:399][459]LogRenderer: Reallocating scene render targets to support 1252x892 Format 9 NumSamples 1 (Frame:1).
+[2018.05.12-08.12.45:374][684]LogSlate: Window 'Tree2_Mesh' being destroyed
+[2018.05.12-08.13.02:634][672]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.12-08.13.08:102][948]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.12-08.13.31:342][310]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Tree2/Tree2_Material" FILE="../../../../../../Users/James/Documents/GitHub/FMP/FMP/Content/Textures/Tree2/Tree2_Material.uasset" SILENT=true
+[2018.05.12-08.13.31:368][310]LogSavePackage: Save=22.67ms
+[2018.05.12-08.13.31:368][310]LogSavePackage: Moving '../../../../../../Users/James/Documents/GitHub/FMP/FMP/Saved/Tree2_MaterialC7479B644499FD507CC18683C5C3123B.tmp' to '../../../../../../Users/James/Documents/GitHub/FMP/FMP/Content/Textures/Tree2/Tree2_Material.uasset'
+[2018.05.12-08.13.31:375][310]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/James/Documents/GitHub/FMP/FMP/Content/Textures/Tree2/Tree2_Material.uasset
+[2018.05.12-08.13.43:634][ 36]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.12-08.13.49:183][311]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.05.12-08.20.06:401][605]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.12-08.21.32:752][ 30]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/GameLevel" FILE="../../../../../../Users/James/Documents/GitHub/FMP/FMP/Saved/Autosaves/Game/Maps/GameLevel_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.05.12-08.21.33:283][ 30]LogSavePackage: Save=493.68ms
+[2018.05.12-08.21.33:283][ 30]LogSavePackage: Moving '../../../../../../Users/James/Documents/GitHub/FMP/FMP/Saved/GameLevel_Auto1A99927624EF8F7BA88A7368F7FB9CAAC.tmp' to '../../../../../../Users/James/Documents/GitHub/FMP/FMP/Saved/Autosaves/Game/Maps/GameLevel_Auto1.umap'
+[2018.05.12-08.21.33:286][ 30]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/James/Documents/GitHub/FMP/FMP/Saved/Autosaves/Game/Maps/GameLevel_Auto1.umap
+[2018.05.12-08.21.33:293][ 30]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/GameLevel' took 0.561
+[2018.05.12-08.21.33:293][ 30]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.561
+[2018.05.12-08.21.33:296][ 30]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mesh/Tree2_Mesh] ([1] browsable assets)...
+[2018.05.12-08.21.33:330][ 30]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Mesh/Tree2_Mesh.Tree2_Mesh]
+[2018.05.12-08.21.33:330][ 30]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mesh/Tree2_Mesh]
+[2018.05.12-08.21.33:330][ 30]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mesh/Tree2_Mesh" FILE="../../../../../../Users/James/Documents/GitHub/FMP/FMP/Saved/Autosaves/Game/Mesh/Tree2_Mesh_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.05.12-08.21.33:376][ 30]LogSavePackage: Save=20.36ms
+[2018.05.12-08.21.33:376][ 30]LogSavePackage: Moving '../../../../../../Users/James/Documents/GitHub/FMP/FMP/Saved/Tree2_Mesh_Auto101C4CF81419211BB43659088B0D08BAA.tmp' to '../../../../../../Users/James/Documents/GitHub/FMP/FMP/Saved/Autosaves/Game/Mesh/Tree2_Mesh_Auto1.uasset'
+[2018.05.12-08.21.33:378][ 30]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/James/Documents/GitHub/FMP/FMP/Saved/Autosaves/Game/Mesh/Tree2_Mesh_Auto1.uasset
+[2018.05.12-08.21.33:378][ 30]LogFileHelpers: Auto-saving content packages took 0.083
+[2018.05.12-08.26.33:115][714]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.12-08.48.51:471][873]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.12-08.49.42:320][599]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/James/Documents/GitHub/FMP/FMP/Mesh Projects/Tent/Tent_OBJ.obj)
+[2018.05.12-08.49.42:345][599]LogFbx: Loading FBX Scene from ../../../../../../Users/James/Documents/GitHub/FMP/FMP/Mesh Projects/Tent/Tent_OBJ.obj
+[2018.05.12-08.49.42:354][599]LogFbx: FBX Scene Loaded Succesfully
+[2018.05.12-08.49.46:065][599]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.05.12-08.49.46:115][599]LogFbx: Loading FBX Scene from ../../../../../../Users/James/Documents/GitHub/FMP/FMP/Mesh Projects/Tent/Tent_OBJ.obj
+[2018.05.12-08.49.46:125][599]LogFbx: FBX Scene Loaded Succesfully
+[2018.05.12-08.49.46:133][599]LogLinker: Can't find file '/Game/Tent_OBJ_initialShadingGroup_color'
+[2018.05.12-08.49.46:133][599]LogLinker: Can't find file '/Game/Tent_OBJ_initialShadingGroup_color'
+[2018.05.12-08.49.46:220][599]LogTexture: Display: Building textures: Tent_OBJ_initialShadingGroup_color (AutoDXT, 2048X2048)
+[2018.05.12-08.49.53:474][599]LogMaterial: Missing cached shader map for material initialShadingGroup, compiling. 
+[2018.05.12-08.49.53:539][599]LogFbx: Warning: Triangulating static mesh pCylinder1
+[2018.05.12-08.49.53:562][599]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.05.12-08.49.53:562][599]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.05.12-08.49.53:562][599]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.05.12-08.49.53:563][599]LogStaticMesh: Building static mesh Tent_OBJ...
+[2018.05.12-08.49.53:581][599]LogStaticMesh: Built static mesh [0.02s] /Game/Tent_OBJ.Tent_OBJ
+[2018.05.12-08.49.56:172][599]LogSlate: Window 'Message' being destroyed
+[2018.05.12-08.49.56:231][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/James/Documents/GitHub/FMP/FMP/Mesh Projects/Tent/Tent_OBJ_initialShadingGroup_color.tga)
+[2018.05.12-08.49.58:713][599]LogSlate: Window 'Message' being destroyed
+[2018.05.12-08.49.58:852][599]LogTexture: Display: Building textures: Tent_OBJ_initialShadingGroup_color (AutoDXT, 2048X2048)
+[2018.05.12-08.50.06:184][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/James/Documents/GitHub/FMP/FMP/Mesh Projects/Tent/Tent_OBJ_initialShadingGroup_nmap.tga)
+[2018.05.12-08.50.06:327][599]LogTexture: Display: Building textures: Tent_OBJ_initialShadingGroup_nmap (BC5, 2048X2048)
+[2018.05.12-08.50.10:518][734]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/GameLevel' took 0.020
+[2018.05.12-08.50.10:520][734]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Tent_OBJ] ([1] browsable assets)...
+[2018.05.12-08.50.10:538][734]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Tent_OBJ.Tent_OBJ]
+[2018.05.12-08.50.10:538][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Tent_OBJ]
+[2018.05.12-08.50.10:538][734]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tent_OBJ" FILE="../../../../../../Users/James/Documents/GitHub/FMP/FMP/Saved/Autosaves/Game/Tent_OBJ_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2018.05.12-08.50.10:562][734]LogSavePackage: Save=20.52ms
+[2018.05.12-08.50.10:562][734]LogSavePackage: Moving '../../../../../../Users/James/Documents/GitHub/FMP/FMP/Saved/Tent_OBJ_Auto294AE84CA4353704F8F8C3A9552D9D902.tmp' to '../../../../../../Users/James/Documents/GitHub/FMP/FMP/Saved/Autosaves/Game/Tent_OBJ_Auto2.uasset'
+[2018.05.12-08.50.10:563][734]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/James/Documents/GitHub/FMP/FMP/Saved/Autosaves/Game/Tent_OBJ_Auto2.uasset
+[2018.05.12-08.50.10:564][734]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/initialShadingGroup] ([1] browsable assets)...
+[2018.05.12-08.50.10:582][734]OBJ SavePackage:     Rendered thumbnail for [Material /Game/initialShadingGroup.initialShadingGroup]
+[2018.05.12-08.50.10:582][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/initialShadingGroup]
+[2018.05.12-08.50.10:582][734]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/initialShadingGroup" FILE="../../../../../../Users/James/Documents/GitHub/FMP/FMP/Saved/Autosaves/Game/initialShadingGroup_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2018.05.12-08.50.10:605][734]LogSavePackage: Save=19.78ms
+[2018.05.12-08.50.10:605][734]LogSavePackage: Moving '../../../../../../Users/James/Documents/GitHub/FMP/FMP/Saved/initialShadingGroup_Auto276A3AA444E3A70B56836C68930C13988.tmp' to '../../../../../../Users/James/Documents/GitHub/FMP/FMP/Saved/Autosaves/Game/initialShadingGroup_Auto2.uasset'
+[2018.05.12-08.50.10:607][734]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/James/Documents/GitHub/FMP/FMP/Saved/Autosaves/Game/initialShadingGroup_Auto2.uasset
+[2018.05.12-08.50.10:607][734]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Tent_OBJ_initialShadingGroup_color] ([1] browsable assets)...
+[2018.05.12-08.50.10:619][734]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Tent_OBJ_initialShadingGroup_color.Tent_OBJ_initialShadingGroup_color]
+[2018.05.12-08.50.10:619][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Tent_OBJ_initialShadingGroup_color]
+[2018.05.12-08.50.10:648][734]LogSavePackage: Save=26.15ms
+[2018.05.12-08.50.10:648][734]LogSavePackage: Moving '../../../../../../Users/James/Documents/GitHub/FMP/FMP/Saved/Tent_OBJ_initialShadingGroup_col4968ADCF49D09FFD66ABBA9661CF4D68.tmp' to '../../../../../../Users/James/Documents/GitHub/FMP/FMP/Saved/Autosaves/Game/Tent_OBJ_initialShadingGroup_color_Auto2.uasset'
+[2018.05.12-08.50.10:650][734]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/James/Documents/GitHub/FMP/FMP/Saved/Autosaves/Game/Tent_OBJ_initialShadingGroup_color_Auto2.uasset
+[2018.05.12-08.50.10:651][734]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Tent_OBJ_initialShadingGroup_nmap] ([1] browsable assets)...
+[2018.05.12-08.50.10:665][734]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Tent_OBJ_initialShadingGroup_nmap.Tent_OBJ_initialShadingGroup_nmap]
+[2018.05.12-08.50.10:665][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Tent_OBJ_initialShadingGroup_nmap]
+[2018.05.12-08.50.10:768][734]LogSavePackage: Save=101.02ms
+[2018.05.12-08.50.10:768][734]LogSavePackage: Moving '../../../../../../Users/James/Documents/GitHub/FMP/FMP/Saved/Tent_OBJ_initialShadingGroup_nma3CFFB14745BA718034A0CFA7D0FF1EF4.tmp' to '../../../../../../Users/James/Documents/GitHub/FMP/FMP/Saved/Autosaves/Game/Tent_OBJ_initialShadingGroup_nmap_Auto2.uasset'
+[2018.05.12-08.50.10:770][734]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/James/Documents/GitHub/FMP/FMP/Saved/Autosaves/Game/Tent_OBJ_initialShadingGroup_nmap_Auto2.uasset
+[2018.05.12-08.50.10:770][734]LogFileHelpers: Auto-saving content packages took 0.251
+[2018.05.12-08.50.23:673][310]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.12-08.50.28:521][572]LogEditorFactories: Performing atomic reimport of [C:/Users/James/Documents/GitHub/FMP/FMP/Mesh Projects/Tent/Tent_OBJ.obj]
+[2018.05.12-08.50.28:563][572]LogFbx: Loading FBX Scene from C:/Users/James/Documents/GitHub/FMP/FMP/Mesh Projects/Tent/Tent_OBJ.obj
+[2018.05.12-08.50.28:572][572]LogFbx: FBX Scene Loaded Succesfully
+[2018.05.12-08.50.28:573][572]LogFbx: Warning: Triangulating static mesh pCylinder1
+[2018.05.12-08.50.28:608][572]LogStaticMesh: Building static mesh Tent_OBJ...
+[2018.05.12-08.50.28:623][572]LogStaticMesh: Built static mesh [0.02s] /Game/Tent_OBJ.Tent_OBJ
+[2018.05.12-08.50.28:641][572]LogEditorFactories: -- imported successfully
+[2018.05.12-08.50.31:532][682]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tent_OBJ" FILE="../../../../../../Users/James/Documents/GitHub/FMP/FMP/Content/Tent_OBJ.uasset" SILENT=true
+[2018.05.12-08.50.31:556][682]LogSavePackage: Save=19.71ms
+[2018.05.12-08.50.31:556][682]LogSavePackage: Moving '../../../../../../Users/James/Documents/GitHub/FMP/FMP/Saved/Tent_OBJB1459A174672A7E54554238AFB00863C.tmp' to '../../../../../../Users/James/Documents/GitHub/FMP/FMP/Content/Tent_OBJ.uasset'
+[2018.05.12-08.50.31:567][682]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/James/Documents/GitHub/FMP/FMP/Content/Tent_OBJ.uasset
+[2018.05.12-08.50.34:373][804]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.12-08.50.34:523][810]LogActorFactory: Actor Factory created Tent_OBJ
+[2018.05.12-08.50.34:878][821]LogActorFactory: Actor Factory created Tent_OBJ
+[2018.05.12-08.50.35:991][865]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.12-08.50.36:886][910]LogMaterial: Missing cached shader map for material Tent_OBJ_initialShadingGroup_color_Mat, compiling. 
+[2018.05.12-08.50.36:903][910]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.05.12-08.50.36:903][910]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.05.12-08.50.36:904][910]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.05.12-08.50.44:379][190]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.12-08.50.46:021][247]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.12-08.50.47:998][324]LogMaterial: Missing cached shader map for material Tent_OBJ_initialShadingGroup_color_Mat, compiling. 
+[2018.05.12-08.50.48:013][324]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.05.12-08.50.48:013][324]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.05.12-08.50.48:162][324]LogMaterial: Missing cached shader map for material Tent_OBJ_initialShadingGroup_color_Mat, compiling. 
+[2018.05.12-08.50.48:177][324]LogMaterial: Missing cached shader map for material Tent_OBJ_initialShadingGroup_color_Mat, compiling. 
+[2018.05.12-08.50.48:223][324]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.05.12-08.50.48:268][324]LogSlate: Took 0.024624 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.05.12-08.50.48:603][325]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.05.12-08.50.48:603][325]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.05.12-08.50.49:999][380]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.05.12-08.50.50:076][384]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.05.12-08.50.51:327][435]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.05.12-08.50.51:435][439]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.05.12-08.50.52:502][481]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.05.12-08.50.52:530][482]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.05.12-08.50.52:557][482]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.05.12-08.50.53:443][514]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.05.12-08.50.54:958][572]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.05.12-08.50.54:985][573]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.05.12-08.50.55:013][574]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.05.12-08.50.56:201][618]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.05.12-08.50.57:016][652]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.05.12-08.50.57:465][670]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.05.12-08.50.58:535][713]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.05.12-08.50.58:752][722]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.05.12-08.50.59:322][745]MaterialEditorStats: Base pass shader: 102 instructions
+[2018.05.12-08.50.59:322][745]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2018.05.12-08.50.59:322][745]MaterialEditorStats: Vertex shader: 38 instructions
+[2018.05.12-08.50.59:322][745]MaterialEditorStats: Texture samplers: 3/16
+[2018.05.12-08.50.59:322][745]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.05.12-08.51.14:519][452]Cmd: DELETE
+[2018.05.12-08.51.14:519][452]Cmd: ACTOR DELETE
+[2018.05.12-08.51.14:532][452]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.05.12-08.51.14:550][452]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2018.05.12-08.51.17:325][572]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.12-08.51.24:955][941]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mesh/Tent_OBJ" FILE="../../../../../../Users/James/Documents/GitHub/FMP/FMP/Content/Mesh/Tent_OBJ.uasset" SILENT=true
+[2018.05.12-08.51.24:981][941]LogSavePackage: Save=21.72ms
+[2018.05.12-08.51.24:981][941]LogSavePackage: Moving '../../../../../../Users/James/Documents/GitHub/FMP/FMP/Saved/Tent_OBJ9127A0C74358C5AD32A83FABEB46CFA5.tmp' to '../../../../../../Users/James/Documents/GitHub/FMP/FMP/Content/Mesh/Tent_OBJ.uasset'
+[2018.05.12-08.51.24:985][941]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/James/Documents/GitHub/FMP/FMP/Content/Mesh/Tent_OBJ.uasset
+[2018.05.12-08.51.35:113][457]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/initialShadingGroup" FILE="../../../../../../Users/James/Documents/GitHub/FMP/FMP/Content/Textures/initialShadingGroup.uasset" SILENT=true
+[2018.05.12-08.51.35:163][457]LogSavePackage: Save=20.41ms
+[2018.05.12-08.51.35:163][457]LogSavePackage: Moving '../../../../../../Users/James/Documents/GitHub/FMP/FMP/Saved/initialShadingGroup640D117141796AD0F2D463BD7F613E0B.tmp' to '../../../../../../Users/James/Documents/GitHub/FMP/FMP/Content/Textures/initialShadingGroup.uasset'
+[2018.05.12-08.51.35:168][457]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/James/Documents/GitHub/FMP/FMP/Content/Textures/initialShadingGroup.uasset
+[2018.05.12-08.51.35:715][457]LogSavePackage: Save=519.17ms
+[2018.05.12-08.51.35:715][457]LogSavePackage: Moving '../../../../../../Users/James/Documents/GitHub/FMP/FMP/Saved/Tent_OBJ_initialShadingGroup_col2118477646DFCBD1D5E33E8FD49AAA2E.tmp' to '../../../../../../Users/James/Documents/GitHub/FMP/FMP/Content/Textures/Tent_OBJ_initialShadingGroup_color.uasset'
+[2018.05.12-08.51.35:720][457]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/James/Documents/GitHub/FMP/FMP/Content/Textures/Tent_OBJ_initialShadingGroup_color.uasset
+[2018.05.12-08.51.35:770][457]LogSavePackage: Save=22.12ms
+[2018.05.12-08.51.35:770][457]LogSavePackage: Moving '../../../../../../Users/James/Documents/GitHub/FMP/FMP/Saved/Tent_OBJ_initialShadingGroup_col9A55C8884CBD653D4D01BA959372FAFB.tmp' to '../../../../../../Users/James/Documents/GitHub/FMP/FMP/Content/Textures/Tent_OBJ_initialShadingGroup_color_Mat.uasset'
+[2018.05.12-08.51.35:774][457]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/James/Documents/GitHub/FMP/FMP/Content/Textures/Tent_OBJ_initialShadingGroup_color_Mat.uasset
+[2018.05.12-08.51.36:419][457]LogSavePackage: Save=624.02ms
+[2018.05.12-08.51.36:419][457]LogSavePackage: Moving '../../../../../../Users/James/Documents/GitHub/FMP/FMP/Saved/Tent_OBJ_initialShadingGroup_nma87A9A633430FB4386397C693652ECF17.tmp' to '../../../../../../Users/James/Documents/GitHub/FMP/FMP/Content/Textures/Tent_OBJ_initialShadingGroup_nmap.uasset'
+[2018.05.12-08.51.36:423][457]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/James/Documents/GitHub/FMP/FMP/Content/Textures/Tent_OBJ_initialShadingGroup_nmap.uasset
+[2018.05.12-08.51.36:792][457]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mesh/Tent_OBJ" FILE="../../../../../../Users/James/Documents/GitHub/FMP/FMP/Content/Mesh/Tent_OBJ.uasset" SILENT=true
+[2018.05.12-08.51.36:827][457]LogSavePackage: Save=9.98ms
+[2018.05.12-08.51.36:827][457]LogSavePackage: Moving '../../../../../../Users/James/Documents/GitHub/FMP/FMP/Saved/Tent_OBJ043C631D456E9683C7785C882BB6FCC7.tmp' to '../../../../../../Users/James/Documents/GitHub/FMP/FMP/Content/Mesh/Tent_OBJ.uasset'
+[2018.05.12-08.51.36:829][457]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/James/Documents/GitHub/FMP/FMP/Content/Mesh/Tent_OBJ.uasset
+[2018.05.12-08.51.46:013][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Tent/initialShadingGroup" FILE="../../../../../../Users/James/Documents/GitHub/FMP/FMP/Content/Textures/Tent/initialShadingGroup.uasset" SILENT=true
+[2018.05.12-08.51.46:037][922]LogSavePackage: Save=20.54ms
+[2018.05.12-08.51.46:037][922]LogSavePackage: Moving '../../../../../../Users/James/Documents/GitHub/FMP/FMP/Saved/initialShadingGroupB9566826413BD2976B98DFA3188A5330.tmp' to '../../../../../../Users/James/Documents/GitHub/FMP/FMP/Content/Textures/Tent/initialShadingGroup.uasset'
+[2018.05.12-08.51.46:042][922]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/James/Documents/GitHub/FMP/FMP/Content/Textures/Tent/initialShadingGroup.uasset
+[2018.05.12-08.51.46:240][922]LogSavePackage: Save=179.99ms
+[2018.05.12-08.51.46:241][922]LogSavePackage: Moving '../../../../../../Users/James/Documents/GitHub/FMP/FMP/Saved/Tent_OBJ_initialShadingGroup_col5310223944D304EA4E2AA8A64D32F766.tmp' to '../../../../../../Users/James/Documents/GitHub/FMP/FMP/Content/Textures/Tent/Tent_OBJ_initialShadingGroup_color.uasset'
+[2018.05.12-08.51.46:246][922]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/James/Documents/GitHub/FMP/FMP/Content/Textures/Tent/Tent_OBJ_initialShadingGroup_color.uasset
+[2018.05.12-08.51.46:301][922]LogSavePackage: Save=20.19ms
+[2018.05.12-08.51.46:301][922]LogSavePackage: Moving '../../../../../../Users/James/Documents/GitHub/FMP/FMP/Saved/Tent_OBJ_initialShadingGroup_colDD91CB6F4D1BE461BA704093B2221909.tmp' to '../../../../../../Users/James/Documents/GitHub/FMP/FMP/Content/Textures/Tent/Tent_OBJ_initialShadingGroup_color_Mat.uasset'
+[2018.05.12-08.51.46:306][922]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/James/Documents/GitHub/FMP/FMP/Content/Textures/Tent/Tent_OBJ_initialShadingGroup_color_Mat.uasset
+[2018.05.12-08.51.46:554][922]LogSavePackage: Save=226.61ms
+[2018.05.12-08.51.46:554][922]LogSavePackage: Moving '../../../../../../Users/James/Documents/GitHub/FMP/FMP/Saved/Tent_OBJ_initialShadingGroup_nma1F982176464EB89B03079F8F346701F4.tmp' to '../../../../../../Users/James/Documents/GitHub/FMP/FMP/Content/Textures/Tent/Tent_OBJ_initialShadingGroup_nmap.uasset'
+[2018.05.12-08.51.46:559][922]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/James/Documents/GitHub/FMP/FMP/Content/Textures/Tent/Tent_OBJ_initialShadingGroup_nmap.uasset
+[2018.05.12-08.51.46:897][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mesh/Tree2_Mesh" FILE="../../../../../../Users/James/Documents/GitHub/FMP/FMP/Content/Mesh/Tree2_Mesh.uasset" SILENT=true
+[2018.05.12-08.51.46:938][922]LogSavePackage: Save=12.80ms
+[2018.05.12-08.51.46:938][922]LogSavePackage: Moving '../../../../../../Users/James/Documents/GitHub/FMP/FMP/Saved/Tree2_MeshD65A9A2D4EF4BC666FAEA18B20BD7D51.tmp' to '../../../../../../Users/James/Documents/GitHub/FMP/FMP/Content/Mesh/Tree2_Mesh.uasset'
+[2018.05.12-08.51.46:947][922]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/James/Documents/GitHub/FMP/FMP/Content/Mesh/Tree2_Mesh.uasset
+[2018.05.12-08.51.46:952][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mesh/Tent_OBJ" FILE="../../../../../../Users/James/Documents/GitHub/FMP/FMP/Content/Mesh/Tent_OBJ.uasset" SILENT=true
+[2018.05.12-08.51.46:980][922]LogSavePackage: Save=10.09ms
+[2018.05.12-08.51.46:980][922]LogSavePackage: Moving '../../../../../../Users/James/Documents/GitHub/FMP/FMP/Saved/Tent_OBJA208E50944C7846CDB6403A3829177AB.tmp' to '../../../../../../Users/James/Documents/GitHub/FMP/FMP/Content/Mesh/Tent_OBJ.uasset'
+[2018.05.12-08.51.46:982][922]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/James/Documents/GitHub/FMP/FMP/Content/Mesh/Tent_OBJ.uasset
+[2018.05.12-08.52.04:781][740]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Tree1/Tree1_Material" FILE="../../../../../../Users/James/Documents/GitHub/FMP/FMP/Content/Textures/Tree1/Tree1_Material.uasset" SILENT=true
+[2018.05.12-08.52.04:805][740]LogSavePackage: Save=21.66ms
+[2018.05.12-08.52.04:805][740]LogSavePackage: Moving '../../../../../../Users/James/Documents/GitHub/FMP/FMP/Saved/Tree1_Material15FD19684DAF9DF3D08CF7A8AF402675.tmp' to '../../../../../../Users/James/Documents/GitHub/FMP/FMP/Content/Textures/Tree1/Tree1_Material.uasset'
+[2018.05.12-08.52.04:809][740]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/James/Documents/GitHub/FMP/FMP/Content/Textures/Tree1/Tree1_Material.uasset
+[2018.05.12-08.52.04:814][740]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Tree1/initialShadingGroup" FILE="../../../../../../Users/James/Documents/GitHub/FMP/FMP/Content/Textures/Tree1/initialShadingGroup.uasset" SILENT=true
+[2018.05.12-08.52.04:845][740]LogSavePackage: Save=8.80ms
+[2018.05.12-08.52.04:845][740]LogSavePackage: Moving '../../../../../../Users/James/Documents/GitHub/FMP/FMP/Saved/initialShadingGroup61B697B14C6388F01A26D4BB3769230C.tmp' to '../../../../../../Users/James/Documents/GitHub/FMP/FMP/Content/Textures/Tree1/initialShadingGroup.uasset'
+[2018.05.12-08.52.04:850][740]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/James/Documents/GitHub/FMP/FMP/Content/Textures/Tree1/initialShadingGroup.uasset
+[2018.05.12-08.52.12:483][ 22]LogSlate: Window 'Delete Assets' being destroyed
+[2018.05.12-08.52.13:023][ 22]LogSlate: Window 'Tent_OBJ_initialShadingGroup_color_Mat' being destroyed
+[2018.05.12-08.52.22:509][689]LogSlate: Window 'Delete Assets' being destroyed
+[2018.05.12-08.52.36:427][ 85]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Tent/Tent_Material" FILE="../../../../../../Users/James/Documents/GitHub/FMP/FMP/Content/Textures/Tent/Tent_Material.uasset" SILENT=true
+[2018.05.12-08.52.36:450][ 85]LogSavePackage: Save=19.66ms
+[2018.05.12-08.52.36:450][ 85]LogSavePackage: Moving '../../../../../../Users/James/Documents/GitHub/FMP/FMP/Saved/Tent_MaterialFE47B8EB449F88E5D393E698D538AA20.tmp' to '../../../../../../Users/James/Documents/GitHub/FMP/FMP/Content/Textures/Tent/Tent_Material.uasset'
+[2018.05.12-08.52.36:454][ 85]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/James/Documents/GitHub/FMP/FMP/Content/Textures/Tent/Tent_Material.uasset
+[2018.05.12-08.52.40:391][425]LogMaterial: Missing cached shader map for material Tent_Material, compiling. 
+[2018.05.12-08.52.40:519][425]LogMaterial: Missing cached shader map for material Tent_Material, compiling. 
+[2018.05.12-08.52.40:531][425]LogMaterial: Missing cached shader map for material Tent_Material, compiling. 
+[2018.05.12-08.52.40:555][425]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.05.12-08.52.40:555][425]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.05.12-08.52.40:555][425]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.05.12-08.52.40:568][425]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.05.12-08.52.42:830][537]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.05.12-08.52.42:847][538]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.05.12-08.52.42:865][539]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.05.12-08.52.43:830][592]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.05.12-08.52.43:830][592]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.05.12-08.52.43:970][599]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.05.12-08.52.44:905][650]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.05.12-08.52.45:435][679]LogMaterialEditor: Saving and Compiling material Tent_Material
+[2018.05.12-08.52.45:459][679]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Tent/Tent_Material" FILE="../../../../../../Users/James/Documents/GitHub/FMP/FMP/Content/Textures/Tent/Tent_Material.uasset" SILENT=true
+[2018.05.12-08.52.45:557][679]LogSavePackage: Save=60.32ms
+[2018.05.12-08.52.45:557][679]LogSavePackage: Moving '../../../../../../Users/James/Documents/GitHub/FMP/FMP/Saved/Tent_MaterialA9BC816547FD666C7237FABDA38777BC.tmp' to '../../../../../../Users/James/Documents/GitHub/FMP/FMP/Content/Textures/Tent/Tent_Material.uasset'
+[2018.05.12-08.52.45:560][679]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/James/Documents/GitHub/FMP/FMP/Content/Textures/Tent/Tent_Material.uasset
+[2018.05.12-08.52.45:707][687]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.05.12-08.52.45:724][688]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.05.12-08.52.45:865][696]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.05.12-08.52.47:163][769]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.05.12-08.52.47:789][804]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.05.12-08.52.48:471][841]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.05.12-08.52.49:285][868]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.05.12-08.52.49:673][869]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.05.12-08.52.50:266][870]MaterialEditorStats: Base pass shader: 102 instructions
+[2018.05.12-08.52.50:266][870]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2018.05.12-08.52.50:266][870]MaterialEditorStats: Vertex shader: 38 instructions
+[2018.05.12-08.52.50:266][870]MaterialEditorStats: Texture samplers: 3/16
+[2018.05.12-08.52.50:266][870]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.05.12-08.53.08:463][402]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.12-08.53.27:618][453]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0020 seconds. Added 116 classes and 0 folders.
+[2018.05.12-08.53.28:060][453]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024511c769a0, Size=4, Default__SKEL_PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.SKEL_PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.05.12-08.53.28:061][453]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024511c76bc8, Size=4, Default__PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.05.12-08.53.30:349][556]LogSlate: Took 0.024894 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.05.12-08.53.33:877][763]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.12-08.53.40:084][ 90]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.12-08.53.40:150][ 95]BlueprintLog: New page: Compile Tent_Blueprint
+[2018.05.12-08.54.00:895][348]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.12-08.54.03:271][485]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.12-08.54.03:607][508]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.12-08.54.03:642][508]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.12-08.54.03:642][508]PIE: New page: PIE session: GameLevel (12 May 2018 10:54:03)
+[2018.05.12-08.54.03:643][508]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GameLevel
+[2018.05.12-08.54.03:679][508]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036841s)
+[2018.05.12-08.54.03:680][508]LogAIModule: Creating AISystem for world GameLevel
+[2018.05.12-08.54.03:681][508]LogPlayLevel: PIE: World Init took: (0.001255s)
+[2018.05.12-08.54.03:681][508]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GameLevel.GameLevel to /Game/Maps/UEDPIE_0_GameLevel.GameLevel (0.038342s)
+[2018.05.12-08.54.03:724][508]LogInit: XAudio2 using 'Headphones (2- Anker SoundCore Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.12-08.54.03:738][508]LogInit: FAudioDevice initialized.
+[2018.05.12-08.54.03:790][508]LogLoad: Game class is 'GM_C'
+[2018.05.12-08.54.03:800][508]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GameLevel.GameLevel up for play (max tick rate 0) at 2018.05.12-09.54.03
+[2018.05.12-08.54.03:801][508]LogWorld: Bringing up level for play took: 0.008954
+[2018.05.12-08.54.03:818][508]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 11 classes and 0 folders.
+[2018.05.12-08.54.03:818][508]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.05.12-08.54.03:818][508]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.05.12-08.54.03:818][508]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.05.12-08.54.03:820][508]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.05.12-08.54.03:820][508]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_GameLevel -0.631
+[2018.05.12-08.54.11:051][955]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.12-08.54.17:158][205]LogSlate: Window 'Delete Assets' being destroyed
+[2018.05.12-08.54.17:278][205]LogSlate: Window 'Tent_Material' being destroyed
+[2018.05.12-08.54.24:804][709]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mesh/Tent_Mesh" FILE="../../../../../../Users/James/Documents/GitHub/FMP/FMP/Content/Mesh/Tent_Mesh.uasset" SILENT=true
+[2018.05.12-08.54.24:829][709]LogSavePackage: Save=20.70ms
+[2018.05.12-08.54.24:829][709]LogSavePackage: Moving '../../../../../../Users/James/Documents/GitHub/FMP/FMP/Saved/Tent_Mesh7B48075747FD4749FE5612B0958BE8CA.tmp' to '../../../../../../Users/James/Documents/GitHub/FMP/FMP/Content/Mesh/Tent_Mesh.uasset'
+[2018.05.12-08.54.24:832][709]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/James/Documents/GitHub/FMP/FMP/Content/Mesh/Tent_Mesh.uasset
+[2018.05.12-08.54.44:966][895]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.12-08.55.08:142][209]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.12-08.55.08:280][215]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mesh/Tent_Mesh" FILE="../../../../../../Users/James/Documents/GitHub/FMP/FMP/Content/Mesh/Tent_Mesh.uasset" SILENT=true
+[2018.05.12-08.55.08:331][215]LogSavePackage: Save=19.28ms
+[2018.05.12-08.55.08:331][215]LogSavePackage: Moving '../../../../../../Users/James/Documents/GitHub/FMP/FMP/Saved/Tent_Mesh9D64A1BE4384D51DF158B8B86B407D88.tmp' to '../../../../../../Users/James/Documents/GitHub/FMP/FMP/Content/Mesh/Tent_Mesh.uasset'
+[2018.05.12-08.55.08:335][215]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/James/Documents/GitHub/FMP/FMP/Content/Mesh/Tent_Mesh.uasset
+[2018.05.12-08.55.19:564][818]LogSlate: Window 'Tent_Mesh' being destroyed
+[2018.05.12-08.55.19:572][818]LogSlate: Window 'Tent_Mesh' being destroyed
+[2018.05.12-08.55.23:698][167]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.12-08.55.23:768][174]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.12-08.55.23:797][174]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.05.12-08.55.23:800][174]LogPlayLevel: [PlayLevel] Compiling Tent_Blueprint before play...
+[2018.05.12-08.55.24:355][174]LogPlayLevel: PlayLevel: Blueprint regeneration took 557 ms (1 blueprints)
+[2018.05.12-08.55.24:355][174]PIE: New page: PIE session: GameLevel (12 May 2018 10:55:24)
+[2018.05.12-08.55.24:355][174]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GameLevel
+[2018.05.12-08.55.24:391][174]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035606s)
+[2018.05.12-08.55.24:392][174]LogAIModule: Creating AISystem for world GameLevel
+[2018.05.12-08.55.24:392][174]LogPlayLevel: PIE: World Init took: (0.001002s)
+[2018.05.12-08.55.24:392][174]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GameLevel.GameLevel to /Game/Maps/UEDPIE_0_GameLevel.GameLevel (0.036811s)
+[2018.05.12-08.55.24:434][174]LogInit: XAudio2 using 'Headphones (2- Anker SoundCore Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.12-08.55.24:446][174]LogInit: FAudioDevice initialized.
+[2018.05.12-08.55.24:484][174]LogLoad: Game class is 'GM_C'
+[2018.05.12-08.55.24:493][174]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GameLevel.GameLevel up for play (max tick rate 0) at 2018.05.12-09.55.24
+[2018.05.12-08.55.24:494][174]LogWorld: Bringing up level for play took: 0.009241
+[2018.05.12-08.55.24:495][174]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.05.12-08.55.24:495][174]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.05.12-08.55.24:495][174]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.05.12-08.55.24:496][174]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.05.12-08.55.24:496][174]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_GameLevel 0.045
+[2018.05.12-08.55.30:877][781]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.12-08.55.36:900][ 99]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mesh/Tent_Mesh" FILE="../../../../../../Users/James/Documents/GitHub/FMP/FMP/Content/Mesh/Tent_Mesh.uasset" SILENT=true
+[2018.05.12-08.55.36:931][ 99]LogSavePackage: Save=10.50ms
+[2018.05.12-08.55.36:931][ 99]LogSavePackage: Moving '../../../../../../Users/James/Documents/GitHub/FMP/FMP/Saved/Tent_Mesh62DF966D42BED22E939B99B114AF75B0.tmp' to '../../../../../../Users/James/Documents/GitHub/FMP/FMP/Content/Mesh/Tent_Mesh.uasset'
+[2018.05.12-08.55.36:933][ 99]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/James/Documents/GitHub/FMP/FMP/Content/Mesh/Tent_Mesh.uasset
+[2018.05.12-08.55.38:336][181]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.12-08.55.38:364][181]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.12-08.55.38:364][181]PIE: New page: PIE session: GameLevel (12 May 2018 10:55:38)
+[2018.05.12-08.55.38:364][181]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GameLevel
+[2018.05.12-08.55.38:401][181]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036387s)
+[2018.05.12-08.55.38:402][181]LogAIModule: Creating AISystem for world GameLevel
+[2018.05.12-08.55.38:402][181]LogPlayLevel: PIE: World Init took: (0.001074s)
+[2018.05.12-08.55.38:402][181]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GameLevel.GameLevel to /Game/Maps/UEDPIE_0_GameLevel.GameLevel (0.037676s)
+[2018.05.12-08.55.38:444][181]LogInit: XAudio2 using 'Headphones (2- Anker SoundCore Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.12-08.55.38:455][181]LogInit: FAudioDevice initialized.
+[2018.05.12-08.55.38:492][181]LogLoad: Game class is 'GM_C'
+[2018.05.12-08.55.38:501][181]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GameLevel.GameLevel up for play (max tick rate 0) at 2018.05.12-09.55.38
+[2018.05.12-08.55.38:501][181]LogWorld: Bringing up level for play took: 0.008915
+[2018.05.12-08.55.38:502][181]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.05.12-08.55.38:502][181]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.05.12-08.55.38:502][181]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.05.12-08.55.38:503][181]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.05.12-08.55.38:504][181]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_GameLevel 0.053
+[2018.05.12-08.55.45:291][632]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.12-08.55.53:781][147]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.12-08.55.53:851][151]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.12-08.55.53:878][151]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.12-08.55.53:879][151]PIE: New page: PIE session: GameLevel (12 May 2018 10:55:53)
+[2018.05.12-08.55.53:879][151]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GameLevel
+[2018.05.12-08.55.53:915][151]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036504s)
+[2018.05.12-08.55.53:916][151]LogAIModule: Creating AISystem for world GameLevel
+[2018.05.12-08.55.53:916][151]LogPlayLevel: PIE: World Init took: (0.001023s)
+[2018.05.12-08.55.53:916][151]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GameLevel.GameLevel to /Game/Maps/UEDPIE_0_GameLevel.GameLevel (0.037725s)
+[2018.05.12-08.55.53:957][151]LogInit: XAudio2 using 'Headphones (2- Anker SoundCore Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.12-08.55.53:970][151]LogInit: FAudioDevice initialized.
+[2018.05.12-08.55.54:006][151]LogLoad: Game class is 'GM_C'
+[2018.05.12-08.55.54:015][151]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GameLevel.GameLevel up for play (max tick rate 0) at 2018.05.12-09.55.54
+[2018.05.12-08.55.54:016][151]LogWorld: Bringing up level for play took: 0.009718
+[2018.05.12-08.55.54:017][151]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.05.12-08.55.54:018][151]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.05.12-08.55.54:018][151]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.05.12-08.55.54:019][151]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.05.12-08.55.54:019][151]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_GameLevel -0.432
+[2018.05.12-08.56.06:413][979]LogEditorViewport: Clicking on Actor (LMB): Tent_Blueprint_C (Tent_Blueprint3)
+[2018.05.12-08.56.24:181][897]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.12-08.56.32:548][348]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.12-08.56.45:182][991]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.12-08.56.49:219][214]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.12-08.56.51:716][365]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.12-08.56.51:744][365]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.05.12-08.56.51:748][365]LogPlayLevel: [PlayLevel] Compiling Tent_Blueprint before play...
+[2018.05.12-08.56.52:494][365]LogPlayLevel: PlayLevel: Blueprint regeneration took 749 ms (1 blueprints)
+[2018.05.12-08.56.52:494][365]PIE: New page: PIE session: GameLevel (12 May 2018 10:56:52)
+[2018.05.12-08.56.52:494][365]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GameLevel
+[2018.05.12-08.56.52:531][365]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036860s)
+[2018.05.12-08.56.52:532][365]LogAIModule: Creating AISystem for world GameLevel
+[2018.05.12-08.56.52:532][365]LogPlayLevel: PIE: World Init took: (0.001003s)
+[2018.05.12-08.56.52:532][365]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GameLevel.GameLevel to /Game/Maps/UEDPIE_0_GameLevel.GameLevel (0.038054s)
+[2018.05.12-08.56.52:573][365]LogInit: XAudio2 using 'Headphones (2- Anker SoundCore Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.12-08.56.52:584][365]LogInit: FAudioDevice initialized.
+[2018.05.12-08.56.52:644][365]LogLoad: Game class is 'GM_C'
+[2018.05.12-08.56.52:652][365]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GameLevel.GameLevel up for play (max tick rate 0) at 2018.05.12-09.56.52
+[2018.05.12-08.56.52:652][365]LogWorld: Bringing up level for play took: 0.008423
+[2018.05.12-08.56.52:653][365]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.05.12-08.56.52:653][365]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.05.12-08.56.52:653][365]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.05.12-08.56.52:654][365]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.05.12-08.56.52:658][365]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_GameLevel 0.208
+[2018.05.12-08.56.52:817][365]LogRenderer: Reallocating scene render targets to support 1292x892 Format 9 NumSamples 1 (Frame:1).
+[2018.05.12-08.56.55:954][552]LogSlate: Window 'FMP Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.05.12-08.56.58:423][670]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.12-08.57.51:704][320]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mesh/Tent_Mesh" FILE="../../../../../../Users/James/Documents/GitHub/FMP/FMP/Content/Mesh/Tent_Mesh.uasset" SILENT=true
+[2018.05.12-08.57.51:755][320]LogSavePackage: Save=26.65ms
+[2018.05.12-08.57.51:755][320]LogSavePackage: Moving '../../../../../../Users/James/Documents/GitHub/FMP/FMP/Saved/Tent_Mesh60EFE9014D0FC5253AF2AD9560AE7866.tmp' to '../../../../../../Users/James/Documents/GitHub/FMP/FMP/Content/Mesh/Tent_Mesh.uasset'
+[2018.05.12-08.57.51:760][320]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/James/Documents/GitHub/FMP/FMP/Content/Mesh/Tent_Mesh.uasset
+[2018.05.12-08.57.53:330][414]BlueprintLog: New page: Compile Tent_Blueprint
+[2018.05.12-08.57.54:715][445]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.12-08.57.54:748][445]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.12-08.57.54:748][445]PIE: New page: PIE session: GameLevel (12 May 2018 10:57:54)
+[2018.05.12-08.57.54:748][445]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GameLevel
+[2018.05.12-08.57.54:783][445]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035258s)
+[2018.05.12-08.57.54:784][445]LogAIModule: Creating AISystem for world GameLevel
+[2018.05.12-08.57.54:784][445]LogPlayLevel: PIE: World Init took: (0.001137s)
+[2018.05.12-08.57.54:784][445]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GameLevel.GameLevel to /Game/Maps/UEDPIE_0_GameLevel.GameLevel (0.036587s)
+[2018.05.12-08.57.54:828][445]LogInit: XAudio2 using 'Headphones (2- Anker SoundCore Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.12-08.57.54:840][445]LogInit: FAudioDevice initialized.
+[2018.05.12-08.57.54:897][445]LogLoad: Game class is 'GM_C'
+[2018.05.12-08.57.54:906][445]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GameLevel.GameLevel up for play (max tick rate 0) at 2018.05.12-09.57.54
+[2018.05.12-08.57.54:906][445]LogWorld: Bringing up level for play took: 0.008781
+[2018.05.12-08.57.54:907][445]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.05.12-08.57.54:907][445]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.05.12-08.57.54:907][445]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.05.12-08.57.54:908][445]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.05.12-08.57.54:913][445]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_GameLevel 0.462
+[2018.05.12-08.58.09:407][335]LogSlate: Window 'FMP Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.05.12-09.01.00:592][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/GameLevel" FILE="../../../../../../Users/James/Documents/GitHub/FMP/FMP/Saved/Autosaves/Game/Maps/GameLevel_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.05.12-09.01.01:199][927]LogSavePackage: Save=567.84ms
+[2018.05.12-09.01.01:199][927]LogSavePackage: Moving '../../../../../../Users/James/Documents/GitHub/FMP/FMP/Saved/GameLevel_Auto33E8F42E24956907C2B10618C16CB9E68.tmp' to '../../../../../../Users/James/Documents/GitHub/FMP/FMP/Saved/Autosaves/Game/Maps/GameLevel_Auto3.umap'
+[2018.05.12-09.01.01:202][927]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/James/Documents/GitHub/FMP/FMP/Saved/Autosaves/Game/Maps/GameLevel_Auto3.umap
+[2018.05.12-09.01.01:206][927]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/GameLevel' took 0.656
+[2018.05.12-09.01.01:206][927]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.656
+[2018.05.12-09.01.01:210][927]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Tent_Blueprint] ([1] browsable assets)...
+[2018.05.12-09.01.01:231][927]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Tent_Blueprint.Tent_Blueprint]
+[2018.05.12-09.01.01:232][927]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Tent_Blueprint]
+[2018.05.12-09.01.01:300][927]LogSavePackage: Save=39.41ms
+[2018.05.12-09.01.01:300][927]LogSavePackage: Moving '../../../../../../Users/James/Documents/GitHub/FMP/FMP/Saved/Tent_Blueprint_Auto385F1DCEA434E276CFEA038B997FBCF27.tmp' to '../../../../../../Users/James/Documents/GitHub/FMP/FMP/Saved/Autosaves/Game/Blueprints/Tent_Blueprint_Auto3.uasset'
+[2018.05.12-09.01.01:302][927]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/James/Documents/GitHub/FMP/FMP/Saved/Autosaves/Game/Blueprints/Tent_Blueprint_Auto3.uasset
+[2018.05.12-09.01.01:302][927]LogFileHelpers: Auto-saving content packages took 0.095
+[2018.05.12-09.13.17:017][902]LogEditorFactories: Performing atomic reimport of [C:/Users/James/Documents/GitHub/FMP/FMP/Mesh Projects/Tent/Tent_OBJ_initialShadingGroup_color.tga]
+[2018.05.12-09.13.17:160][902]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/James/Documents/GitHub/FMP/FMP/Mesh Projects/Tent/Tent_OBJ_initialShadingGroup_color.tga)
+[2018.05.12-09.13.17:305][902]LogTexture: Display: Building textures: Tent_OBJ_initialShadingGroup_color (AutoDXT, 2048X2048)
+[2018.05.12-09.13.24:506][902]LogEditorFactories: -- imported successfully
+[2018.05.12-09.13.31:926][315]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.12-09.13.39:145][397]LogSlate: Window 'Message' being destroyed
+[2018.05.12-09.13.39:200][397]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/James/Documents/GitHub/FMP/FMP/Mesh Projects/Tent/Tent_OBJ_initialShadingGroup_color.tga)
+[2018.05.12-09.13.40:016][397]LogSlate: Window 'Message' being destroyed
+[2018.05.12-09.13.40:139][397]LogTexture: Display: Building textures: Tent_OBJ_initialShadingGroup_color (AutoDXT, 2048X2048)
+[2018.05.12-09.13.50:913][397]LogSlate: Window 'Message' being destroyed
+[2018.05.12-09.13.50:967][397]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/James/Documents/GitHub/FMP/FMP/Mesh Projects/Tent/Tent_OBJ_initialShadingGroup_nmap.tga)
+[2018.05.12-09.13.52:036][397]LogSlate: Window 'Message' being destroyed
+[2018.05.12-09.13.52:167][397]LogTexture: Display: Building textures: Tent_OBJ_initialShadingGroup_nmap (BC5, 2048X2048)
+[2018.05.12-09.13.56:419][528]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/GameLevel' took 0.029
+[2018.05.12-09.13.56:422][528]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/Tent/Tent_OBJ_initialShadingGroup_color] ([1] browsable assets)...
+[2018.05.12-09.13.56:434][528]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/Tent/Tent_OBJ_initialShadingGroup_color.Tent_OBJ_initialShadingGroup_color]
+[2018.05.12-09.13.56:434][528]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/Tent/Tent_OBJ_initialShadingGroup_color]
+[2018.05.12-09.13.56:498][528]LogSavePackage: Save=28.32ms
+[2018.05.12-09.13.56:498][528]LogSavePackage: Moving '../../../../../../Users/James/Documents/GitHub/FMP/FMP/Saved/Tent_OBJ_initialShadingGroup_colB6926A6F4DE5DC46283327AF101C965E.tmp' to '../../../../../../Users/James/Documents/GitHub/FMP/FMP/Saved/Autosaves/Game/Textures/Tent/Tent_OBJ_initialShadingGroup_color_Auto4.uasset'
+[2018.05.12-09.13.56:500][528]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/James/Documents/GitHub/FMP/FMP/Saved/Autosaves/Game/Textures/Tent/Tent_OBJ_initialShadingGroup_color_Auto4.uasset
+[2018.05.12-09.13.56:500][528]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/Tent/Tent_OBJ_initialShadingGroup_nmap] ([1] browsable assets)...
+[2018.05.12-09.13.56:514][528]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/Tent/Tent_OBJ_initialShadingGroup_nmap.Tent_OBJ_initialShadingGroup_nmap]
+[2018.05.12-09.13.56:514][528]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/Tent/Tent_OBJ_initialShadingGroup_nmap]
+[2018.05.12-09.13.56:590][528]LogSavePackage: Save=46.23ms
+[2018.05.12-09.13.56:590][528]LogSavePackage: Moving '../../../../../../Users/James/Documents/GitHub/FMP/FMP/Saved/Tent_OBJ_initialShadingGroup_nma08B8BFB94B5C78465372CF922C2A546B.tmp' to '../../../../../../Users/James/Documents/GitHub/FMP/FMP/Saved/Autosaves/Game/Textures/Tent/Tent_OBJ_initialShadingGroup_nmap_Auto4.uasset'
+[2018.05.12-09.13.56:592][528]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/James/Documents/GitHub/FMP/FMP/Saved/Autosaves/Game/Textures/Tent/Tent_OBJ_initialShadingGroup_nmap_Auto4.uasset
+[2018.05.12-09.13.56:592][528]LogFileHelpers: Auto-saving content packages took 0.172
+[2018.05.12-09.13.58:366][617]LogMaterial: Missing cached shader map for material Tent_Material, compiling. 
+[2018.05.12-09.13.58:491][617]LogMaterial: Missing cached shader map for material Tent_Material, compiling. 
+[2018.05.12-09.13.58:507][617]LogMaterial: Missing cached shader map for material Tent_Material, compiling. 
+[2018.05.12-09.13.58:532][617]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.05.12-09.13.58:532][617]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.05.12-09.13.58:532][617]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.05.12-09.13.58:545][617]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.05.12-09.14.01:996][763]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.05.12-09.14.02:232][775]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.05.12-09.14.03:210][824]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.05.12-09.14.03:251][826]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.05.12-09.14.03:981][862]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.05.12-09.14.04:312][878]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.05.12-09.14.05:897][961]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.05.12-09.14.06:202][977]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.05.12-09.14.06:954][ 17]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.05.12-09.14.07:936][ 68]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.05.12-09.14.08:916][119]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.05.12-09.14.09:001][123]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.05.12-09.14.10:104][171]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.05.12-09.14.10:162][174]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.05.12-09.14.10:366][184]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.12-09.14.10:457][188]LogEditorViewport: Clicking on Actor (LMB): Tent_Blueprint_C (Tent_Blueprint2)
+[2018.05.12-09.14.10:849][201]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.05.12-09.14.11:736][238]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.12-09.14.12:873][293]MaterialEditorStats: Base pass shader: 102 instructions
+[2018.05.12-09.14.12:873][293]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2018.05.12-09.14.12:873][293]MaterialEditorStats: Vertex shader: 38 instructions
+[2018.05.12-09.14.12:873][293]MaterialEditorStats: Texture samplers: 3/16
+[2018.05.12-09.14.12:873][293]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.05.12-09.14.22:049][809]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.12-09.14.22:140][815]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.12-09.14.22:170][815]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.12-09.14.22:170][815]PIE: New page: PIE session: GameLevel (12 May 2018 11:14:22)
+[2018.05.12-09.14.22:170][815]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GameLevel
+[2018.05.12-09.14.22:207][815]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036986s)
+[2018.05.12-09.14.22:208][815]LogAIModule: Creating AISystem for world GameLevel
+[2018.05.12-09.14.22:208][815]LogPlayLevel: PIE: World Init took: (0.001066s)
+[2018.05.12-09.14.22:208][815]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GameLevel.GameLevel to /Game/Maps/UEDPIE_0_GameLevel.GameLevel (0.038268s)
+[2018.05.12-09.14.22:251][815]LogInit: XAudio2 using 'Headphones (2- Anker SoundCore Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.12-09.14.22:262][815]LogInit: FAudioDevice initialized.
+[2018.05.12-09.14.22:326][815]LogLoad: Game class is 'GM_C'
+[2018.05.12-09.14.22:337][815]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GameLevel.GameLevel up for play (max tick rate 0) at 2018.05.12-10.14.22
+[2018.05.12-09.14.22:337][815]LogWorld: Bringing up level for play took: 0.010163
+[2018.05.12-09.14.22:339][815]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.05.12-09.14.22:339][815]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.05.12-09.14.22:339][815]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.05.12-09.14.22:340][815]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.05.12-09.14.22:344][815]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_GameLevel -0.107
+[2018.05.12-09.15.43:900][791]LogSlate: Window 'FMP Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.05.12-09.23.11:905][979]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.12-09.23.18:110][286]LogEditorFactories: Performing atomic reimport of [C:/Users/James/Documents/GitHub/FMP/FMP/Mesh Projects/Tent/Tent_OBJ_initialShadingGroup_color.tga]
+[2018.05.12-09.23.18:158][286]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/James/Documents/GitHub/FMP/FMP/Mesh Projects/Tent/Tent_OBJ_initialShadingGroup_color.tga)
+[2018.05.12-09.23.18:302][286]LogTexture: Display: Building textures: Tent_OBJ_initialShadingGroup_color (AutoDXT, 2048X2048)
+[2018.05.12-09.23.25:561][286]LogEditorFactories: -- imported successfully
+[2018.05.12-09.23.25:655][286]LogEditorFactories: Performing atomic reimport of [C:/Users/James/Documents/GitHub/FMP/FMP/Mesh Projects/Tent/Tent_OBJ_initialShadingGroup_nmap.tga]
+[2018.05.12-09.23.25:703][286]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/James/Documents/GitHub/FMP/FMP/Mesh Projects/Tent/Tent_OBJ_initialShadingGroup_nmap.tga)
+[2018.05.12-09.23.25:842][286]LogTexture: Display: Building textures: Tent_OBJ_initialShadingGroup_nmap (BC5, 2048X2048)
+[2018.05.12-09.23.26:858][286]LogEditorFactories: -- imported successfully
+[2018.05.12-09.23.31:774][542]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.12-09.23.31:803][542]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.12-09.23.31:803][542]PIE: New page: PIE session: GameLevel (12 May 2018 11:23:31)
+[2018.05.12-09.23.31:803][542]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GameLevel
+[2018.05.12-09.23.31:839][542]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036121s)
+[2018.05.12-09.23.31:840][542]LogAIModule: Creating AISystem for world GameLevel
+[2018.05.12-09.23.31:840][542]LogPlayLevel: PIE: World Init took: (0.001093s)
+[2018.05.12-09.23.31:840][542]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GameLevel.GameLevel to /Game/Maps/UEDPIE_0_GameLevel.GameLevel (0.037436s)
+[2018.05.12-09.23.31:884][542]LogInit: XAudio2 using 'Headphones (2- Anker SoundCore Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.12-09.23.31:895][542]LogInit: FAudioDevice initialized.
+[2018.05.12-09.23.31:932][542]LogLoad: Game class is 'GM_C'
+[2018.05.12-09.23.31:941][542]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GameLevel.GameLevel up for play (max tick rate 0) at 2018.05.12-10.23.31
+[2018.05.12-09.23.31:942][542]LogWorld: Bringing up level for play took: 0.009218
+[2018.05.12-09.23.31:943][542]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.05.12-09.23.31:943][542]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.05.12-09.23.31:943][542]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.05.12-09.23.31:944][542]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.05.12-09.23.31:944][542]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_GameLevel -0.506
+[2018.05.12-09.24.37:253][340]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.12-09.24.41:231][573]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.12-09.24.49:268][ 62]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.12-09.24.54:551][346]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.12-09.25.54:258][917]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/James/Desktop/rope.jpg)
+[2018.05.12-09.25.54:285][917]LogTexture: Display: Building textures: rope (BGRA8, 170X170)
+[2018.05.12-09.25.55:600][982]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/GameLevel' took 0.030
+[2018.05.12-09.25.55:603][982]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/Tent/Tent_OBJ_initialShadingGroup_color] ([1] browsable assets)...
+[2018.05.12-09.25.55:615][982]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/Tent/Tent_OBJ_initialShadingGroup_color.Tent_OBJ_initialShadingGroup_color]
+[2018.05.12-09.25.55:615][982]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/Tent/Tent_OBJ_initialShadingGroup_color]
+[2018.05.12-09.25.55:678][982]LogSavePackage: Save=26.85ms
+[2018.05.12-09.25.55:678][982]LogSavePackage: Moving '../../../../../../Users/James/Documents/GitHub/FMP/FMP/Saved/Tent_OBJ_initialShadingGroup_col9FD27FFF434597C5B758BCB665C6A607.tmp' to '../../../../../../Users/James/Documents/GitHub/FMP/FMP/Saved/Autosaves/Game/Textures/Tent/Tent_OBJ_initialShadingGroup_color_Auto5.uasset'
+[2018.05.12-09.25.55:682][982]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/James/Documents/GitHub/FMP/FMP/Saved/Autosaves/Game/Textures/Tent/Tent_OBJ_initialShadingGroup_color_Auto5.uasset
+[2018.05.12-09.25.55:682][982]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/Tent/Tent_OBJ_initialShadingGroup_nmap] ([1] browsable assets)...
+[2018.05.12-09.25.55:695][982]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/Tent/Tent_OBJ_initialShadingGroup_nmap.Tent_OBJ_initialShadingGroup_nmap]
+[2018.05.12-09.25.55:695][982]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/Tent/Tent_OBJ_initialShadingGroup_nmap]
+[2018.05.12-09.25.55:838][982]LogSavePackage: Save=111.19ms
+[2018.05.12-09.25.55:838][982]LogSavePackage: Moving '../../../../../../Users/James/Documents/GitHub/FMP/FMP/Saved/Tent_OBJ_initialShadingGroup_nma520E77394B882769B137A2B3DCBF8FDD.tmp' to '../../../../../../Users/James/Documents/GitHub/FMP/FMP/Saved/Autosaves/Game/Textures/Tent/Tent_OBJ_initialShadingGroup_nmap_Auto5.uasset'
+[2018.05.12-09.25.55:839][982]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/James/Documents/GitHub/FMP/FMP/Saved/Autosaves/Game/Textures/Tent/Tent_OBJ_initialShadingGroup_nmap_Auto5.uasset
+[2018.05.12-09.25.55:840][982]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/rope] ([1] browsable assets)...
+[2018.05.12-09.25.55:846][982]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/rope.rope]
+[2018.05.12-09.25.55:846][982]OBJ SavePackage: Finished generating thumbnails for package [/Game/rope]
+[2018.05.12-09.25.55:846][982]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/rope" FILE="../../../../../../Users/James/Documents/GitHub/FMP/FMP/Saved/Autosaves/Game/rope_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2018.05.12-09.25.55:862][982]LogSavePackage: Save=13.48ms
+[2018.05.12-09.25.55:862][982]LogSavePackage: Moving '../../../../../../Users/James/Documents/GitHub/FMP/FMP/Saved/rope_Auto5E43D46814726E163071A9EA852964FD1.tmp' to '../../../../../../Users/James/Documents/GitHub/FMP/FMP/Saved/Autosaves/Game/rope_Auto5.uasset'
+[2018.05.12-09.25.55:864][982]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/James/Documents/GitHub/FMP/FMP/Saved/Autosaves/Game/rope_Auto5.uasset
+[2018.05.12-09.25.55:864][982]LogFileHelpers: Auto-saving content packages took 0.263
+[2018.05.12-09.25.58:174][105]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.12-09.26.09:860][653]LogMaterial: Missing cached shader map for material rope_Mat, compiling. 
+[2018.05.12-09.26.09:916][654]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.05.12-09.26.09:916][654]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.05.12-09.26.09:916][654]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.05.12-09.26.31:381][763]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.12-09.26.37:464][105]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.12-09.26.37:628][112]LogMaterial: Missing cached shader map for material rope_Mat, compiling. 
+[2018.05.12-09.26.37:746][112]LogMaterial: Missing cached shader map for material rope_Mat, compiling. 
+[2018.05.12-09.26.37:759][112]LogMaterial: Missing cached shader map for material rope_Mat, compiling. 
+[2018.05.12-09.26.37:784][112]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.05.12-09.26.37:784][112]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.05.12-09.26.37:784][112]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.05.12-09.26.37:797][112]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.05.12-09.26.38:471][135]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.05.12-09.26.38:588][140]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.05.12-09.26.39:428][179]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.05.12-09.26.39:617][188]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.05.12-09.26.40:380][224]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.05.12-09.26.40:503][230]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.05.12-09.26.41:858][294]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.05.12-09.26.42:313][316]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.05.12-09.26.42:643][332]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.05.12-09.26.43:899][381]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.05.12-09.26.44:819][423]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.05.12-09.26.45:064][434]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.05.12-09.26.45:917][473]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.05.12-09.26.46:777][513]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.05.12-09.26.47:042][525]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.05.12-09.26.47:267][535]MaterialEditorStats: Base pass shader: 102 instructions
+[2018.05.12-09.26.47:267][535]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2018.05.12-09.26.47:267][535]MaterialEditorStats: Vertex shader: 38 instructions
+[2018.05.12-09.26.47:268][535]MaterialEditorStats: Texture samplers: 3/16
+[2018.05.12-09.26.47:268][535]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.05.12-09.26.49:941][670]LogMaterial: Missing cached shader map for material rope_Mat, compiling. 
+[2018.05.12-09.26.49:967][671]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.05.12-09.26.49:968][671]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.05.12-09.26.49:968][671]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.05.12-09.26.50:465][694]LogMaterial: Missing cached shader map for material rope_Mat, compiling. 
+[2018.05.12-09.26.51:129][724]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.05.12-09.26.51:259][730]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.05.12-09.26.51:283][731]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.05.12-09.26.52:513][787]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.05.12-09.26.52:731][797]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.05.12-09.26.52:897][805]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.05.12-09.26.53:573][837]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.05.12-09.26.53:984][856]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.05.12-09.26.54:091][861]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.05.12-09.26.54:758][893]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.05.12-09.26.55:772][940]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.05.12-09.26.56:303][965]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.05.12-09.26.56:328][966]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.05.12-09.26.57:619][ 24]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.05.12-09.26.57:990][ 41]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.05.12-09.26.57:996][ 41]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.12-09.26.59:248][ 99]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.05.12-09.26.59:960][128]MaterialEditorStats: Base pass shader: 102 instructions
+[2018.05.12-09.26.59:960][128]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2018.05.12-09.26.59:961][128]MaterialEditorStats: Vertex shader: 38 instructions
+[2018.05.12-09.26.59:961][128]MaterialEditorStats: Texture samplers: 3/16
+[2018.05.12-09.26.59:961][128]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.05.12-09.27.03:641][320]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.12-09.27.08:392][396]LogSlate: Window 'Delete Assets' being destroyed
+[2018.05.12-09.27.08:807][396]LogSlate: Window 'rope_Mat*' being destroyed
+[2018.05.12-09.27.10:924][455]LogSlate: Window 'Delete Assets' being destroyed
+[2018.05.12-09.32.08:942][676]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/James/Desktop/Rope_PNG.png)
+[2018.05.12-09.32.08:964][676]LogTexture: Display: Building textures: Rope_PNG (AutoDXT, 128X128)
+[2018.05.12-09.32.20:066][739]LogMaterial: Missing cached shader map for material Rope_Mat, compiling. 
+[2018.05.12-09.32.20:101][740]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.05.12-09.32.20:101][740]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.05.12-09.32.20:101][740]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.05.12-09.32.22:551][924]LogMaterial: Missing cached shader map for material Rope_Mat, compiling. 
+[2018.05.12-09.32.22:669][924]LogMaterial: Missing cached shader map for material Rope_Mat, compiling. 
+[2018.05.12-09.32.22:685][924]LogMaterial: Missing cached shader map for material Rope_Mat, compiling. 
+[2018.05.12-09.32.22:731][924]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.05.12-09.32.23:456][951]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.05.12-09.32.24:781][ 17]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.05.12-09.32.25:353][ 46]LogMaterial: Missing cached shader map for material Rope_Mat, compiling. 
+[2018.05.12-09.32.26:080][ 82]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.05.12-09.32.27:684][167]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.05.12-09.32.28:902][231]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.05.12-09.32.29:961][290]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.05.12-09.32.31:179][357]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.05.12-09.32.31:553][378]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.05.12-09.32.32:437][426]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.05.12-09.32.32:551][432]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.05.12-09.32.33:383][478]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.05.12-09.32.33:453][482]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.05.12-09.32.34:092][517]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.05.12-09.32.35:406][589]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.05.12-09.32.36:063][624]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.05.12-09.32.36:443][645]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.05.12-09.32.38:111][736]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.05.12-09.32.38:360][750]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.05.12-09.32.39:396][806]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.05.12-09.32.39:432][808]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.05.12-09.32.40:737][878]MaterialEditorStats: Base pass shader: 102 instructions
+[2018.05.12-09.32.40:738][878]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2018.05.12-09.32.40:738][878]MaterialEditorStats: Vertex shader: 38 instructions
+[2018.05.12-09.32.40:738][878]MaterialEditorStats: Texture samplers: 3/16
+[2018.05.12-09.32.40:738][878]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.05.12-09.32.44:509][104]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.12-09.34.08:348][675]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.12-09.34.09:991][742]LogEditorFactories: Performing atomic reimport of [C:/Users/James/Desktop/Rope_PNG.png]
+[2018.05.12-09.34.09:997][742]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/James/Desktop/Rope_PNG.png)
+[2018.05.12-09.34.10:009][742]LogTexture: Display: Building textures: Rope_PNG (AutoDXT, 128X128)
+[2018.05.12-09.34.10:039][742]LogEditorFactories: -- imported successfully
+[2018.05.12-09.35.56:576][495]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/GameLevel" FILE="../../../../../../Users/James/Documents/GitHub/FMP/FMP/Saved/Autosaves/Game/Maps/GameLevel_Auto6.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.05.12-09.35.58:101][495]LogSavePackage: Save=1467.29ms
+[2018.05.12-09.35.58:101][495]LogSavePackage: Moving '../../../../../../Users/James/Documents/GitHub/FMP/FMP/Saved/GameLevel_Auto69E24B2FB4E42D220DE99179E9C98B708.tmp' to '../../../../../../Users/James/Documents/GitHub/FMP/FMP/Saved/Autosaves/Game/Maps/GameLevel_Auto6.umap'
+[2018.05.12-09.35.58:105][495]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/James/Documents/GitHub/FMP/FMP/Saved/Autosaves/Game/Maps/GameLevel_Auto6.umap
+[2018.05.12-09.35.58:117][495]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/GameLevel' took 1.854
+[2018.05.12-09.35.58:117][495]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.854
+[2018.05.12-09.35.58:124][495]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Tent_Blueprint] ([1] browsable assets)...
+[2018.05.12-09.35.58:124][495]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Tent_Blueprint]
+[2018.05.12-09.35.58:404][495]LogSavePackage: Save=37.65ms
+[2018.05.12-09.35.58:405][495]LogSavePackage: Moving '../../../../../../Users/James/Documents/GitHub/FMP/FMP/Saved/Tent_Blueprint_Auto6DA1DEF7344B57F21509753A36B99177A.tmp' to '../../../../../../Users/James/Documents/GitHub/FMP/FMP/Saved/Autosaves/Game/Blueprints/Tent_Blueprint_Auto6.uasset'
+[2018.05.12-09.35.58:407][495]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/James/Documents/GitHub/FMP/FMP/Saved/Autosaves/Game/Blueprints/Tent_Blueprint_Auto6.uasset
+[2018.05.12-09.35.58:408][495]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Rope_PNG] ([1] browsable assets)...
+[2018.05.12-09.35.58:412][495]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Rope_PNG.Rope_PNG]
+[2018.05.12-09.35.58:412][495]OBJ SavePackage: Finished generating thumbnails for package [/Game/Rope_PNG]
+[2018.05.12-09.35.58:412][495]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rope_PNG" FILE="../../../../../../Users/James/Documents/GitHub/FMP/FMP/Saved/Autosaves/Game/Rope_PNG_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2018.05.12-09.35.58:548][495]LogSavePackage: Save=114.66ms
+[2018.05.12-09.35.58:548][495]LogSavePackage: Moving '../../../../../../Users/James/Documents/GitHub/FMP/FMP/Saved/Rope_PNG_Auto688D5310E4D9EBAC17EE1A28DB1CEFE5A.tmp' to '../../../../../../Users/James/Documents/GitHub/FMP/FMP/Saved/Autosaves/Game/Rope_PNG_Auto6.uasset'
+[2018.05.12-09.35.58:552][495]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/James/Documents/GitHub/FMP/FMP/Saved/Autosaves/Game/Rope_PNG_Auto6.uasset
+[2018.05.12-09.35.58:553][495]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Rope_Mat] ([1] browsable assets)...
+[2018.05.12-09.35.58:606][495]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Rope_Mat.Rope_Mat]
+[2018.05.12-09.35.58:606][495]OBJ SavePackage: Finished generating thumbnails for package [/Game/Rope_Mat]
+[2018.05.12-09.35.58:607][495]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rope_Mat" FILE="../../../../../../Users/James/Documents/GitHub/FMP/FMP/Saved/Autosaves/Game/Rope_Mat_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2018.05.12-09.35.58:640][495]LogSavePackage: Save=27.48ms
+[2018.05.12-09.35.58:640][495]LogSavePackage: Moving '../../../../../../Users/James/Documents/GitHub/FMP/FMP/Saved/Rope_Mat_Auto626D4BE2B4A7BF85838D22FBC27DDA19C.tmp' to '../../../../../../Users/James/Documents/GitHub/FMP/FMP/Saved/Autosaves/Game/Rope_Mat_Auto6.uasset'
+[2018.05.12-09.35.58:642][495]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/James/Documents/GitHub/FMP/FMP/Saved/Autosaves/Game/Rope_Mat_Auto6.uasset
+[2018.05.12-09.35.58:642][495]LogFileHelpers: Auto-saving content packages took 0.520
+[2018.05.12-09.44.41:397][543]LogMaterial: Missing cached shader map for material Rope_Mat, compiling. 
+[2018.05.12-09.44.41:511][544]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.05.12-09.44.41:511][544]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.05.12-09.44.41:511][544]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.05.12-09.44.43:087][627]LogMaterial: Missing cached shader map for material Rope_Mat, compiling. 
+[2018.05.12-09.44.43:881][665]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.05.12-09.44.45:273][713]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.05.12-09.44.45:812][714]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.05.12-09.44.46:632][716]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.05.12-09.44.47:167][733]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.05.12-09.44.47:303][740]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.05.12-09.44.48:287][794]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.05.12-09.44.48:736][817]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.05.12-09.44.48:759][818]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.05.12-09.44.49:912][878]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.05.12-09.44.51:557][966]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.05.12-09.44.51:627][970]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.05.12-09.44.51:684][973]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.05.12-09.44.53:289][ 54]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.05.12-09.44.54:323][107]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.05.12-09.44.54:448][113]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.05.12-09.44.56:347][210]MaterialEditorStats: Base pass shader: 102 instructions
+[2018.05.12-09.44.56:348][210]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2018.05.12-09.44.56:348][210]MaterialEditorStats: Vertex shader: 38 instructions
+[2018.05.12-09.44.56:348][210]MaterialEditorStats: Texture samplers: 3/16
+[2018.05.12-09.44.56:348][210]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.05.12-09.44.59:515][397]LogMaterial: Missing cached shader map for material Rope_Mat, compiling. 
+[2018.05.12-09.44.59:658][398]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.05.12-09.44.59:658][398]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.05.12-09.44.59:658][398]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.05.12-09.44.59:670][398]LogMaterial: Missing cached shader map for material Material_0, compiling. 
+[2018.05.12-09.45.00:933][463]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.05.12-09.45.01:266][481]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.05.12-09.45.01:283][482]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.05.12-09.45.01:324][483]LogMaterial: Missing cached shader map for material Rope_Mat, compiling. 
+[2018.05.12-09.45.02:268][528]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.05.12-09.45.02:597][545]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.05.12-09.45.02:618][546]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.05.12-09.45.04:164][576]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.05.12-09.45.04:167][576]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.05.12-09.45.04:167][576]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.05.12-09.45.05:162][578]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.05.12-09.45.05:162][578]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.05.12-09.45.05:164][578]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.05.12-09.45.06:314][581]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.05.12-09.45.07:101][583]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.05.12-09.45.07:101][583]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.05.12-09.45.07:101][583]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.05.12-09.45.08:391][586]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.05.12-09.45.09:271][588]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.05.12-09.45.09:271][588]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.05.12-09.45.10:051][590]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.05.12-09.45.11:271][593]MaterialEditorStats: Base pass shader: 102 instructions
+[2018.05.12-09.45.11:271][593]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2018.05.12-09.45.11:271][593]MaterialEditorStats: Vertex shader: 38 instructions
+[2018.05.12-09.45.11:271][593]MaterialEditorStats: Texture samplers: 3/16
+[2018.05.12-09.45.11:271][593]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.05.12-09.45.25:333][978]LogSlate: Window 'Delete Assets' being destroyed
+[2018.05.12-09.45.31:361][344]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.12-09.45.37:475][754]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Rope_Mat_Inst, compiling. 
+[2018.05.12-09.45.38:063][754]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.05.12-09.45.38:065][754]TextureStreamingBuild: Display: Compiling optional shaders took 0.600 seconds.
+[2018.05.12-09.45.41:307][863]LogSlate: Window 'Delete Assets' being destroyed
+[2018.05.12-09.46.22:045][149]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Rope_Mat" FILE="../../../../../../Users/James/Documents/GitHub/FMP/FMP/Content/Textures/Rope_Mat.uasset" SILENT=true
+[2018.05.12-09.46.22:069][149]LogSavePackage: Save=20.59ms
+[2018.05.12-09.46.22:069][149]LogSavePackage: Moving '../../../../../../Users/James/Documents/GitHub/FMP/FMP/Saved/Rope_Mat53201D454B658365CA22D0AB33CD1D9B.tmp' to '../../../../../../Users/James/Documents/GitHub/FMP/FMP/Content/Textures/Rope_Mat.uasset'
+[2018.05.12-09.46.22:074][149]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/James/Documents/GitHub/FMP/FMP/Content/Textures/Rope_Mat.uasset
+[2018.05.12-09.46.22:080][149]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Rope_PNG" FILE="../../../../../../Users/James/Documents/GitHub/FMP/FMP/Content/Textures/Rope_PNG.uasset" SILENT=true
+[2018.05.12-09.46.22:094][149]LogSavePackage: Save=12.07ms
+[2018.05.12-09.46.22:095][149]LogSavePackage: Moving '../../../../../../Users/James/Documents/GitHub/FMP/FMP/Saved/Rope_PNGC5A3D48E41F2646A58CCABBF27C8A062.tmp' to '../../../../../../Users/James/Documents/GitHub/FMP/FMP/Content/Textures/Rope_PNG.uasset'
+[2018.05.12-09.46.22:099][149]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/James/Documents/GitHub/FMP/FMP/Content/Textures/Rope_PNG.uasset
+[2018.05.12-09.46.26:201][334]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Tent_Rope/Rope_Mat" FILE="../../../../../../Users/James/Documents/GitHub/FMP/FMP/Content/Textures/Tent_Rope/Rope_Mat.uasset" SILENT=true
+[2018.05.12-09.46.26:224][334]LogSavePackage: Save=20.67ms
+[2018.05.12-09.46.26:224][334]LogSavePackage: Moving '../../../../../../Users/James/Documents/GitHub/FMP/FMP/Saved/Rope_MatB3D7D35A40ED7E641134FABB11672EA2.tmp' to '../../../../../../Users/James/Documents/GitHub/FMP/FMP/Content/Textures/Tent_Rope/Rope_Mat.uasset'
+[2018.05.12-09.46.26:228][334]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/James/Documents/GitHub/FMP/FMP/Content/Textures/Tent_Rope/Rope_Mat.uasset
+[2018.05.12-09.46.26:236][334]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Tent_Rope/Rope_PNG" FILE="../../../../../../Users/James/Documents/GitHub/FMP/FMP/Content/Textures/Tent_Rope/Rope_PNG.uasset" SILENT=true
+[2018.05.12-09.46.26:248][334]LogSavePackage: Save=10.08ms
+[2018.05.12-09.46.26:248][334]LogSavePackage: Moving '../../../../../../Users/James/Documents/GitHub/FMP/FMP/Saved/Rope_PNG0B8101D3496283609F53689FF63F6EFD.tmp' to '../../../../../../Users/James/Documents/GitHub/FMP/FMP/Content/Textures/Tent_Rope/Rope_PNG.uasset'
+[2018.05.12-09.46.26:252][334]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/James/Documents/GitHub/FMP/FMP/Content/Textures/Tent_Rope/Rope_PNG.uasset
+[2018.05.12-09.46.57:850][123]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.12-09.46.57:926][128]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.12-09.46.57:955][128]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.05.12-09.46.57:961][128]LogPlayLevel: [PlayLevel] Compiling Tent_Blueprint before play...
+[2018.05.12-09.46.58:520][128]LogPlayLevel: PlayLevel: Blueprint regeneration took 564 ms (1 blueprints)
+[2018.05.12-09.46.58:520][128]PIE: New page: PIE session: GameLevel (12 May 2018 11:46:58)
+[2018.05.12-09.46.58:520][128]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GameLevel
+[2018.05.12-09.46.58:763][128]LogPlayLevel: PIE: StaticDuplicateObject took: (0.243102s)
+[2018.05.12-09.46.58:764][128]LogAIModule: Creating AISystem for world GameLevel
+[2018.05.12-09.46.58:764][128]LogPlayLevel: PIE: World Init took: (0.001075s)
+[2018.05.12-09.46.58:764][128]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GameLevel.GameLevel to /Game/Maps/UEDPIE_0_GameLevel.GameLevel (0.244382s)
+[2018.05.12-09.46.58:804][128]LogInit: XAudio2 using 'Headphones (2- Anker SoundCore Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.12-09.46.58:817][128]LogInit: FAudioDevice initialized.
+[2018.05.12-09.46.58:857][128]LogLoad: Game class is 'GM_C'
+[2018.05.12-09.46.58:866][128]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GameLevel.GameLevel up for play (max tick rate 0) at 2018.05.12-10.46.58
+[2018.05.12-09.46.58:867][128]LogWorld: Bringing up level for play took: 0.009098
+[2018.05.12-09.46.58:868][128]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.05.12-09.46.58:868][128]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.05.12-09.46.58:868][128]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.05.12-09.46.58:869][128]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.05.12-09.46.58:870][128]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_GameLevel 0.418
+[2018.05.12-09.47.20:599][551]LogEditorViewport: Clicking on Actor (LMB): Tent_Blueprint_C (Tent_Blueprint3)
+[2018.05.12-09.47.33:830][285]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.12-09.47.35:481][288]LogSlate: Window 'Message' being destroyed
+[2018.05.12-09.47.40:273][288]LogMaterial: Missing cached shader map for material Rope_Mat, compiling. 
+[2018.05.12-09.47.40:321][288]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.05.12-09.47.40:321][288]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.05.12-09.47.40:321][288]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.05.12-09.47.40:357][288]LogMaterial: Missing cached shader map for material Rope_Mat, compiling. 
+[2018.05.12-09.47.40:395][288]LogMaterial: Missing cached shader map for material Rope_Mat, compiling. 
+[2018.05.12-09.47.40:463][288]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Rope_Mat, compiling. 
+[2018.05.12-09.47.43:084][288]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.05.12-09.47.43:084][288]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.05.12-09.47.43:084][288]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.05.12-09.47.43:084][288]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.05.12-09.47.43:084][288]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.05.12-09.47.43:084][288]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.05.12-09.47.43:084][288]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.05.12-09.47.43:084][288]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.05.12-09.47.43:084][288]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.05.12-09.47.43:084][288]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.05.12-09.47.43:084][288]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.05.12-09.47.43:084][288]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.05.12-09.47.43:084][288]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.05.12-09.47.43:084][288]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.05.12-09.47.43:085][288]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.05.12-09.47.43:085][288]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.05.12-09.47.43:085][288]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.05.12-09.47.43:087][288]TextureStreamingBuild: Display: Compiling optional shaders took 2.632 seconds.
+[2018.05.12-09.47.43:153][288]LogSlate: Window 'Rope_Mat*' being destroyed
+[2018.05.12-09.47.43:155][288]LogSlate: Window 'Rope_Mat*' being destroyed
+[2018.05.12-09.47.52:358][955]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.12-09.47.52:412][955]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/GameLevel" FILE="../../../../../../Users/James/Documents/GitHub/FMP/FMP/Saved/Autosaves/Game/Maps/GameLevel_Auto7.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.05.12-09.47.53:007][955]LogSavePackage: Save=478.10ms
+[2018.05.12-09.47.53:007][955]LogSavePackage: Moving '../../../../../../Users/James/Documents/GitHub/FMP/FMP/Saved/GameLevel_Auto76DB22CF847433E748B8A1DACF4879C97.tmp' to '../../../../../../Users/James/Documents/GitHub/FMP/FMP/Saved/Autosaves/Game/Maps/GameLevel_Auto7.umap'
+[2018.05.12-09.47.53:009][955]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/James/Documents/GitHub/FMP/FMP/Saved/Autosaves/Game/Maps/GameLevel_Auto7.umap
+[2018.05.12-09.47.53:013][955]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/GameLevel' took 0.635
+[2018.05.12-09.47.53:013][955]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.635
+[2018.05.12-09.47.53:015][955]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Tent_Blueprint] ([1] browsable assets)...
+[2018.05.12-09.47.53:037][955]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Tent_Blueprint.Tent_Blueprint]
+[2018.05.12-09.47.53:037][955]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Tent_Blueprint]
+[2018.05.12-09.47.53:125][955]LogSavePackage: Save=34.14ms
+[2018.05.12-09.47.53:125][955]LogSavePackage: Moving '../../../../../../Users/James/Documents/GitHub/FMP/FMP/Saved/Tent_Blueprint_Auto73419663749DE034129B2D886B1B988E4.tmp' to '../../../../../../Users/James/Documents/GitHub/FMP/FMP/Saved/Autosaves/Game/Blueprints/Tent_Blueprint_Auto7.uasset'
+[2018.05.12-09.47.53:127][955]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/James/Documents/GitHub/FMP/FMP/Saved/Autosaves/Game/Blueprints/Tent_Blueprint_Auto7.uasset
+[2018.05.12-09.47.53:127][955]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/Tent_Rope/Rope_Mat] ([1] browsable assets)...
+[2018.05.12-09.47.53:149][955]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Textures/Tent_Rope/Rope_Mat.Rope_Mat]
+[2018.05.12-09.47.53:149][955]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/Tent_Rope/Rope_Mat]
+[2018.05.12-09.47.53:193][955]LogSavePackage: Save=20.47ms
+[2018.05.12-09.47.53:193][955]LogSavePackage: Moving '../../../../../../Users/James/Documents/GitHub/FMP/FMP/Saved/Rope_Mat_Auto7F96F2B58465E57B3466485A9CA502537.tmp' to '../../../../../../Users/James/Documents/GitHub/FMP/FMP/Saved/Autosaves/Game/Textures/Tent_Rope/Rope_Mat_Auto7.uasset'
+[2018.05.12-09.47.53:195][955]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/James/Documents/GitHub/FMP/FMP/Saved/Autosaves/Game/Textures/Tent_Rope/Rope_Mat_Auto7.uasset
+[2018.05.12-09.47.53:195][955]LogFileHelpers: Auto-saving content packages took 0.181
+[2018.05.12-09.49.52:988][249]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.12-10.31.00:748][872]LogSlate: Window 'Save Content' being destroyed
+[2018.05.12-10.31.00:778][872]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Tent_Blueprint" FILE="../../../../../../Users/James/Documents/GitHub/FMP/FMP/Content/Blueprints/Tent_Blueprint.uasset" SILENT=true
+[2018.05.12-10.31.00:866][872]LogSavePackage: Save=23.29ms
+[2018.05.12-10.31.00:866][872]LogSavePackage: Moving '../../../../../../Users/James/Documents/GitHub/FMP/FMP/Saved/Tent_Blueprint89A6C2A74B0CCF51BA147097D458D68E.tmp' to '../../../../../../Users/James/Documents/GitHub/FMP/FMP/Content/Blueprints/Tent_Blueprint.uasset'
+[2018.05.12-10.31.00:877][872]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/James/Documents/GitHub/FMP/FMP/Content/Blueprints/Tent_Blueprint.uasset
+[2018.05.12-10.31.01:110][872]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/GameLevel" FILE="../../../../../../Users/James/Documents/GitHub/FMP/FMP/Content/Maps/GameLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.12-10.31.01:635][872]LogSavePackage: Save=460.63ms
+[2018.05.12-10.31.01:635][872]LogSavePackage: Moving '../../../../../../Users/James/Documents/GitHub/FMP/FMP/Saved/GameLevel155C02E14B9F3D62475533A347CB99F8.tmp' to '../../../../../../Users/James/Documents/GitHub/FMP/FMP/Content/Maps/GameLevel.umap'
+[2018.05.12-10.31.01:646][872]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/James/Documents/GitHub/FMP/FMP/Content/Maps/GameLevel.umap
+[2018.05.12-10.31.01:692][872]LogFileHelpers: Saving map 'GameLevel' took 0.810
+[2018.05.12-10.31.02:317][872]LogSavePackage: Save=591.87ms
+[2018.05.12-10.31.02:317][872]LogSavePackage: Moving '../../../../../../Users/James/Documents/GitHub/FMP/FMP/Saved/Tent_OBJ_initialShadingGroup_colDB16C12447A86DD5DD4C758809208986.tmp' to '../../../../../../Users/James/Documents/GitHub/FMP/FMP/Content/Textures/Tent/Tent_OBJ_initialShadingGroup_color.uasset'
+[2018.05.12-10.31.02:326][872]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/James/Documents/GitHub/FMP/FMP/Content/Textures/Tent/Tent_OBJ_initialShadingGroup_color.uasset
+[2018.05.12-10.31.03:039][872]LogSavePackage: Save=674.56ms
+[2018.05.12-10.31.03:039][872]LogSavePackage: Moving '../../../../../../Users/James/Documents/GitHub/FMP/FMP/Saved/Tent_OBJ_initialShadingGroup_nmaBB6BB18B4F5DD8A2FB91B8B296E7F0A8.tmp' to '../../../../../../Users/James/Documents/GitHub/FMP/FMP/Content/Textures/Tent/Tent_OBJ_initialShadingGroup_nmap.uasset'
+[2018.05.12-10.31.03:048][872]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/James/Documents/GitHub/FMP/FMP/Content/Textures/Tent/Tent_OBJ_initialShadingGroup_nmap.uasset
+[2018.05.12-10.31.03:052][872]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Tent_Rope/Rope_Mat" FILE="../../../../../../Users/James/Documents/GitHub/FMP/FMP/Content/Textures/Tent_Rope/Rope_Mat.uasset" SILENT=true
+[2018.05.12-10.31.03:096][872]LogSavePackage: Save=20.28ms
+[2018.05.12-10.31.03:096][872]LogSavePackage: Moving '../../../../../../Users/James/Documents/GitHub/FMP/FMP/Saved/Rope_Mat7C1363C14197FF9CCB7DDB9B0733562D.tmp' to '../../../../../../Users/James/Documents/GitHub/FMP/FMP/Content/Textures/Tent_Rope/Rope_Mat.uasset'
+[2018.05.12-10.31.03:103][872]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/James/Documents/GitHub/FMP/FMP/Content/Textures/Tent_Rope/Rope_Mat.uasset
+[2018.05.12-10.31.03:225][872]LogSlate: Window 'FMP - Unreal Editor' being destroyed
+[2018.05.12-10.31.03:520][873]Cmd: QUIT_EDITOR
+[2018.05.12-10.31.03:691][873]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.05.12-10.31.03:720][873]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.05.12-10.31.03:721][873]LogExit: Preparing to exit.
+[2018.05.12-10.31.04:110][873]LogDirectoryWatcher: A directory notification for 'C:/Users/James/Documents/GitHub/FMP/FMP/Content/' was aborted.
+[2018.05.12-10.31.04:224][873]LogExit: Editor shut down
+[2018.05.12-10.31.04:266][873]LogExit: Transaction tracking system shut down
+[2018.05.12-10.31.04:268][873]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024487757580, Size=440
+[2018.05.12-10.31.04:268][873]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024486cedd00, Size=264
+[2018.05.12-10.31.04:359][873]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024511c769a0, Size=4
+[2018.05.12-10.31.04:360][873]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024511c76bc8, Size=4
+[2018.05.12-10.31.04:667][873]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.05.12-10.31.04:667][873]LogDirectoryWatcher: A directory notification for '../../../../../../Users/James/Documents/GitHub/FMP/FMP/Content/' was aborted.
+[2018.05.12-10.31.04:667][873]LogDirectoryWatcher: A directory notification for '../../Plugins/2D/Paper2D/Content/' was aborted.
+[2018.05.12-10.31.04:667][873]LogDirectoryWatcher: A directory notification for '../../Plugins/Enterprise/DatasmithContent/Content/' was aborted.
+[2018.05.12-10.31.04:668][873]LogDirectoryWatcher: A directory notification for '../../Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.05.12-10.31.04:668][873]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.05.12-10.31.04:668][873]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.05.12-10.31.04:668][873]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.05.12-10.31.05:157][873]LogExit: Object subsystem successfully closed.
+[2018.05.12-10.31.05:200][873]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.05.12-10.31.05:202][873]LogD3D11RHI: Shutdown
+[2018.05.12-10.31.05:202][873]LogD3D11RHI: CleanupD3DDevice
+[2018.05.12-10.31.05:242][873]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.05.12-10.31.05:285][873]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (582)
+[2018.05.12-10.31.05:285][873]LogModuleManager: Shutting down and abandoning module BlueprintGraph (580)
+[2018.05.12-10.31.05:285][873]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (578)
+[2018.05.12-10.31.05:285][873]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (576)
+[2018.05.12-10.31.05:285][873]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (574)
+[2018.05.12-10.31.05:285][873]LogModuleManager: Shutting down and abandoning module SceneOutliner (572)
+[2018.05.12-10.31.05:285][873]LogModuleManager: Shutting down and abandoning module AddContentDialog (570)
+[2018.05.12-10.31.05:286][873]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.19/FeaturePacks/' was aborted.
+[2018.05.12-10.31.05:294][873]LogModuleManager: Shutting down and abandoning module WidgetCarousel (569)
+[2018.05.12-10.31.05:294][873]LogModuleManager: Shutting down and abandoning module EditorWidgets (566)
+[2018.05.12-10.31.05:294][873]LogModuleManager: Shutting down and abandoning module CollectionManager (564)
+[2018.05.12-10.31.05:294][873]LogDirectoryWatcher: A directory notification for 'C:/Users/James/Documents/GitHub/FMP/FMP/Content/Collections/' was aborted.
+[2018.05.12-10.31.05:294][873]LogDirectoryWatcher: A directory notification for 'C:/Users/James/Documents/GitHub/FMP/FMP/Content/Developers/James/Collections/' was aborted.
+[2018.05.12-10.31.05:295][873]LogDirectoryWatcher: A directory notification for 'C:/Users/James/Documents/GitHub/FMP/FMP/Saved/Collections/' was aborted.
+[2018.05.12-10.31.05:295][873]LogModuleManager: Shutting down and abandoning module StatsViewer (562)
+[2018.05.12-10.31.05:295][873]LogModuleManager: Shutting down and abandoning module FoliageEdit (560)
+[2018.05.12-10.31.05:295][873]LogModuleManager: Shutting down and abandoning module LandscapeEditor (558)
+[2018.05.12-10.31.05:295][873]LogModuleManager: Shutting down and abandoning module MeshPaintMode (556)
+[2018.05.12-10.31.05:295][873]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (554)
+[2018.05.12-10.31.05:295][873]LogModuleManager: Shutting down and abandoning module ActorPickerMode (552)
+[2018.05.12-10.31.05:295][873]LogModuleManager: Shutting down and abandoning module GeometryMode (550)
+[2018.05.12-10.31.05:295][873]LogModuleManager: Shutting down and abandoning module TextureAlignMode (548)
+[2018.05.12-10.31.05:295][873]LogModuleManager: Shutting down and abandoning module BspMode (546)
+[2018.05.12-10.31.05:295][873]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (544)
+[2018.05.12-10.31.05:296][873]LogModuleManager: Shutting down and abandoning module HardwareSurvey (542)
+[2018.05.12-10.31.05:296][873]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (540)
+[2018.05.12-10.31.05:296][873]LogModuleManager: Shutting down and abandoning module AutomationWorker (538)
+[2018.05.12-10.31.05:296][873]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (536)
+[2018.05.12-10.31.05:296][873]LogModuleManager: Shutting down and abandoning module SequenceRecorder (535)
+[2018.05.12-10.31.05:296][873]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (532)
+[2018.05.12-10.31.05:296][873]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (530)
+[2018.05.12-10.31.05:296][873]LogModuleManager: Shutting down and abandoning module PlacementMode (529)
+[2018.05.12-10.31.05:296][873]LogModuleManager: Shutting down and abandoning module MaterialEditor (528)
+[2018.05.12-10.31.05:296][873]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (524)
+[2018.05.12-10.31.05:296][873]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (522)
+[2018.05.12-10.31.05:296][873]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (520)
+[2018.05.12-10.31.05:296][873]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (518)
+[2018.05.12-10.31.05:296][873]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (516)
+[2018.05.12-10.31.05:296][873]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (514)
+[2018.05.12-10.31.05:296][873]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (512)
+[2018.05.12-10.31.05:296][873]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (510)
+[2018.05.12-10.31.05:296][873]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (508)
+[2018.05.12-10.31.05:296][873]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (506)
+[2018.05.12-10.31.05:296][873]LogModuleManager: Shutting down and abandoning module CharacterAI (504)
+[2018.05.12-10.31.05:296][873]LogModuleManager: Shutting down and abandoning module SmartSnapping (502)
+[2018.05.12-10.31.05:296][873]LogModuleManager: Shutting down and abandoning module SessionServices (500)
+[2018.05.12-10.31.05:296][873]LogModuleManager: Shutting down and abandoning module ViewportSnapping (498)
+[2018.05.12-10.31.05:296][873]LogModuleManager: Shutting down and abandoning module ViewportInteraction (496)
+[2018.05.12-10.31.05:296][873]LogModuleManager: Shutting down and abandoning module ClothPainter (494)
+[2018.05.12-10.31.05:297][873]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (493)
+[2018.05.12-10.31.05:297][873]LogModuleManager: Shutting down and abandoning module LogVisualizer (490)
+[2018.05.12-10.31.05:297][873]LogModuleManager: Shutting down and abandoning module IntroTutorials (488)
+[2018.05.12-10.31.05:297][873]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (487)
+[2018.05.12-10.31.05:297][873]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (484)
+[2018.05.12-10.31.05:297][873]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (482)
+[2018.05.12-10.31.05:297][873]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (480)
+[2018.05.12-10.31.05:297][873]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (479)
+[2018.05.12-10.31.05:793][873]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (476)
+[2018.05.12-10.31.05:793][873]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (474)
+[2018.05.12-10.31.05:793][873]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (472)
+[2018.05.12-10.31.05:793][873]LogModuleManager: Shutting down and abandoning module InputBindingEditor (470)
+[2018.05.12-10.31.05:793][873]LogModuleManager: Shutting down and abandoning module MergeActors (468)
+[2018.05.12-10.31.05:793][873]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (466)
+[2018.05.12-10.31.05:793][873]LogModuleManager: Shutting down and abandoning module LocalizationService (465)
+[2018.05.12-10.31.05:793][873]LogModuleManager: Shutting down and abandoning module HardwareTargeting (462)
+[2018.05.12-10.31.05:793][873]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (460)
+[2018.05.12-10.31.05:793][873]LogModuleManager: Shutting down and abandoning module UndoHistory (458)
+[2018.05.12-10.31.05:793][873]LogModuleManager: Shutting down and abandoning module XmlParser (456)
+[2018.05.12-10.31.05:793][873]LogModuleManager: Shutting down and abandoning module Blutility (454)
+[2018.05.12-10.31.05:793][873]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (452)
+[2018.05.12-10.31.05:793][873]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (451)
+[2018.05.12-10.31.05:794][873]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (448)
+[2018.05.12-10.31.05:794][873]LogModuleManager: Shutting down and abandoning module SettingsEditor (446)
+[2018.05.12-10.31.05:794][873]LogModuleManager: Shutting down and abandoning module ProjectLauncher (444)
+[2018.05.12-10.31.05:794][873]LogModuleManager: Shutting down and abandoning module SessionFrontend (442)
+[2018.05.12-10.31.05:794][873]LogModuleManager: Shutting down and abandoning module ProfilerClient (440)
+[2018.05.12-10.31.05:794][873]LogModuleManager: Shutting down and abandoning module DeviceManager (438)
+[2018.05.12-10.31.05:794][873]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (437)
+[2018.05.12-10.31.05:848][873]LogModuleManager: Shutting down and abandoning module AutomationController (434)
+[2018.05.12-10.31.05:848][873]LogModuleManager: Shutting down and abandoning module AutomationWindow (432)
+[2018.05.12-10.31.05:848][873]LogModuleManager: Shutting down and abandoning module Layers (430)
+[2018.05.12-10.31.05:848][873]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (428)
+[2018.05.12-10.31.05:848][873]LogModuleManager: Shutting down and abandoning module DetailCustomizations (426)
+[2018.05.12-10.31.05:848][873]LogModuleManager: Shutting down and abandoning module PackagesDialog (424)
+[2018.05.12-10.31.05:848][873]LogModuleManager: Shutting down and abandoning module Persona (422)
+[2018.05.12-10.31.05:848][873]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (421)
+[2018.05.12-10.31.05:848][873]LogModuleManager: Shutting down and abandoning module AnimGraph (419)
+[2018.05.12-10.31.05:848][873]LogModuleManager: Shutting down and abandoning module Kismet (416)
+[2018.05.12-10.31.05:861][873]LogModuleManager: Shutting down and abandoning module GraphEditor (414)
+[2018.05.12-10.31.05:861][873]LogModuleManager: Shutting down and abandoning module ClassViewer (412)
+[2018.05.12-10.31.05:861][873]LogModuleManager: Shutting down and abandoning module Toolbox (410)
+[2018.05.12-10.31.05:861][873]LogModuleManager: Shutting down and abandoning module ModuleUI (408)
+[2018.05.12-10.31.05:861][873]LogModuleManager: Shutting down and abandoning module MovieSceneTools (406)
+[2018.05.12-10.31.05:862][873]LogModuleManager: Shutting down and abandoning module OutputLog (404)
+[2018.05.12-10.31.05:862][873]LogModuleManager: Shutting down and abandoning module GammaUI (402)
+[2018.05.12-10.31.05:862][873]LogModuleManager: Shutting down and abandoning module Documentation (400)
+[2018.05.12-10.31.05:862][873]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (398)
+[2018.05.12-10.31.05:862][873]LogModuleManager: Shutting down and abandoning module MovieScene (396)
+[2018.05.12-10.31.05:862][873]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (394)
+[2018.05.12-10.31.05:862][873]LogModuleManager: Shutting down and abandoning module LauncherPlatform (392)
+[2018.05.12-10.31.05:862][873]LogModuleManager: Shutting down and abandoning module AnalyticsET (390)
+[2018.05.12-10.31.05:862][873]LogModuleManager: Shutting down and abandoning module PortalServices (388)
+[2018.05.12-10.31.05:862][873]LogModuleManager: Shutting down and abandoning module PortalRpc (386)
+[2018.05.12-10.31.05:862][873]LogModuleManager: Shutting down and abandoning module MessagingRpc (384)
+[2018.05.12-10.31.05:862][873]LogModuleManager: Shutting down and abandoning module AIModule (382)
+[2018.05.12-10.31.05:862][873]LogModuleManager: Shutting down and abandoning module GameplayDebugger (381)
+[2018.05.12-10.31.05:862][873]LogModuleManager: Shutting down and abandoning module AITestSuite (379)
+[2018.05.12-10.31.05:862][873]LogModuleManager: Shutting down and abandoning module DesktopPlatform (376)
+[2018.05.12-10.31.05:862][873]LogModuleManager: Shutting down and abandoning module ProfilerService (374)
+[2018.05.12-10.31.05:906][873]LogModuleManager: Shutting down and abandoning module TaskGraph (372)
+[2018.05.12-10.31.05:906][873]LogModuleManager: Shutting down and abandoning module SteamVRController (370)
+[2018.05.12-10.31.05:906][873]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (368)
+[2018.05.12-10.31.05:906][873]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (366)
+[2018.05.12-10.31.05:906][873]LogModuleManager: Shutting down and abandoning module OculusInput (364)
+[2018.05.12-10.31.05:906][873]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (362)
+[2018.05.12-10.31.05:906][873]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (360)
+[2018.05.12-10.31.05:906][873]LogModuleManager: Shutting down and abandoning module CableComponent (358)
+[2018.05.12-10.31.05:906][873]LogModuleManager: Shutting down and abandoning module AudioCapture (356)
+[2018.05.12-10.31.05:906][873]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (354)
+[2018.05.12-10.31.05:906][873]LogModuleManager: Shutting down and abandoning module AndroidPermission (352)
+[2018.05.12-10.31.05:906][873]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (348)
+[2018.05.12-10.31.05:906][873]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (346)
+[2018.05.12-10.31.05:906][873]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (344)
+[2018.05.12-10.31.05:906][873]LogModuleManager: Shutting down and abandoning module MediaCompositing (342)
+[2018.05.12-10.31.05:906][873]LogModuleManager: Shutting down and abandoning module LinearTimecode (340)
+[2018.05.12-10.31.05:906][873]LogModuleManager: Shutting down and abandoning module ImgMedia (338)
+[2018.05.12-10.31.05:913][873]LogModuleManager: Shutting down and abandoning module HTML5Networking (336)
+[2018.05.12-10.31.05:913][873]LogModuleManager: Shutting down and abandoning module AlembicImporter (334)
+[2018.05.12-10.31.05:913][873]LogModuleManager: Shutting down and abandoning module AlembicLibrary (333)
+[2018.05.12-10.31.05:913][873]LogModuleManager: Shutting down and abandoning module GeometryCache (332)
+[2018.05.12-10.31.05:913][873]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (331)
+[2018.05.12-10.31.05:913][873]LogModuleManager: Shutting down and abandoning module DatasmithContent (326)
+[2018.05.12-10.31.05:913][873]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (324)
+[2018.05.12-10.31.05:913][873]LogModuleManager: Shutting down and abandoning module PluginBrowser (322)
+[2018.05.12-10.31.05:913][873]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (320)
+[2018.05.12-10.31.05:913][873]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (318)
+[2018.05.12-10.31.05:914][873]LogModuleManager: Shutting down and abandoning module CryptoKeys (316)
+[2018.05.12-10.31.05:914][873]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (314)
+[2018.05.12-10.31.05:914][873]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (312)
+[2018.05.12-10.31.05:914][873]LogModuleManager: Shutting down and abandoning module UObjectPlugin (310)
+[2018.05.12-10.31.05:914][873]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (308)
+[2018.05.12-10.31.05:914][873]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (306)
+[2018.05.12-10.31.05:914][873]LogModuleManager: Shutting down and abandoning module GitSourceControl (304)
+[2018.05.12-10.31.05:914][873]LogModuleManager: Shutting down and abandoning module SourceControl (303)
+[2018.05.12-10.31.05:914][873]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (300)
+[2018.05.12-10.31.05:914][873]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (298)
+[2018.05.12-10.31.05:914][873]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (296)
+[2018.05.12-10.31.05:914][873]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (294)
+[2018.05.12-10.31.05:914][873]LogModuleManager: Shutting down and abandoning module Paper2DEditor (292)
+[2018.05.12-10.31.05:914][873]LogModuleManager: Shutting down and abandoning module MeshPaint (291)
+[2018.05.12-10.31.05:914][873]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (288)
+[2018.05.12-10.31.05:914][873]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (286)
+[2018.05.12-10.31.05:914][873]LogModuleManager: Shutting down and abandoning module PhysXVehicles (284)
+[2018.05.12-10.31.05:914][873]LogModuleManager: Shutting down and abandoning module OculusEditor (282)
+[2018.05.12-10.31.05:914][873]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (280)
+[2018.05.12-10.31.05:914][873]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (278)
+[2018.05.12-10.31.05:914][873]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (276)
+[2018.05.12-10.31.05:914][873]LogModuleManager: Shutting down and abandoning module ActorSequence (274)
+[2018.05.12-10.31.05:914][873]LogModuleManager: Shutting down and abandoning module UdpMessaging (272)
+[2018.05.12-10.31.06:015][873]LogModuleManager: Shutting down and abandoning module TcpMessaging (270)
+[2018.05.12-10.31.06:116][873]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (268)
+[2018.05.12-10.31.06:116][873]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (266)
+[2018.05.12-10.31.06:116][873]LogModuleManager: Shutting down and abandoning module FacialAnimation (264)
+[2018.05.12-10.31.06:116][873]LogModuleManager: Shutting down and abandoning module DataValidation (262)
+[2018.05.12-10.31.06:116][873]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (260)
+[2018.05.12-10.31.06:116][873]LogModuleManager: Shutting down and abandoning module LevelEditor (259)
+[2018.05.12-10.31.06:118][873]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (258)
+[2018.05.12-10.31.06:118][873]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (256)
+[2018.05.12-10.31.06:119][873]LogModuleManager: Shutting down and abandoning module MainFrame (254)
+[2018.05.12-10.31.06:119][873]LogModuleManager: Shutting down and abandoning module HotReload (253)
+[2018.05.12-10.31.06:120][873]LogModuleManager: Shutting down and abandoning module ContentBrowser (249)
+[2018.05.12-10.31.06:123][873]LogModuleManager: Shutting down and abandoning module TreeMap (247)
+[2018.05.12-10.31.06:124][873]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (244)
+[2018.05.12-10.31.06:124][873]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (242)
+[2018.05.12-10.31.06:124][873]LogModuleManager: Shutting down and abandoning module LiveLink (240)
+[2018.05.12-10.31.06:794][873]LogModuleManager: Shutting down and abandoning module Paper2D (238)
+[2018.05.12-10.31.06:794][873]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (236)
+[2018.05.12-10.31.06:794][873]LogModuleManager: Shutting down and abandoning module WmfMedia (234)
+[2018.05.12-10.31.06:796][873]LogModuleManager: Shutting down and abandoning module Media (233)
+[2018.05.12-10.31.06:803][873]LogModuleManager: Shutting down and abandoning module PacketHandler (230)
+[2018.05.12-10.31.06:803][873]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (228)
+[2018.05.12-10.31.06:803][873]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (226)
+[2018.05.12-10.31.06:803][873]LogModuleManager: Shutting down and abandoning module MediaAssets (224)
+[2018.05.12-10.31.06:803][873]LogModuleManager: Shutting down and abandoning module Overlay (222)
+[2018.05.12-10.31.06:803][873]LogModuleManager: Shutting down and abandoning module OverlayEditor (221)
+[2018.05.12-10.31.06:803][873]LogModuleManager: Shutting down and abandoning module VREditor (218)
+[2018.05.12-10.31.06:803][873]LogModuleManager: Shutting down and abandoning module StringTableEditor (216)
+[2018.05.12-10.31.06:803][873]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (214)
+[2018.05.12-10.31.06:803][873]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (212)
+[2018.05.12-10.31.06:803][873]LogModuleManager: Shutting down and abandoning module FunctionalTesting (210)
+[2018.05.12-10.31.06:803][873]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (208)
+[2018.05.12-10.31.06:803][873]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (207)
+[2018.05.12-10.31.06:803][873]LogModuleManager: Shutting down and abandoning module UMG (204)
+[2018.05.12-10.31.06:803][873]LogModuleManager: Shutting down and abandoning module UMGEditor (203)
+[2018.05.12-10.31.06:803][873]LogModuleManager: Shutting down and abandoning module Sequencer (202)
+[2018.05.12-10.31.06:803][873]LogModuleManager: Shutting down and abandoning module MessageLog (199)
+[2018.05.12-10.31.06:803][873]LogModuleManager: Shutting down and abandoning module SlateReflector (194)
+[2018.05.12-10.31.06:803][873]LogModuleManager: Shutting down and abandoning module Slate (192)
+[2018.05.12-10.31.06:803][873]LogModuleManager: Shutting down and abandoning module EditorStyle (190)
+[2018.05.12-10.31.06:806][873]LogModuleManager: Shutting down and abandoning module MRMesh (188)
+[2018.05.12-10.31.06:806][873]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (186)
+[2018.05.12-10.31.06:806][873]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (184)
+[2018.05.12-10.31.06:806][873]LogModuleManager: Shutting down and abandoning module XAudio2 (182)
+[2018.05.12-10.31.06:806][873]LogModuleManager: Shutting down and abandoning module Networking (180)
+[2018.05.12-10.31.06:806][873]LogModuleManager: Shutting down and abandoning module Core (178)
+[2018.05.12-10.31.06:806][873]LogModuleManager: Shutting down and abandoning module LevelSequence (176)
+[2018.05.12-10.31.06:806][873]LogModuleManager: Shutting down and abandoning module KismetCompiler (174)
+[2018.05.12-10.31.06:806][873]LogModuleManager: Shutting down and abandoning module MeshUtilities (172)
+[2018.05.12-10.31.06:807][873]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (171)
+[2018.05.12-10.31.06:807][873]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (170)
+[2018.05.12-10.31.06:807][873]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (169)
+[2018.05.12-10.31.06:807][873]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (167)
+[2018.05.12-10.31.06:807][873]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (165)
+[2018.05.12-10.31.06:807][873]LogModuleManager: Shutting down and abandoning module MaterialBaking (161)
+[2018.05.12-10.31.06:807][873]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (157)
+[2018.05.12-10.31.06:819][873]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2018.05.12-10.31.06:876][873]LogDerivedDataCache: Shutdown
+[2018.05.12-10.31.06:876][873]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2018.05.12-10.31.06:876][873]LogXGEController: Cleaning working directory: C:/Users/James/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.05.12-10.31.06:876][873]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2018.05.12-10.31.06:876][873]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2018.05.12-10.31.06:876][873]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2018.05.12-10.31.06:877][873]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2018.05.12-10.31.06:877][873]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2018.05.12-10.31.06:877][873]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2018.05.12-10.31.06:877][873]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2018.05.12-10.31.06:877][873]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2018.05.12-10.31.06:877][873]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2018.05.12-10.31.06:877][873]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2018.05.12-10.31.06:877][873]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2018.05.12-10.31.06:877][873]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2018.05.12-10.31.06:877][873]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2018.05.12-10.31.06:877][873]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2018.05.12-10.31.06:877][873]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2018.05.12-10.31.06:877][873]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2018.05.12-10.31.06:877][873]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (119)
+[2018.05.12-10.31.06:877][873]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (117)
+[2018.05.12-10.31.06:878][873]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (115)
+[2018.05.12-10.31.06:878][873]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (113)
+[2018.05.12-10.31.06:878][873]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (111)
+[2018.05.12-10.31.06:878][873]LogModuleManager: Shutting down and abandoning module Messaging (109)
+[2018.05.12-10.31.06:878][873]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (107)
+[2018.05.12-10.31.06:878][873]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (105)
+[2018.05.12-10.31.06:878][873]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (103)
+[2018.05.12-10.31.06:878][873]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (101)
+[2018.05.12-10.31.06:878][873]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (99)
+[2018.05.12-10.31.06:878][873]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (97)
+[2018.05.12-10.31.06:878][873]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (95)
+[2018.05.12-10.31.06:878][873]LogModuleManager: Shutting down and abandoning module Android_ETC1aTargetPlatform (93)
+[2018.05.12-10.31.06:878][873]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (91)
+[2018.05.12-10.31.06:878][873]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (89)
+[2018.05.12-10.31.06:878][873]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (87)
+[2018.05.12-10.31.06:878][873]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (85)
+[2018.05.12-10.31.06:878][873]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (83)
+[2018.05.12-10.31.06:878][873]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (81)
+[2018.05.12-10.31.06:878][873]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (79)
+[2018.05.12-10.31.06:878][873]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (77)
+[2018.05.12-10.31.06:878][873]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (75)
+[2018.05.12-10.31.06:878][873]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (73)
+[2018.05.12-10.31.06:878][873]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (71)
+[2018.05.12-10.31.06:879][873]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (69)
+[2018.05.12-10.31.06:879][873]LogModuleManager: Shutting down and abandoning module InputCore (66)
+[2018.05.12-10.31.06:879][873]LogModuleManager: Shutting down and abandoning module Settings (64)
+[2018.05.12-10.31.06:879][873]LogModuleManager: Shutting down and abandoning module PhysXCooking (62)
+[2018.05.12-10.31.06:879][873]LogModuleManager: Shutting down and abandoning module SteamVR (60)
+[2018.05.12-10.31.06:879][873]LogModuleManager: Shutting down and abandoning module OculusHMD (58)
+[2018.05.12-10.31.06:879][873]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (56)
+[2018.05.12-10.31.06:879][873]LogModuleManager: Shutting down and abandoning module AppleARKit (54)
+[2018.05.12-10.31.06:879][873]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.05.12-10.31.06:879][873]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.05.12-10.31.06:879][873]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.05.12-10.31.06:879][873]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.05.12-10.31.06:879][873]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.05.12-10.31.06:879][873]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.05.12-10.31.06:879][873]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BDB7455B4-4177-1214-4577-5CAE57DFBF0E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.19.2-4033788%2B%2B%2BUE4%2BRelease-4.19&UserID=68f625494a4c91fa125b56872b592b27%7C0cc6c1275bef46e4a668b4810d6f3264%7C54152b77-585d-4d99-acc0-49d4c7235ce5&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.05.12-10.31.06:888][873]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.05.12-10.31.06:891][873]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.05.12-10.31.06:891][873]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.05.12-10.31.06:891][873]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.05.12-10.31.06:891][873]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.05.12-10.31.06:891][873]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.05.12-10.31.06:891][873]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.05.12-10.31.06:891][873]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.05.12-10.31.06:897][873]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.05.12-10.31.06:897][873]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.05.12-10.31.06:897][873]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.05.12-10.31.06:897][873]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.05.12-10.31.06:897][873]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.05.12-10.31.06:897][873]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.05.12-10.31.06:897][873]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.05.12-10.31.06:897][873]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.05.12-10.31.06:897][873]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.05.12-10.31.06:897][873]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.05.12-10.31.06:897][873]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.05.12-10.31.06:904][873]LogExit: Exiting.
+[2018.05.12-10.31.06:933][873]Log file closed, 05/12/18 11:31:06
